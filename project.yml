@@ -35,6 +35,8 @@ targets:
         LSUIElement: true
         LSApplicationCategoryType: public.app-category.utilities
         CFBundleDisplayName: Wakeful
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         CFBundleDevelopmentRegion: en
         CFBundleAllowMixedLocalizations: true
         ITSAppUsesNonExemptEncryption: false
@@ -69,6 +71,8 @@ targets:
       path: WakefulWidgets/Info.plist
       properties:
         CFBundleDisplayName: Wakeful
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         CFBundleDevelopmentRegion: en
         WakefulAppGroup: $(TeamIdentifierPrefix)com.dionlima.wakeful
         NSExtension:

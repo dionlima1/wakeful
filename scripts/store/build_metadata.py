@@ -16,7 +16,6 @@ OUTPUT = ROOT / "fastlane" / "metadata"
 
 SITE = "https://dionlima1.github.io/wakeful"
 COPYRIGHT = "2026 Dion Lima"
-SUPPORT_EMAIL = "YOUR-EMAIL@example.com"  # fill in before uploading
 
 # App Store Connect locale -> source language file (same mapping as the screenshot renderer).
 STORE_LOCALES = {
@@ -100,12 +99,13 @@ def main():
     write(OUTPUT / "copyright.txt", COPYRIGHT)
     write(OUTPUT / "primary_category.txt", "UTILITIES")
     write(OUTPUT / "secondary_category.txt", "PRODUCTIVITY")
+    # Contact phone and e-mail come from REVIEW_PHONE / REVIEW_EMAIL at upload time (see fastlane/Fastfile),
+    # so they never land in this public repository.
     review = OUTPUT / "review_information"
+    for private in ("email_address.txt", "phone_number.txt"):
+        (review / private).unlink(missing_ok=True)
     write(review / "first_name.txt", "Dion")
     write(review / "last_name.txt", "Lima")
-    write(review / "email_address.txt", SUPPORT_EMAIL)
-    if not (review / "phone_number.txt").exists():
-        write(review / "phone_number.txt", "+55 00 00000-0000")
     write(review / "demo_required.txt", "false")
     write(review / "notes.txt", (ROOT / "store" / "review-notes.txt").read_text(encoding="utf-8"))
 

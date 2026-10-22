@@ -1,0 +1,57 @@
+# Release lane: uploads the App Store page (39 locales) and submits the uploaded build for review.
+#
+# Needs an App Store Connect API key (Admin or App Manager role) and the App Review contact,
+# which stays out of the repository:
+#   export ASC_KEY_ID=XXXXXXXXXX
+#   export ASC_ISSUER_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+#   export ASC_KEY_PATH=~/path/to/AuthKey_XXXXXXXXXX.p8
+#   export REVIEW_PHONE="+55 ..." REVIEW_EMAIL="you@example.com"
+#
+#   fastlane mac metadata   # page only, no review
+#   fastlane mac submit     # page + submit the latest build for review
+default_platform(:mac)
+
+platform :mac do
+  before_all do
+    app_store_connect_api_key(
+      key_id: ENV.fetch("ASC_KEY_ID"),
+      issuer_id: ENV.fetch("ASC_ISSUER_ID"),
+      key_filepath: File.expand_path(ENV.fetch("ASC_KEY_PATH"))
+    )
+  end
+
+  def review_information
+    {
+      first_name: "Dion",
+      last_name: "Lima",
+      phone_number: ENV.fetch("REVIEW_PHONE"),
+      email_address: ENV.fetch("REVIEW_EMAIL"),
+      demo_required: false,
+      notes: File.read(File.expand_path("../store/review-notes.txt", __dir__))
+    }
+  end
+
+  lane :metadata do
+    deliver(
+      app_version: "1.0.0",
+      skip_binary_upload: true,
+      submit_for_review: false,
+      app_review_information: review_information
+    )
+  end
+
+  lane :submit do
+    deliver(
+      app_version: "1.0.0",
+      skip_binary_upload: true,
+      submit_for_review: true,
+      app_review_information: review_information,
+      automatic_release: true,
+      submission_information: {
+        add_id_info_uses_idfa: false,
+        export_compliance_uses_encryption: false,
+        content_rights_contains_third_party_content: false
+      }
+    )
+  end
+end

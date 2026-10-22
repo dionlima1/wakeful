@@ -7,3 +7,5 @@ fastlane/screenshots/
 fastlane/app-store-connect-key.json
 fastlane/report.xml
 fastlane/README.md
+*.p8
+fastlane/fastlane-session*
