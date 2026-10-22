@@ -1,0 +1,36 @@
+name: Wakeful: Håll din Mac vaken
+subtitle: Anti-vila, timer och AI
+keywords: vila,viloläge,sömn,skärmsläckare,skärm,stängt lock,batteri,timer,menyrad,koffein,kodning
+promo: Dina AI-agenter och långa byggen blir klara i stället för att stanna när datorn slumrar till. Ett klick, smarta utlösare, ingen prenumeration.
+iap: AI-agenter, utlösare, stängt lock, historik
+---
+Wakeful håller din Mac vaken precis när du behöver det och låter den vila resten av tiden.
+
+Klicka på koppen i menyraden så att datorn inte försätts i vila, tonar ned skärmen eller startar skärmsläckaren. Välj en timer eller låt Wakeful bestämma själv.
+
+BYGGD FÖR AI-AGENTER OCH LÅNGA UPPGIFTER
+• Förblir vaken medan Claude Code, Codex, Gemini eller någon agent du lägger till arbetar, och låter datorn vila när de är klara
+• Håller datorn vaken tills ett kommando, skript eller en app är klar
+• Kommandoradsverktyg och URL-schema för skript, Raycast och Alfred
+
+GRATIS
+• Slå på och av med ett klick i menyraden
+• Timers från 15 minuter till 8 timmar, eller valfri längd
+• Nedräkning i realtid i menyraden
+• Globalt kortkommando
+• Håll bara systemet vaket och låt skärmen vila
+• Batteriskydd: stoppar på batteri eller under en viss laddningsnivå
+• Genvägsåtgärder, skrivbordswidget och reglage i Kontrollcenter (macOS 26)
+• Öppnas vid inloggning och meddelar när en session slutar
+
+WAKEFUL PRO (ENGÅNGSKÖP)
+• AI-agentläge
+• Automatiska utlösare: extern skärm, strömadapter, wifi-nätverk, appar, videosamtal och scheman
+• Håll vaken medan en process eller app körs
+• Fortsätt arbeta med locket stängt medan datorn är ansluten till ström
+• Historik över hur länge, och varför, datorn var vaken
+
+PRIVAT FRÅN GRUNDEN
+Inget konto, ingen reklam, ingen spårning. Allt stannar på din Mac.
+
+macOS tillåter bara att en Mac hålls vaken med locket stängt när den är ansluten till ström.

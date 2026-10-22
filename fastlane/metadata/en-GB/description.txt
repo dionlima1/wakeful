@@ -1,0 +1,30 @@
+Wakeful keeps your Mac awake exactly when you need it, and lets it sleep the rest of the time.
+
+Click the cup in the menu bar to stop your Mac from sleeping, dimming the screen or starting the screen saver. Pick a timer, or let Wakeful decide on its own.
+
+BUILT FOR AI AGENTS AND LONG TASKS
+• Stays awake while Claude Code, Codex, Gemini or any agent you add is working, then lets your Mac sleep when they finish
+• Keep awake until a command, script or app finishes
+• Command-line helper and URL scheme for scripts, Raycast and Alfred
+
+FREE
+• One-click toggle from the menu bar
+• Timers from 15 minutes to 8 hours, or any custom duration
+• Live countdown in the menu bar
+• Global keyboard shortcut
+• Keep only the system awake and let the display sleep
+• Battery protection: stop on battery or below a charge level
+• Shortcuts actions, a desktop widget and a Control Center control (macOS 26)
+• Launch at login and a notification when a session ends
+
+WAKEFUL PRO (ONE-TIME PURCHASE)
+• AI agent mode
+• Automatic triggers: external display, power adapter, Wi‑Fi network, apps, video calls and schedules
+• Keep awake while a process or app is running
+• Keep working with the lid closed while plugged in
+• History of how long, and why, your Mac stayed awake
+
+PRIVATE BY DESIGN
+No account, no ads, no tracking. Everything stays on your Mac.
+
+macOS only allows a Mac to stay awake with the lid closed while it is connected to power.

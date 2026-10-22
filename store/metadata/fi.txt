@@ -1,0 +1,36 @@
+name: Wakeful: Pidä Mac hereillä
+subtitle: Lepoesto, ajastin ja tekoäly
+keywords: lepo,uni,unettomuus,näytönsäästäjä,näyttö,kansi kiinni,akku,ajastin,valikkorivi,kofeiini,koodaus
+promo: Tekoälyagenttisi ja pitkät käännökset valmistuvat sen sijaan, että pysähtyisivät Macin nukahtaessa. Yksi klikkaus, fiksut laukaisimet, ei tilausta.
+iap: Tekoälyagentit, laukaisimet, kansi, historia
+---
+Wakeful pitää Macisi hereillä juuri silloin, kun tarvitset, ja antaa sen levätä muun ajan.
+
+Klikkaa valikkorivin kuppia, niin Mac ei mene lepoon, himmennä näyttöä tai käynnistä näytönsäästäjää. Valitse ajastin tai anna Wakefulin päättää itse.
+
+TEHTY TEKOÄLYAGENTEILLE JA PITKILLE TÖILLE
+• Pysyy hereillä, kun Claude Code, Codex, Gemini tai mikä tahansa lisäämäsi agentti työskentelee, ja antaa Macin levätä, kun ne ovat valmiita
+• Pitää Macin hereillä, kunnes komento, skripti tai appi on valmis
+• Komentorivityökalu ja URL-skeema skripteille, Raycastille ja Alfredille
+
+ILMAINEN
+• Päälle ja pois yhdellä klikkauksella valikkoriviltä
+• Ajastimet 15 minuutista 8 tuntiin tai mikä tahansa kesto
+• Reaaliaikainen lähtölaskenta valikkorivillä
+• Yleinen pikanäppäin
+• Pidä vain järjestelmä hereillä ja anna näytön levätä
+• Akun suojaus: pysähtyy akkuvirralla tai tietyn varaustason alapuolella
+• Pikakomennot-toiminnot, työpöytäwidget ja säädin Ohjauskeskuksessa (macOS 26)
+• Avautuu sisäänkirjautuessa ja ilmoittaa, kun istunto päättyy
+
+WAKEFUL PRO (KERTAOSTO)
+• Tekoälyagenttitila
+• Automaattiset laukaisimet: ulkoinen näyttö, virtalähde, Wi-Fi-verkko, apit, videopuhelut ja aikataulut
+• Pidä hereillä, kun prosessi tai appi on käynnissä
+• Jatka työtä kansi kiinni, kun Mac on liitetty virtalähteeseen
+• Historia siitä, kuinka kauan ja miksi Mac oli hereillä
+
+YKSITYINEN ALUSTA ASTI
+Ei tiliä, ei mainoksia, ei seurantaa. Kaikki pysyy Macillasi.
+
+macOS sallii Macin pysyä hereillä kansi kiinni vain, kun se on liitetty virtalähteeseen.

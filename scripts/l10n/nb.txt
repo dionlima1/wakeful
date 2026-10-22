@@ -1,0 +1,162 @@
+1|Wakeful-innstillinger
+2|Terminal
+3|Hold Macen våken automatisk mens en KI-agent jobber
+4|Agentenes prosessnavn
+5|Gjenopprett standarder
+6|KI-agenter
+7|Prosessnavn atskilt med komma. Wakeful sjekker med noen sekunders mellomrom og lar Macen gå i dvale igjen når alle er ferdige.
+8|Ingen utløsere ennå. Legg til én for å holde Macen våken automatisk i bestemte situasjoner.
+9|Fjern utløser
+10|Utløsere
+11|Så lenge en aktivert utløser gjelder, forblir Macen våken. En økt du starter selv, har alltid forrang.
+12|Hold våken til en kommando er ferdig:
+13|Eller styr Wakeful fra skript, Raycast eller Alfred:
+14|Ekstern skjerm tilkoblet
+15|Strømadapter tilkoblet
+16|Kamera eller mikrofon i bruk (videosamtaler)
+17|Koblet til et Wi-Fi-nettverk …
+18|Etter en tidsplan …
+19|Appen er åpen
+20|Appen er i forgrunnen
+21|Velg app …
+22|Legg til utløser
+23|Lås opp
+24|Dette er en funksjon i Wakeful Pro
+25|Lås opp automatisering, gjenkjenning av KI-agenter, logg og mer med ett enkelt kjøp.
+26|Hold våken på et Wi-Fi-nettverk
+27|Nettverksnavn
+28|macOS krever tilgang til lokalitet for å lese navnet på Wi-Fi-nettverket.
+29|Bruk gjeldende nettverk
+30|Avbryt
+31|Legg til
+32|Hold våken etter en tidsplan
+33|Fra
+34|Til
+35|Vil du slette hele loggen?
+36|Nylige økter
+37|Timer
+38|Våken tid per dag de siste 7 dagene
+39|I dag
+40|Siste 7 dager
+41|Økter
+42|Dag
+43|Ingen økter registrert ennå.
+44|Lagre logg på denne Macen
+45|Slett logg …
+46|Loggen lagres bare på denne Macen og sendes aldri noe sted.
+47|Slett logg
+48|Hold Macen våken
+49|Hindrer at Macen går i dvale, eventuelt i et antall minutter.
+50|Minutter
+51|La stå tomt for å holde våken på ubestemt tid.
+52|La Macen gå i dvale
+53|Slå hold våken av/på
+54|Holdes Macen våken?
+55|Hold våken
+56|App Store er ikke tilgjengelig akkurat nå.
+57|KI-agentmodus
+58|Forblir våken mens Claude Code, Codex, Gemini eller en annen agent du legger til, jobber.
+59|Automatiske utløsere
+60|Ekstern skjerm, strømadapter, Wi-Fi, apper, videosamtaler og tidsplaner.
+61|Prosesser og apper
+62|Forblir våken til en kommando, et skript eller en app er ferdig.
+63|Lukket lokk
+64|Fortsett å jobbe med lukket lokk mens Macen er koblet til strøm.
+65|Logg
+66|Se hvor lenge Macen var våken, og hvorfor.
+67|Wakeful Pro er låst opp
+68|Wakeful Pro
+69|Takk for at du støtter en uavhengig utvikler!
+70|Ett kjøp. Ingen abonnement. Delt med familien.
+71|Kjøpet ditt venter på godkjenning.
+72|Gjenopprett kjøp
+73|Lås opp Pro
+74|Lås opp for %@
+75|Manuell
+76|Tidtaker
+77|Automatisk
+78|Tidtakeren er ferdig. Macen kan gå i dvale igjen.
+79|%@ er ferdig. Macen kan gå i dvale igjen.
+80|%@ ble avsluttet. Macen kan gå i dvale igjen.
+81|Alle KI-agenter er ferdige. Macen kan gå i dvale igjen.
+82|Stoppet fordi Macen går på batteri.
+83|Stoppet fordi batteriet er på %lld %%.
+84|KI-agent kjører (%@)
+85|Av – Macen går i dvale som vanlig
+86|Våken på ubestemt tid
+87|Våken i %@ til
+88|Våken mens %@ kjører
+89|Våken mens %@ er åpen
+90|Automatisk våken: %@
+91|Generelt
+92|Automatisering
+93|Strøm
+94|Pro
+95|Åpne ved pålogging
+96|Aktiver når Wakeful åpnes
+97|Venstreklikk på menylinjesymbolet
+98|Standard varighet
+99|Snarvei for å slå av/på
+100|Slår hold våken av/på
+101|Åpner menyen
+102|På ubestemt tid
+103|Tillat at skjermen går i dvale (hold bare systemet våkent)
+104|Vis nedtelling i menylinjen
+105|Varsle når en økt slutter
+106|Batteri
+107|Stopp når Macen bytter til batteri
+108|Stopp når batteriet faller til
+109|Aldri
+110|Hold våken med lukket lokk
+111|macOS tillater dette bare mens Macen er koblet til strøm. På batteri går Macen fortsatt i dvale når lokket lukkes.
+112|PRO
+113|Krever Wakeful Pro
+114|Slå av
+115|Hold våken på ubestemt tid
+116|Tilpasset …
+117|Hold våken i
+118|Mens en KI-agent jobber
+119|Mens en app er åpen
+120|Tillat at skjermen går i dvale
+121|Hold våken med lukket lokk
+122|Aktiver automatisk ved KI-agenter
+123|Automatiske utløsere …
+124|Lås opp Wakeful Pro …
+125|Innstillinger …
+126|Avslutt Wakeful
+127|Ingen KI-agenter kjører
+128|Rediger agentlisten …
+129|Hvor lenge skal Macen holdes våken?
+130|Angi en varighet i minutter.
+131|Start
+132|En ekstern skjerm er tilkoblet
+133|Strømadapteren er tilkoblet
+134|Koblet til Wi-Fi «%@»
+135|%@ er åpen
+136|%@ er i forgrunnen
+137|Kameraet eller mikrofonen er i bruk
+138|%@, %@–%@
+139|Hver dag
+140|Ukedager
+141|Helger
+142|Wakeful
+143|Se om Macen holdes våken, og bytt med ett klikk.
+144|Våken
+145|Går i dvale som vanlig
+146|Til du slår det av
+147|Klikk for å holde våken
+148|Hindrer at Macen går i dvale.
+149|Av
+150|Hold Macen våken. Med ett klikk.
+151|Tidtakere, global snarvei og direkte nedtelling rett i menylinjen.
+152|KI-agentene dine fortsetter å jobbe.
+153|Forblir våken mens Claude Code, Codex eller Gemini jobber, og lar deretter Macen hvile.
+154|Automatisk, når det gjelder.
+155|Ekstern skjerm, strøm, Wi-Fi, apper, videosamtaler og tidsplaner.
+156|Widgeter, Kontrollsenter og logg.
+157|Privat fra grunnen av: Alt blir værende på Macen.
+158|Hold Macen min våken med ${applicationName}
+159|Start ${applicationName}
+160|Stopp ${applicationName}
+161|La Macen min gå i dvale med ${applicationName}
+162|Wakeful bruker lokaliteten din bare slik at macOS lar appen lese navnet på Wi-Fi-nettverket ditt for Wi-Fi-utløsere. Lokaliteten din blir aldri lagret eller delt.

@@ -1,0 +1,36 @@
+name: Wakeful: Mac wach halten
+subtitle: Kein Ruhezustand, Timer & KI
+keywords: ruhezustand,schlaf,bildschirmschoner,display,zugeklappt,batterie,timer,menüleiste,ki-agent,koffein
+promo: Deine KI-Agenten und langen Builds laufen durch, statt abzubrechen, wenn der Mac einnickt. Ein Klick, smarte Auslöser, kein Abo.
+iap: KI-Agenten, Auslöser, zugeklappt, Verlauf
+---
+Wakeful hält deinen Mac genau dann wach, wenn du es brauchst – und lässt ihn den Rest der Zeit ruhen.
+
+Klicke auf die Tasse in der Menüleiste, damit dein Mac nicht in den Ruhezustand wechselt, den Bildschirm abdunkelt oder den Bildschirmschoner startet. Wähle einen Timer oder lass Wakeful selbst entscheiden.
+
+GEMACHT FÜR KI-AGENTEN UND LANGE AUFGABEN
+• Bleibt wach, während Claude Code, Codex, Gemini oder ein anderer von dir hinzugefügter Agent arbeitet, und lässt den Mac ruhen, sobald sie fertig sind
+• Hält den Mac wach, bis ein Befehl, Skript oder eine App fertig ist
+• Kommandozeilen-Tool und URL-Schema für Skripte, Raycast und Alfred
+
+GRATIS
+• Mit einem Klick in der Menüleiste ein- und ausschalten
+• Timer von 15 Minuten bis 8 Stunden oder eine eigene Dauer
+• Live-Countdown in der Menüleiste
+• Globaler Tastenkurzbefehl
+• Nur das System wach halten und den Bildschirm ruhen lassen
+• Batterieschutz: stoppt im Batteriebetrieb oder unter einem Ladestand
+• Kurzbefehle-Aktionen, Schreibtisch-Widget und Steuerelement im Kontrollzentrum (macOS 26)
+• Startet bei der Anmeldung und meldet, wenn eine Sitzung endet
+
+WAKEFUL PRO (EINMALKAUF)
+• KI-Agenten-Modus
+• Automatische Auslöser: externer Bildschirm, Netzteil, WLAN, Apps, Videoanrufe und Zeitpläne
+• Wach halten, solange ein Prozess oder eine App läuft
+• Mit zugeklapptem Mac weiterarbeiten, solange er am Strom hängt
+• Verlauf, wie lange und warum dein Mac wach war
+
+PRIVAT VON GRUND AUF
+Kein Konto, keine Werbung, kein Tracking. Alles bleibt auf deinem Mac.
+
+macOS erlaubt das Wachhalten bei zugeklapptem Mac nur, solange er am Strom angeschlossen ist.

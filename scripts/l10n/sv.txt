@@ -1,0 +1,162 @@
+1|Wakeful-inställningar
+2|Terminal
+3|Håll datorn vaken automatiskt medan en AI-agent arbetar
+4|Agenternas processnamn
+5|Återställ förval
+6|AI-agenter
+7|Processnamn avgränsade med komman. Wakeful kontrollerar med några sekunders mellanrum och låter datorn vila igen när alla är klara.
+8|Inga utlösare än. Lägg till en för att hålla datorn vaken automatiskt i vissa situationer.
+9|Ta bort utlösare
+10|Utlösare
+11|Så länge någon aktiverad utlösare gäller förblir datorn vaken. En session som du startar själv har alltid företräde.
+12|Håll vaken tills ett kommando är klart:
+13|Eller styr Wakeful från skript, Raycast eller Alfred:
+14|Extern skärm ansluten
+15|Strömadapter ansluten
+16|Kamera eller mikrofon används (videosamtal)
+17|Ansluten till ett wifi-nätverk …
+18|Enligt ett schema …
+19|Appen är öppen
+20|Appen är längst fram
+21|Välj app …
+22|Lägg till utlösare
+23|Lås upp
+24|Det här är en funktion i Wakeful Pro
+25|Lås upp automatisering, identifiering av AI-agenter, historik och mer med ett engångsköp.
+26|Håll vaken på ett wifi-nätverk
+27|Nätverksnamn
+28|macOS kräver platsåtkomst för att läsa wifi-nätverkets namn.
+29|Använd nuvarande nätverk
+30|Avbryt
+31|Lägg till
+32|Håll vaken enligt ett schema
+33|Från
+34|Till
+35|Rensa all historik?
+36|Senaste sessioner
+37|Timmar
+38|Vaken tid per dag de senaste 7 dagarna
+39|Idag
+40|Senaste 7 dagarna
+41|Sessioner
+42|Dag
+43|Inga sessioner registrerade än.
+44|Spara historik på den här datorn
+45|Rensa historik …
+46|Historiken lagras bara på den här datorn och skickas aldrig någonstans.
+47|Rensa historik
+48|Håll datorn vaken
+49|Förhindrar att datorn försätts i vila, eventuellt under ett antal minuter.
+50|Minuter
+51|Lämna tomt för att hålla vaken på obestämd tid.
+52|Låt datorn vila
+53|Slå på/av håll vaken
+54|Hålls datorn vaken?
+55|Håll vaken
+56|App Store är inte tillgänglig just nu.
+57|AI-agentläge
+58|Förblir vaken medan Claude Code, Codex, Gemini eller någon agent du lägger till arbetar.
+59|Automatiska utlösare
+60|Extern skärm, strömadapter, wifi, appar, videosamtal och scheman.
+61|Processer och appar
+62|Förblir vaken tills ett kommando, skript eller en app är klar.
+63|Stängt lock
+64|Fortsätt arbeta med locket stängt medan datorn är ansluten till ström.
+65|Historik
+66|Se hur länge datorn var vaken, och varför.
+67|Wakeful Pro är upplåst
+68|Wakeful Pro
+69|Tack för att du stöder en oberoende utvecklare!
+70|Ett köp. Ingen prenumeration. Delas med familjen.
+71|Ditt köp väntar på godkännande.
+72|Återställ köp
+73|Lås upp Pro
+74|Lås upp för %@
+75|Manuellt
+76|Timer
+77|Automatiskt
+78|Timern är slut. Datorn får vila igen.
+79|%@ är klar. Datorn får vila igen.
+80|%@ avslutades. Datorn får vila igen.
+81|Alla AI-agenter är klara. Datorn får vila igen.
+82|Stoppat eftersom datorn går på batteri.
+83|Stoppat eftersom batteriet är på %lld %%.
+84|AI-agent körs (%@)
+85|Av – datorn vilar som vanligt
+86|Vaken på obestämd tid
+87|Vaken i %@ till
+88|Vaken medan %@ körs
+89|Vaken medan %@ är öppen
+90|Automatiskt vaken: %@
+91|Allmänt
+92|Automatisering
+93|Ström
+94|Pro
+95|Öppna vid inloggning
+96|Aktivera när Wakeful öppnas
+97|Vänsterklick på menyradssymbolen
+98|Förvald varaktighet
+99|Kortkommando för att slå på/av
+100|Slår på/av håll vaken
+101|Öppnar menyn
+102|På obestämd tid
+103|Tillåt att skärmen vilar (håll bara systemet vaket)
+104|Visa nedräkning i menyraden
+105|Meddela när en session slutar
+106|Batteri
+107|Stoppa när datorn går över till batteri
+108|Stoppa när batteriet sjunker till
+109|Aldrig
+110|Håll vaken med locket stängt
+111|macOS tillåter bara detta när datorn är ansluten till ström. På batteri försätts datorn fortfarande i vila när locket stängs.
+112|PRO
+113|Kräver Wakeful Pro
+114|Stäng av
+115|Håll vaken på obestämd tid
+116|Anpassad …
+117|Håll vaken i
+118|Medan en AI-agent arbetar
+119|Medan en app är öppen
+120|Tillåt att skärmen vilar
+121|Håll vaken med locket stängt
+122|Aktivera automatiskt vid AI-agenter
+123|Automatiska utlösare …
+124|Lås upp Wakeful Pro …
+125|Inställningar …
+126|Avsluta Wakeful
+127|Inga AI-agenter körs
+128|Redigera agentlistan …
+129|Hur länge ska datorn hållas vaken?
+130|Ange en varaktighet i minuter.
+131|Starta
+132|En extern skärm är ansluten
+133|Strömadaptern är ansluten
+134|Ansluten till wifi ”%@”
+135|%@ är öppen
+136|%@ är längst fram
+137|Kameran eller mikrofonen används
+138|%@, %@–%@
+139|Varje dag
+140|Vardagar
+141|Helger
+142|Wakeful
+143|Se om datorn hålls vaken och växla med ett klick.
+144|Vaken
+145|Vilar som vanligt
+146|Tills du stänger av
+147|Klicka för att hålla vaken
+148|Förhindrar att datorn försätts i vila.
+149|Av
+150|Håll din Mac vaken. Med ett klick.
+151|Timers, globalt kortkommando och nedräkning direkt i menyraden.
+152|Dina AI-agenter fortsätter arbeta.
+153|Förblir vaken medan Claude Code, Codex eller Gemini arbetar och låter sedan datorn vila.
+154|Automatiskt, när det spelar roll.
+155|Extern skärm, ström, wifi, appar, videosamtal och scheman.
+156|Widgetar, Kontrollcenter och historik.
+157|Privat från grunden: allt stannar på din Mac.
+158|Håll min Mac vaken med ${applicationName}
+159|Starta ${applicationName}
+160|Stoppa ${applicationName}
+161|Låt min Mac vila med ${applicationName}
+162|Wakeful använder din plats bara för att macOS ska låta appen läsa namnet på ditt wifi-nätverk för wifi-utlösare. Din plats lagras eller delas aldrig.

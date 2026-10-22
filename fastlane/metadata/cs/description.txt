@@ -1,0 +1,30 @@
+Wakeful nenechá Mac usnout přesně tehdy, kdy to potřebujete, a zbytek času ho nechá odpočívat.
+
+Klikněte na hrnek na řádku nabídek a Mac nepřejde do režimu spánku, neztlumí obrazovku ani nespustí spořič. Vyberte časovač, nebo nechte Wakeful rozhodnout samotný.
+
+VYTVOŘENO PRO AI AGENTY A DLOUHÉ ÚLOHY
+• Zůstane vzhůru, dokud pracuje Claude Code, Codex, Gemini nebo jakýkoli agent, kterého přidáte, a po jejich skončení nechá Mac usnout
+• Nenechá Mac usnout, dokud neskončí příkaz, skript nebo aplikace
+• Nástroj příkazového řádku a URL schéma pro skripty, Raycast a Alfred
+
+ZDARMA
+• Zapnutí jedním kliknutím na řádku nabídek
+• Časovače od 15 minut do 8 hodin nebo libovolná doba
+• Živý odpočet na řádku nabídek
+• Globální klávesová zkratka
+• Nechat vzhůru jen systém a monitoru dovolit spánek
+• Ochrana baterie: zastaví se na baterii nebo pod určitou úrovní nabití
+• Akce Zkratek, widget na plochu a ovládací prvek v Ovládacím centru (macOS 26)
+• Spuštění při přihlášení a upozornění na konec relace
+
+WAKEFUL PRO (JEDNORÁZOVÝ NÁKUP)
+• Režim AI agenta
+• Automatické spouštěče: externí monitor, napájecí adaptér, síť Wi‑Fi, aplikace, videohovory a plány
+• Nenechat usnout, dokud běží proces nebo aplikace
+• Práce se zavřeným víkem, když je Mac připojený k napájení
+• Historie toho, jak dlouho a proč byl Mac vzhůru
+
+SOUKROMÍ V ZÁKLADU
+Žádný účet, žádné reklamy, žádné sledování. Vše zůstává na vašem Macu.
+
+macOS dovoluje nechat Mac vzhůru se zavřeným víkem jen tehdy, když je připojený k napájení.

@@ -1,0 +1,30 @@
+Wakeful mantiene sveglio il Mac proprio quando ti serve e lo lascia andare in stop per il resto del tempo.
+
+Fai clic sulla tazza nella barra dei menu per impedire al Mac di andare in stop, oscurare lo schermo o avviare il salvaschermo. Scegli un timer o lascia decidere a Wakeful.
+
+PENSATO PER AGENTI IA E LAVORI LUNGHI
+• Resta sveglio mentre lavorano Claude Code, Codex, Gemini o qualsiasi agente aggiunto da te, poi lascia andare il Mac in stop quando hanno finito
+• Mantiene sveglio il Mac finché un comando, uno script o un’app non termina
+• Strumento da riga di comando e schema URL per script, Raycast e Alfred
+
+GRATIS
+• Attivazione con un clic dalla barra dei menu
+• Timer da 15 minuti a 8 ore, o qualsiasi durata personalizzata
+• Conto alla rovescia in tempo reale nella barra dei menu
+• Abbreviazione da tastiera globale
+• Mantieni sveglio solo il sistema e lascia andare in stop lo schermo
+• Protezione della batteria: si ferma a batteria o sotto un livello di carica
+• Azioni di Comandi Rapidi, widget e controllo nel Centro di Controllo (macOS 26)
+• Si apre al login e avvisa al termine di una sessione
+
+WAKEFUL PRO (ACQUISTO UNICO)
+• Modalità agente IA
+• Attivatori automatici: monitor esterno, alimentatore, rete Wi‑Fi, app, videochiamate e orari
+• Mantieni sveglio mentre è in esecuzione un processo o un’app
+• Continua a lavorare con il coperchio chiuso mentre è collegato alla corrente
+• Cronologia di quanto, e perché, il Mac è rimasto sveglio
+
+PRIVATO PER NATURA
+Nessun account, nessuna pubblicità, nessun tracciamento. Tutto resta sul tuo Mac.
+
+macOS consente di mantenere sveglio il Mac con il coperchio chiuso solo se è collegato alla corrente.

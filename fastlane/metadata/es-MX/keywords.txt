@@ -1,0 +1,1 @@
+reposo,dormir,insomnio,no dormir,pantalla,salvapantallas,tapa cerrada,batería,temporizador,cafeína

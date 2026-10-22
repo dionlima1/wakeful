@@ -1,0 +1,30 @@
+Wakeful garde votre Mac éveillé exactement quand vous en avez besoin, et le laisse se mettre en veille le reste du temps.
+
+Cliquez sur la tasse dans la barre des menus pour empêcher le Mac de se mettre en veille, d’assombrir l’écran ou de lancer l’économiseur d’écran. Choisissez un minuteur, ou laissez Wakeful décider tout seul.
+
+CONÇU POUR LES AGENTS IA ET LES TÂCHES LONGUES
+• Reste éveillé pendant que Claude Code, Codex, Gemini ou tout agent que vous ajoutez travaille, puis laisse le Mac se mettre en veille une fois qu’ils ont terminé
+• Garde le Mac éveillé jusqu’à la fin d’une commande, d’un script ou d’une app
+• Outil en ligne de commande et schéma d’URL pour scripts, Raycast et Alfred
+
+GRATUIT
+• Activation en un clic depuis la barre des menus
+• Minuteurs de 15 minutes à 8 heures, ou toute durée personnalisée
+• Compte à rebours en direct dans la barre des menus
+• Raccourci clavier global
+• Gardez seulement le système éveillé et laissez l’écran se mettre en veille
+• Protection de la batterie : arrêt sur batterie ou sous un niveau de charge
+• Actions Raccourcis, widget de bureau et commande du Centre de contrôle (macOS 26)
+• Ouverture à la connexion et notification à la fin d’une session
+
+WAKEFUL PRO (ACHAT UNIQUE)
+• Mode agent IA
+• Déclencheurs automatiques : écran externe, adaptateur secteur, réseau Wi‑Fi, apps, visioconférences et horaires
+• Gardez le Mac éveillé tant qu’un processus ou une app est en cours d’exécution
+• Continuez à travailler écran rabattu tant que le Mac est branché
+• Historique de la durée d’éveil du Mac, et de ses raisons
+
+CONFIDENTIEL PAR NATURE
+Pas de compte, pas de publicité, pas de pistage. Tout reste sur votre Mac.
+
+macOS n’autorise un Mac à rester éveillé écran rabattu que lorsqu’il est branché sur secteur.

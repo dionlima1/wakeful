@@ -1,0 +1,162 @@
+1|Cài đặt Wakeful
+2|Terminal
+3|Tự động giữ máy Mac thức khi một tác nhân AI đang làm việc
+4|Tên tiến trình của tác nhân
+5|Khôi phục mặc định
+6|Tác nhân AI
+7|Tên tiến trình phân tách bằng dấu phẩy. Wakeful kiểm tra vài giây một lần và cho phép máy Mac ngủ lại khi tất cả đã xong.
+8|Chưa có trình kích hoạt nào. Thêm một trình kích hoạt để tự động giữ máy Mac thức trong một số tình huống.
+9|Xóa trình kích hoạt
+10|Trình kích hoạt
+11|Khi bất kỳ trình kích hoạt nào đang bật được đáp ứng, máy Mac vẫn thức. Phiên do bạn bắt đầu luôn được ưu tiên.
+12|Giữ thức đến khi một lệnh hoàn tất:
+13|Hoặc điều khiển Wakeful từ tập lệnh, Raycast hoặc Alfred:
+14|Đã kết nối màn hình ngoài
+15|Đã kết nối bộ tiếp hợp nguồn
+16|Camera hoặc micrô đang được sử dụng (cuộc gọi video)
+17|Đã kết nối với mạng Wi‑Fi…
+18|Theo lịch…
+19|Ứng dụng đang mở
+20|Ứng dụng đang ở phía trước
+21|Chọn ứng dụng…
+22|Thêm trình kích hoạt
+23|Mở khóa
+24|Đây là tính năng của Wakeful Pro
+25|Mở khóa tự động hóa, phát hiện tác nhân AI, lịch sử và nhiều tính năng khác chỉ với một lần mua.
+26|Giữ thức trên mạng Wi‑Fi
+27|Tên mạng
+28|macOS yêu cầu quyền truy cập Vị trí để đọc tên mạng Wi‑Fi.
+29|Dùng mạng hiện tại
+30|Hủy
+31|Thêm
+32|Giữ thức theo lịch
+33|Từ
+34|Đến
+35|Xóa toàn bộ lịch sử?
+36|Phiên gần đây
+37|Giờ
+38|Thời gian thức mỗi ngày trong 7 ngày qua
+39|Hôm nay
+40|7 ngày qua
+41|Phiên
+42|Ngày
+43|Chưa có phiên nào được ghi lại.
+44|Ghi lại lịch sử trên máy Mac này
+45|Xóa lịch sử…
+46|Lịch sử chỉ được lưu trên máy Mac này và không bao giờ được gửi đi đâu.
+47|Xóa lịch sử
+48|Giữ máy Mac thức
+49|Ngăn máy Mac chuyển sang chế độ ngủ, có thể trong một số phút.
+50|Phút
+51|Để trống để giữ thức vô thời hạn.
+52|Cho phép máy Mac ngủ
+53|Bật/tắt giữ thức
+54|Máy Mac có đang được giữ thức không?
+55|Giữ thức
+56|App Store hiện không khả dụng.
+57|Chế độ tác nhân AI
+58|Luôn thức khi Claude Code, Codex, Gemini hoặc bất kỳ tác nhân nào bạn thêm đang làm việc.
+59|Trình kích hoạt tự động
+60|Màn hình ngoài, bộ tiếp hợp nguồn, Wi‑Fi, ứng dụng, cuộc gọi video và lịch.
+61|Tiến trình và ứng dụng
+62|Luôn thức đến khi một lệnh, tập lệnh hoặc ứng dụng hoàn tất.
+63|Gập nắp
+64|Tiếp tục làm việc khi gập nắp trong lúc đang cắm sạc.
+65|Lịch sử
+66|Xem máy Mac đã thức bao lâu và vì sao.
+67|Wakeful Pro đã được mở khóa
+68|Wakeful Pro
+69|Cảm ơn bạn đã ủng hộ một nhà phát triển độc lập!
+70|Mua một lần. Không đăng ký. Chia sẻ với gia đình.
+71|Giao dịch mua của bạn đang chờ phê duyệt.
+72|Khôi phục giao dịch mua
+73|Mở khóa Pro
+74|Mở khóa với giá %@
+75|Thủ công
+76|Hẹn giờ
+77|Tự động
+78|Đã hết hẹn giờ. Máy Mac có thể ngủ lại.
+79|%@ đã hoàn tất. Máy Mac có thể ngủ lại.
+80|%@ đã thoát. Máy Mac có thể ngủ lại.
+81|Tất cả tác nhân AI đã hoàn tất. Máy Mac có thể ngủ lại.
+82|Đã dừng vì máy Mac đang dùng pin.
+83|Đã dừng vì pin còn %lld%%.
+84|Tác nhân AI đang chạy (%@)
+85|Tắt — máy Mac ngủ như bình thường
+86|Thức vô thời hạn
+87|Thức thêm %@
+88|Thức khi %@ đang chạy
+89|Thức khi %@ đang mở
+90|Tự động thức: %@
+91|Chung
+92|Tự động hóa
+93|Nguồn điện
+94|Pro
+95|Mở khi đăng nhập
+96|Bật khi Wakeful mở
+97|Bấm chuột trái vào biểu tượng trên thanh menu
+98|Thời lượng mặc định
+99|Phím tắt bật/tắt
+100|Bật/tắt giữ thức
+101|Mở menu
+102|Vô thời hạn
+103|Cho phép màn hình ngủ (chỉ giữ hệ thống thức)
+104|Hiển thị đếm ngược trên thanh menu
+105|Thông báo khi một phiên kết thúc
+106|Pin
+107|Dừng khi máy Mac chuyển sang dùng pin
+108|Dừng khi pin giảm xuống
+109|Không bao giờ
+110|Giữ thức khi gập nắp
+111|macOS chỉ cho phép điều này khi máy Mac được cắm nguồn. Khi dùng pin, gập nắp vẫn khiến máy Mac ngủ.
+112|PRO
+113|Yêu cầu Wakeful Pro
+114|Tắt
+115|Giữ thức vô thời hạn
+116|Tùy chỉnh…
+117|Giữ thức trong
+118|Khi tác nhân AI đang chạy
+119|Khi ứng dụng đang mở
+120|Cho phép màn hình ngủ
+121|Giữ thức khi gập nắp
+122|Tự động bật khi tác nhân AI chạy
+123|Trình kích hoạt tự động…
+124|Mở khóa Wakeful Pro…
+125|Cài đặt…
+126|Thoát Wakeful
+127|Không có tác nhân AI nào đang chạy
+128|Sửa danh sách tác nhân…
+129|Giữ thức trong bao lâu?
+130|Nhập thời lượng tính bằng phút.
+131|Bắt đầu
+132|Đã kết nối màn hình ngoài
+133|Bộ tiếp hợp nguồn đã được kết nối
+134|Đã kết nối với Wi‑Fi “%@”
+135|%@ đang mở
+136|%@ đang ở phía trước
+137|Camera hoặc micrô đang được sử dụng
+138|%@, %@–%@
+139|Hằng ngày
+140|Ngày trong tuần
+141|Cuối tuần
+142|Wakeful
+143|Xem máy Mac có đang được giữ thức không và chuyển đổi chỉ với một lần bấm.
+144|Đang thức
+145|Ngủ bình thường
+146|Đến khi bạn tắt
+147|Bấm để giữ thức
+148|Ngăn máy Mac chuyển sang chế độ ngủ.
+149|Tắt
+150|Giữ máy Mac luôn thức. Chỉ một lần bấm.
+151|Hẹn giờ, phím tắt toàn cục và đếm ngược trực tiếp ngay trên thanh menu.
+152|Các tác nhân AI của bạn tiếp tục làm việc.
+153|Luôn thức khi Claude Code, Codex hoặc Gemini chạy, rồi cho máy Mac nghỉ.
+154|Tự động, khi cần thiết.
+155|Màn hình ngoài, nguồn điện, Wi‑Fi, ứng dụng, cuộc gọi video và lịch.
+156|Tiện ích, Trung tâm điều khiển và lịch sử.
+157|Riêng tư từ thiết kế: mọi thứ ở lại trên máy Mac của bạn.
+158|Giữ máy Mac của tôi thức bằng ${applicationName}
+159|Bắt đầu ${applicationName}
+160|Dừng ${applicationName}
+161|Cho máy Mac của tôi ngủ bằng ${applicationName}
+162|Wakeful chỉ dùng vị trí của bạn để macOS cho phép đọc tên mạng Wi‑Fi cho các trình kích hoạt Wi‑Fi. Vị trí của bạn không bao giờ được lưu trữ hay chia sẻ.

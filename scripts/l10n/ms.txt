@@ -1,0 +1,162 @@
+1|Seting Wakeful
+2|Terminal
+3|Pastikan Mac berjaga secara automatik semasa ejen AI bekerja
+4|Nama proses ejen
+5|Pulihkan Lalai
+6|Ejen AI
+7|Nama proses dipisahkan dengan koma. Wakeful menyemak setiap beberapa saat dan membenarkan Mac tidur semula setelah semuanya selesai.
+8|Belum ada pencetus. Tambah satu untuk memastikan Mac berjaga secara automatik dalam situasi tertentu.
+9|Keluarkan pencetus
+10|Pencetus
+11|Selagi mana-mana pencetus yang didayakan dipenuhi, Mac terus berjaga. Sesi yang anda mulakan sendiri sentiasa diutamakan.
+12|Pastikan berjaga sehingga arahan selesai:
+13|Atau kawal Wakeful daripada skrip, Raycast atau Alfred:
+14|Paparan luaran disambungkan
+15|Penyesuai kuasa disambungkan
+16|Kamera atau mikrofon sedang digunakan (panggilan video)
+17|Disambungkan ke rangkaian Wi‑Fi…
+18|Mengikut jadual…
+19|App dibuka
+20|App berada di hadapan
+21|Pilih App…
+22|Tambah Pencetus
+23|Buka Kunci
+24|Ini ialah ciri Wakeful Pro
+25|Buka kunci automasi, pengesanan ejen AI, sejarah dan banyak lagi dengan satu pembelian.
+26|Pastikan berjaga pada rangkaian Wi‑Fi
+27|Nama rangkaian
+28|macOS memerlukan akses Lokasi untuk membaca nama Wi‑Fi.
+29|Guna Rangkaian Semasa
+30|Batal
+31|Tambah
+32|Pastikan berjaga mengikut jadual
+33|Dari
+34|Hingga
+35|Kosongkan semua sejarah?
+36|Sesi Terkini
+37|Jam
+38|Masa berjaga setiap hari bagi 7 hari terakhir
+39|Hari Ini
+40|7 hari terakhir
+41|Sesi
+42|Hari
+43|Belum ada sesi direkodkan.
+44|Rekod sejarah pada Mac ini
+45|Kosongkan Sejarah…
+46|Sejarah disimpan pada Mac ini sahaja dan tidak pernah dihantar ke mana-mana.
+47|Kosongkan Sejarah
+48|Pastikan Mac Berjaga
+49|Menghalang Mac daripada tidur, secara pilihan untuk beberapa minit.
+50|Minit
+51|Biarkan kosong untuk terus berjaga tanpa had masa.
+52|Benarkan Mac Tidur
+53|Togol Pastikan Berjaga
+54|Adakah Mac Dipastikan Berjaga?
+55|Pastikan Berjaga
+56|App Store tidak tersedia buat masa ini.
+57|Mod ejen AI
+58|Terus berjaga semasa Claude Code, Codex, Gemini atau mana-mana ejen yang anda tambah sedang bekerja.
+59|Pencetus automatik
+60|Paparan luaran, penyesuai kuasa, Wi‑Fi, app, panggilan video dan jadual.
+61|Proses dan app
+62|Terus berjaga sehingga arahan, skrip atau app selesai.
+63|Penutup ditutup
+64|Terus bekerja dengan penutup ditutup semasa dicas.
+65|Sejarah
+66|Lihat berapa lama Mac anda berjaga, dan sebabnya.
+67|Wakeful Pro telah dibuka kunci
+68|Wakeful Pro
+69|Terima kasih kerana menyokong pembangun bebas!
+70|Satu pembelian. Tiada langganan. Dikongsi dengan keluarga anda.
+71|Pembelian anda sedang menunggu kelulusan.
+72|Pulihkan Pembelian
+73|Buka Kunci Pro
+74|Buka kunci pada harga %@
+75|Manual
+76|Pemasa
+77|Automatik
+78|Pemasa tamat. Mac anda boleh tidur semula.
+79|%@ selesai. Mac anda boleh tidur semula.
+80|%@ ditutup. Mac anda boleh tidur semula.
+81|Semua ejen AI selesai. Mac anda boleh tidur semula.
+82|Dihentikan kerana Mac menggunakan bateri.
+83|Dihentikan kerana bateri pada %lld%%.
+84|Ejen AI sedang berjalan (%@)
+85|Mati — Mac anda tidur seperti biasa
+86|Berjaga tanpa had masa
+87|Berjaga selama %@ lagi
+88|Berjaga semasa %@ berjalan
+89|Berjaga semasa %@ dibuka
+90|Berjaga secara automatik: %@
+91|Umum
+92|Automasi
+93|Kuasa
+94|Pro
+95|Buka semasa log masuk
+96|Aktifkan apabila Wakeful dibuka
+97|Klik kiri pada ikon bar menu
+98|Tempoh lalai
+99|Pintasan togol
+100|Menogol pastikan berjaga
+101|Membuka menu
+102|Tanpa had masa
+103|Benarkan paparan tidur (pastikan sistem sahaja berjaga)
+104|Tunjukkan kiraan detik dalam bar menu
+105|Beritahu apabila sesi tamat
+106|Bateri
+107|Henti apabila Mac bertukar kepada bateri
+108|Henti apabila bateri turun ke
+109|Tidak Pernah
+110|Pastikan berjaga dengan penutup ditutup
+111|macOS hanya membenarkan ini semasa Mac disambungkan ke kuasa. Semasa menggunakan bateri, menutup penutup masih menidurkan Mac.
+112|PRO
+113|Memerlukan Wakeful Pro
+114|Matikan
+115|Pastikan Berjaga Tanpa Had Masa
+116|Tersuai…
+117|Pastikan Berjaga Selama
+118|Semasa Ejen AI Berjalan
+119|Semasa App Dibuka
+120|Benarkan Paparan Tidur
+121|Pastikan Berjaga dengan Penutup Ditutup
+122|Aktifkan Automatik Semasa Ejen AI Berjalan
+123|Pencetus Automatik…
+124|Buka Kunci Wakeful Pro…
+125|Seting…
+126|Keluar Wakeful
+127|Tiada ejen AI sedang berjalan
+128|Edit Senarai Ejen…
+129|Berapa lama untuk terus berjaga?
+130|Masukkan tempoh dalam minit.
+131|Mula
+132|Paparan luaran disambungkan
+133|Penyesuai kuasa disambungkan
+134|Disambungkan ke Wi‑Fi “%@”
+135|%@ dibuka
+136|%@ berada di hadapan
+137|Kamera atau mikrofon sedang digunakan
+138|%@, %@–%@
+139|Setiap hari
+140|Hari bekerja
+141|Hujung minggu
+142|Wakeful
+143|Lihat sama ada Mac anda dipastikan berjaga dan tukar dengan satu klik.
+144|Berjaga
+145|Tidur seperti biasa
+146|Sehingga anda mematikannya
+147|Klik untuk terus berjaga
+148|Menghalang Mac daripada tidur.
+149|Mati
+150|Pastikan Mac anda berjaga. Dengan satu klik.
+151|Pemasa, pintasan global dan kiraan detik langsung, terus dalam bar menu.
+152|Ejen AI anda terus bekerja.
+153|Terus berjaga semasa Claude Code, Codex atau Gemini berjalan, kemudian membiarkan Mac anda tidur.
+154|Automatik, apabila penting.
+155|Paparan luaran, kuasa, Wi‑Fi, app, panggilan video dan jadual.
+156|Widget, Pusat Kawalan dan sejarah.
+157|Peribadi dari asas: semuanya kekal pada Mac anda.
+158|Pastikan Mac saya berjaga dengan ${applicationName}
+159|Mulakan ${applicationName}
+160|Hentikan ${applicationName}
+161|Benarkan Mac saya tidur dengan ${applicationName}
+162|Wakeful menggunakan lokasi anda hanya supaya macOS membenarkannya membaca nama rangkaian Wi‑Fi anda untuk pencetus Wi‑Fi. Lokasi anda tidak pernah disimpan atau dikongsi.

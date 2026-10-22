@@ -1,0 +1,812 @@
+[
+ {
+  "table": "Localizable",
+  "key": "Wakeful Settings",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Terminal",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep the Mac awake automatically while an AI agent runs",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Agent process names",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Restore Defaults",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "AI Agents",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Comma-separated process names. Wakeful checks every few seconds and lets the Mac sleep again once they all finish.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "No triggers yet. Add one to keep the Mac awake automatically in certain situations.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Remove trigger",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Triggers",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "While any enabled trigger is active, your Mac stays awake. A session you start by hand always takes precedence.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep awake until a command finishes:",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Or control Wakeful from scripts, Raycast or Alfred:",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "External display connected",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Power adapter connected",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Camera or microphone in use (video calls)",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Connected to a Wi‑Fi network…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "On a schedule…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "App is open",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "App is in front",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Choose App…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Add Trigger",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Unlock",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "This is a Wakeful Pro feature",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Unlock automation, AI agent detection, history and more with a one-time purchase.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep awake on a Wi‑Fi network",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Network name",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "macOS requires Location access to read the Wi‑Fi name.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Use Current Network",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Cancel",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Add",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep awake on a schedule",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "From",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "To",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Clear all history?",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Recent Sessions",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Hours",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake time per day for the last 7 days",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Today",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Last 7 days",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Sessions",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Day",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "No sessions recorded yet.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Record history on this Mac",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Clear History…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "History is stored only on this Mac and is never sent anywhere.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Clear History",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep Mac Awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Prevents your Mac from sleeping, optionally for a number of minutes.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Minutes",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Leave empty to keep awake indefinitely.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Let Mac Sleep",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Toggle Keep Awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Is Mac Kept Awake?",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep Awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "The App Store is not available right now.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "AI agent mode",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stays awake while Claude Code, Codex, Gemini or any agent you add is working.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Automatic triggers",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "External display, power adapter, Wi‑Fi, apps, video calls and schedules.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Processes and apps",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stay awake until a command, script or app finishes.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Lid closed",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep working with the lid closed while plugged in.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "History",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "See how long your Mac stayed awake, and why.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Wakeful Pro is unlocked",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Wakeful Pro",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Thank you for supporting an independent developer!",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "One purchase. No subscription. Shared with your family.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Your purchase is waiting for approval.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Restore Purchases",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Unlock Pro",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Unlock for %@",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Manual",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Timer",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Automatic",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Timer finished. Your Mac can sleep again.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "%@ finished. Your Mac can sleep again.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "%@ quit. Your Mac can sleep again.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "All AI agents finished. Your Mac can sleep again.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stopped because the Mac is running on battery.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stopped because the battery is at %lld%%.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "AI agent running (%@)",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Off — your Mac sleeps normally",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake indefinitely",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake for %@ more",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake while %@ runs",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake while %@ is open",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake automatically: %@",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "General",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Automation",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Power",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Pro",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Launch at login",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Activate when Wakeful launches",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Left click on the menu bar icon",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Default duration",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Toggle shortcut",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Toggles keep-awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Opens the menu",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Indefinitely",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Allow display to sleep (keep only the system awake)",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Show countdown in the menu bar",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Notify when a session ends",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Battery",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stop when the Mac switches to battery",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Stop when battery drops to",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Never",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep awake with the lid closed",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "macOS only allows this while the Mac is connected to power. On battery, closing the lid still puts it to sleep.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "PRO",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Requires Wakeful Pro",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Turn Off",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep Awake Indefinitely",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Custom…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep Awake For",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "While AI Agent Runs",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "While App Is Open",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Allow Display to Sleep",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep Awake with Lid Closed",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Auto-Activate When AI Agents Run",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Automatic Triggers…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Unlock Wakeful Pro…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Settings…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Quit Wakeful",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "No AI agents running",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Edit Agent List…",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Keep awake for how long?",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Enter a duration in minutes.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Start",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "An external display is connected",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "The power adapter is connected",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Connected to Wi‑Fi “%@”",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "%@ is open",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "%@ is in front",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "The camera or microphone is in use",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "%@, %@–%@",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Every day",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Weekdays",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Weekends",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Wakeful",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "See whether your Mac is kept awake and switch it with one click.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Sleeps normally",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Until you turn it off",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Click to keep awake",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Prevents your Mac from sleeping.",
+  "comment": ""
+ },
+ {
+  "table": "Localizable",
+  "key": "Off",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Keep your Mac awake. One click.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Timers, a global shortcut and a live countdown, right in the menu bar.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Your AI agents keep working.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Stays awake while Claude Code, Codex or Gemini run, then lets your Mac sleep.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Automatic, when it matters.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "External display, power, Wi‑Fi, apps, video calls and schedules.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Widgets, Control Center and history.",
+  "comment": ""
+ },
+ {
+  "table": "Marketing",
+  "key": "Private by design: everything stays on your Mac.",
+  "comment": ""
+ },
+ {
+  "table": "AppShortcuts",
+  "key": "Keep my Mac awake with ${applicationName}",
+  "comment": ""
+ },
+ {
+  "table": "AppShortcuts",
+  "key": "Start ${applicationName}",
+  "comment": ""
+ },
+ {
+  "table": "AppShortcuts",
+  "key": "Stop ${applicationName}",
+  "comment": ""
+ },
+ {
+  "table": "AppShortcuts",
+  "key": "Let my Mac sleep with ${applicationName}",
+  "comment": ""
+ },
+ {
+  "table": "InfoPlist",
+  "key": "NSLocationUsageDescription",
+  "comment": "Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared."
+ }
+]

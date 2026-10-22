@@ -1,0 +1,9 @@
+.DS_Store
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+fastlane/screenshots/
+fastlane/app-store-connect-key.json
+fastlane/report.xml
+fastlane/README.md

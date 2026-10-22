@@ -1,0 +1,162 @@
+1|Ajustes de Wakeful
+2|Terminal
+3|Mantener el Mac despierto automáticamente mientras trabaja un agente de IA
+4|Nombres de procesos de agentes
+5|Restaurar valores por omisión
+6|Agentes de IA
+7|Nombres de procesos separados por comas. Wakeful comprueba cada pocos segundos y deja que el Mac vuelva a reposo cuando todos terminan.
+8|Aún no hay activadores. Añade uno para mantener el Mac despierto automáticamente en ciertas situaciones.
+9|Eliminar activador
+10|Activadores
+11|Mientras se cumpla cualquier activador habilitado, el Mac permanece despierto. Una sesión que inicies tú siempre tiene prioridad.
+12|Mantener despierto hasta que termine un comando:
+13|O controla Wakeful desde scripts, Raycast o Alfred:
+14|Pantalla externa conectada
+15|Adaptador de corriente conectado
+16|Cámara o micrófono en uso (videollamadas)
+17|Conectado a una red Wi‑Fi…
+18|Según un horario…
+19|La app está abierta
+20|La app está en primer plano
+21|Elegir app…
+22|Añadir activador
+23|Desbloquear
+24|Esta es una función de Wakeful Pro
+25|Desbloquea la automatización, la detección de agentes de IA, el historial y más con una compra única.
+26|Mantener despierto en una red Wi‑Fi
+27|Nombre de la red
+28|macOS requiere acceso a la ubicación para leer el nombre de la red Wi‑Fi.
+29|Usar la red actual
+30|Cancelar
+31|Añadir
+32|Mantener despierto según un horario
+33|Desde
+34|Hasta
+35|¿Borrar todo el historial?
+36|Sesiones recientes
+37|Horas
+38|Tiempo despierto por día en los últimos 7 días
+39|Hoy
+40|Últimos 7 días
+41|Sesiones
+42|Día
+43|Aún no hay sesiones registradas.
+44|Registrar el historial en este Mac
+45|Borrar historial…
+46|El historial se guarda solo en este Mac y nunca se envía a ningún sitio.
+47|Borrar historial
+48|Mantener el Mac despierto
+49|Evita que el Mac entre en reposo, opcionalmente durante unos minutos.
+50|Minutos
+51|Déjalo vacío para mantenerlo despierto indefinidamente.
+52|Dejar que el Mac entre en reposo
+53|Activar o desactivar mantener despierto
+54|¿Se mantiene el Mac despierto?
+55|Mantener despierto
+56|La App Store no está disponible en este momento.
+57|Modo agente de IA
+58|Permanece despierto mientras trabajan Claude Code, Codex, Gemini o cualquier agente que añadas.
+59|Activadores automáticos
+60|Pantalla externa, adaptador de corriente, Wi‑Fi, apps, videollamadas y horarios.
+61|Procesos y apps
+62|Permanece despierto hasta que termine un comando, script o app.
+63|Tapa cerrada
+64|Sigue trabajando con la tapa cerrada mientras está enchufado.
+65|Historial
+66|Consulta cuánto tiempo estuvo despierto el Mac y por qué.
+67|Wakeful Pro está desbloqueado
+68|Wakeful Pro
+69|¡Gracias por apoyar a un desarrollador independiente!
+70|Una sola compra. Sin suscripción. Compartida con tu familia.
+71|Tu compra está pendiente de aprobación.
+72|Restaurar compras
+73|Desbloquear Pro
+74|Desbloquear por %@
+75|Manual
+76|Temporizador
+77|Automático
+78|El temporizador ha terminado. El Mac puede volver a reposo.
+79|%@ ha terminado. El Mac puede volver a reposo.
+80|%@ se ha cerrado. El Mac puede volver a reposo.
+81|Todos los agentes de IA han terminado. El Mac puede volver a reposo.
+82|Detenido porque el Mac está usando la batería.
+83|Detenido porque la batería está al %lld %%.
+84|Agente de IA en ejecución (%@)
+85|Desactivado: el Mac entra en reposo con normalidad
+86|Despierto indefinidamente
+87|Despierto durante %@ más
+88|Despierto mientras %@ se ejecuta
+89|Despierto mientras %@ está abierta
+90|Despierto automáticamente: %@
+91|General
+92|Automatización
+93|Energía
+94|Pro
+95|Abrir al iniciar sesión
+96|Activar al abrir Wakeful
+97|Clic izquierdo en el icono de la barra de menús
+98|Duración por omisión
+99|Función rápida para alternar
+100|Activa o desactiva
+101|Abre el menú
+102|Indefinidamente
+103|Permitir el reposo de la pantalla (mantener solo el sistema despierto)
+104|Mostrar la cuenta atrás en la barra de menús
+105|Notificar cuando termine una sesión
+106|Batería
+107|Detener cuando el Mac pase a usar la batería
+108|Detener cuando la batería baje al
+109|Nunca
+110|Mantener despierto con la tapa cerrada
+111|macOS solo lo permite mientras el Mac está conectado a la corriente. Con batería, cerrar la tapa sigue poniéndolo en reposo.
+112|PRO
+113|Requiere Wakeful Pro
+114|Desactivar
+115|Mantener despierto indefinidamente
+116|Personalizado…
+117|Mantener despierto durante
+118|Mientras trabaja un agente de IA
+119|Mientras una app está abierta
+120|Permitir el reposo de la pantalla
+121|Mantener despierto con la tapa cerrada
+122|Activar automáticamente con agentes de IA
+123|Activadores automáticos…
+124|Desbloquear Wakeful Pro…
+125|Ajustes…
+126|Salir de Wakeful
+127|No hay agentes de IA en ejecución
+128|Editar la lista de agentes…
+129|¿Cuánto tiempo mantenerlo despierto?
+130|Introduce una duración en minutos.
+131|Iniciar
+132|Hay una pantalla externa conectada
+133|El adaptador de corriente está conectado
+134|Conectado a la red Wi‑Fi “%@”
+135|%@ está abierta
+136|%@ está en primer plano
+137|La cámara o el micrófono están en uso
+138|%@, %@–%@
+139|Todos los días
+140|Días laborables
+141|Fines de semana
+142|Wakeful
+143|Comprueba si el Mac se mantiene despierto y cámbialo con un clic.
+144|Despierto
+145|Reposo normal
+146|Hasta que lo desactives
+147|Haz clic para mantenerlo despierto
+148|Evita que el Mac entre en reposo.
+149|Desactivado
+150|Mantén tu Mac despierto. Con un clic.
+151|Temporizadores, una función rápida global y cuenta atrás en directo, en la barra de menús.
+152|Tus agentes de IA siguen trabajando.
+153|Permanece despierto mientras Claude Code, Codex o Gemini trabajan y luego deja que el Mac descanse.
+154|Automático, cuando importa.
+155|Pantalla externa, corriente, Wi‑Fi, apps, videollamadas y horarios.
+156|Widgets, Centro de control e historial.
+157|Privado por diseño: todo se queda en tu Mac.
+158|Mantén mi Mac despierto con ${applicationName}
+159|Iniciar ${applicationName}
+160|Detener ${applicationName}
+161|Deja que mi Mac entre en reposo con ${applicationName}
+162|Wakeful usa tu ubicación solo para que macOS le permita leer el nombre de tu red Wi‑Fi en los activadores de Wi‑Fi. Tu ubicación nunca se guarda ni se comparte.

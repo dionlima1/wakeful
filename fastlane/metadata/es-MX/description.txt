@@ -1,0 +1,30 @@
+Wakeful mantiene tu Mac despierto justo cuando lo necesitas y deja que repose el resto del tiempo.
+
+Haz clic en la taza de la barra de menús para evitar que el Mac entre en reposo, oscurezca la pantalla o active el salvapantallas. Elige un temporizador o deja que Wakeful decida por sí solo.
+
+HECHO PARA AGENTES DE IA Y TAREAS LARGAS
+• Permanece despierto mientras trabajan Claude Code, Codex, Gemini o cualquier agente que añadas, y deja que el Mac repose cuando terminan
+• Mantiene el Mac despierto hasta que termina un comando, un script o una app
+• Herramienta de terminal y esquema de URL para scripts, Raycast y Alfred
+
+GRATIS
+• Activa o desactiva con un clic desde la barra de menús
+• Temporizadores de 15 minutos a 8 horas, o cualquier duración personalizada
+• Cuenta atrás en directo en la barra de menús
+• Función rápida de teclado global
+• Mantén despierto solo el sistema y deja que la pantalla repose
+• Protección de batería: se detiene con batería o por debajo de un nivel de carga
+• Acciones de Atajos, widget de escritorio y control en el Centro de control (macOS 26)
+• Se abre al iniciar sesión y avisa cuando termina una sesión
+
+WAKEFUL PRO (COMPRA ÚNICA)
+• Modo agente de IA
+• Activadores automáticos: pantalla externa, adaptador de corriente, red Wi‑Fi, apps, videollamadas y horarios
+• Mantén despierto mientras se ejecuta un proceso o una app
+• Sigue trabajando con la tapa cerrada mientras está enchufado
+• Historial de cuánto tiempo, y por qué, estuvo despierto el Mac
+
+PRIVADO POR DISEÑO
+Sin cuenta, sin anuncios, sin rastreo. Todo se queda en tu Mac.
+
+macOS solo permite mantener el Mac despierto con la tapa cerrada mientras está conectado a la corriente.

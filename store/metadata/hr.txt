@@ -1,0 +1,36 @@
+name: Wakeful: Mac uvijek budan
+subtitle: Bez spavanja, timer i AI
+keywords: pripravno stanje,spavanje,nesanica,zaslon,čuvar zaslona,poklopac,baterija,mjerač,kofein,kod
+promo: Vaši AI agenti i dugi buildovi dovrše posao umjesto da stanu kad Mac zadrijema. Jedan klik, pametni okidači, bez pretplate.
+iap: AI agenti, okidači, poklopac, povijest
+---
+Wakeful drži Mac budnim točno kad vam treba, a ostatak vremena pušta ga u pripravno stanje.
+
+Kliknite šalicu u traci izbornika kako Mac ne bi prešao u pripravno stanje, zatamnio zaslon ili pokrenuo čuvar zaslona. Odaberite mjerač vremena ili pustite Wakeful da sam odluči.
+
+IZRAĐENO ZA AI AGENTE I DUGE ZADATKE
+• Ostaje budan dok rade Claude Code, Codex, Gemini ili bilo koji agent koji dodate, a kad završe, pušta Mac u pripravno stanje
+• Drži Mac budnim dok se naredba, skripta ili aplikacija ne završi
+• Alat naredbenog retka i URL shema za skripte, Raycast i Alfred
+
+BESPLATNO
+• Uključivanje jednim klikom iz trake izbornika
+• Mjerači vremena od 15 minuta do 8 sati ili bilo koje trajanje
+• Odbrojavanje uživo u traci izbornika
+• Globalni prečac tipkovnice
+• Budnim držite samo sustav, a zaslon pustite u pripravno stanje
+• Zaštita baterije: zaustavlja se na bateriji ili ispod određene razine napunjenosti
+• Radnje Prečaca, widget radne površine i kontrola u Kontrolnom centru (macOS 26)
+• Otvara se pri prijavi i obavještava kad sesija završi
+
+WAKEFUL PRO (JEDNOKRATNA KUPNJA)
+• Način AI agenta
+• Automatski okidači: vanjski zaslon, strujni adapter, Wi‑Fi mreža, aplikacije, videopozivi i rasporedi
+• Drži budnim dok radi proces ili aplikacija
+• Nastavite raditi sa zatvorenim poklopcem dok je Mac spojen na napajanje
+• Povijest koliko je dugo i zašto Mac bio budan
+
+PRIVATNOST OD TEMELJA
+Bez računa, bez oglasa, bez praćenja. Sve ostaje na vašem Macu.
+
+macOS dopušta držanje Maca budnim sa zatvorenim poklopcem samo dok je spojen na napajanje.

@@ -1,0 +1,95 @@
+name: Wakeful
+options:
+  bundleIdPrefix: com.dionlima
+  deploymentTarget:
+    macOS: "15.0"
+  createIntermediateGroups: true
+  developmentLanguage: en
+packages:
+  KeyboardShortcuts:
+    url: https://github.com/sindresorhus/KeyboardShortcuts
+    from: 2.0.0
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_EMIT_LOC_STRINGS: YES
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    DEVELOPMENT_TEAM: UL28GCBV3R
+    CODE_SIGN_STYLE: Automatic
+    ENABLE_HARDENED_RUNTIME: YES
+targets:
+  Wakeful:
+    type: application
+    platform: macOS
+    sources:
+      - Wakeful
+      - Shared
+    dependencies:
+      - package: KeyboardShortcuts
+      - target: WakefulWidgets
+    info:
+      path: Wakeful/Info.plist
+      properties:
+        LSUIElement: true
+        LSApplicationCategoryType: public.app-category.utilities
+        CFBundleDisplayName: Wakeful
+        CFBundleDevelopmentRegion: en
+        CFBundleAllowMixedLocalizations: true
+        ITSAppUsesNonExemptEncryption: false
+        NSHumanReadableCopyright: "© 2026 Dion Lima"
+        NSLocationUsageDescription: "Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared."
+        NSLocationWhenInUseUsageDescription: "Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared."
+        WakefulAppGroup: $(TeamIdentifierPrefix)com.dionlima.wakeful
+        CFBundleURLTypes:
+          - CFBundleURLName: com.dionlima.wakeful
+            CFBundleURLSchemes: [wakeful]
+    entitlements:
+      path: Wakeful/Wakeful.entitlements
+      properties:
+        com.apple.security.app-sandbox: true
+        com.apple.security.personal-information.location: true
+        com.apple.security.files.user-selected.read-only: true
+        com.apple.security.application-groups:
+          - $(TeamIdentifierPrefix)com.dionlima.wakeful
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.dionlima.wakeful
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.utilities
+  WakefulWidgets:
+    type: app-extension
+    platform: macOS
+    sources:
+      - WakefulWidgets
+      - Shared
+    info:
+      path: WakefulWidgets/Info.plist
+      properties:
+        CFBundleDisplayName: Wakeful
+        CFBundleDevelopmentRegion: en
+        WakefulAppGroup: $(TeamIdentifierPrefix)com.dionlima.wakeful
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: WakefulWidgets/WakefulWidgets.entitlements
+      properties:
+        com.apple.security.app-sandbox: true
+        com.apple.security.application-groups:
+          - $(TeamIdentifierPrefix)com.dionlima.wakeful
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.dionlima.wakeful.widgets
+        SKIP_INSTALL: YES
+schemes:
+  Wakeful:
+    build:
+      targets:
+        Wakeful: all
+    run:
+      config: Debug
+      storeKitConfiguration: StoreKit/Wakeful.storekit
+    archive:
+      config: Release

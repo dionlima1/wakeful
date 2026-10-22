@@ -1,0 +1,669 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F74A14B3051153C51DA4B67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1194B2B31EF2D6F8B75D85EE /* Assets.xcassets */; };
+		0FFAA25BEE2887A522702F1D /* Marketing.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 796A08CE6DDCE56CBDECF1FE /* Marketing.xcstrings */; };
+		20D16B8AEE1E5F4295EFB1CD /* ScreenshotRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E227CD77B69005A19730D7 /* ScreenshotRenderer.swift */; };
+		256FF97996207FBAB43D7D65 /* Battery.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFDE830B097F1B18F4C3DFD0 /* Battery.swift */; };
+		2674C5A714FED803EDC1049F /* KeyboardShortcuts in Frameworks */ = {isa = PBXBuildFile; productRef = F99D872C2D0BB24577E2535C /* KeyboardShortcuts */; };
+		2696D395B7E4BB7D72BE9862 /* ProView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78287B99D563854A1FD2153 /* ProView.swift */; };
+		270E369EBB89A243FB4A2BE7 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = F3DFA8B29A4330B1DFAB30A6 /* InfoPlist.xcstrings */; };
+		2B856A06D6723FF0A4013462 /* Triggers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8CEDB6E639C8E6E05FF3E5 /* Triggers.swift */; };
+		37E29190096E451FD857E332 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7F5D6F6050F50E3B1F360E /* HistoryView.swift */; };
+		3C270EDD328A2DBE1D42E7BE /* SharedState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8996B22029A4A2BBDCF9466E /* SharedState.swift */; };
+		3FD64049995A73CBA6C22DE5 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 9F37F8D4FE98A692554C2C23 /* Localizable.xcstrings */; };
+		4EB99BB54A1152AE864FD493 /* WakefulWidgets.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 9EC0C3948EC21994CB0E7DD3 /* WakefulWidgets.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		5E9B1B0C3E4232B6A7EAD920 /* Sensors.swift in Sources */ = {isa = PBXBuildFile; fileRef = E686E3C06733F609A527BDF5 /* Sensors.swift */; };
+		6F8F5AE3F879831287B75C58 /* AutomationSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9284CC04FAB18099BB49D9 /* AutomationSettings.swift */; };
+		7A3EEB50E0E6F96F1E63F201 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA0FC4203BAEB7C595A7569D /* PrivacyInfo.xcprivacy */; };
+		843E236F269B1384E23ADA9B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B67C16E232CFBB11C2607C3F /* AppDelegate.swift */; };
+		8E6F0FAA00D327C96509471B /* AppShortcuts.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 4E1EBE368D3D26934F729A21 /* AppShortcuts.xcstrings */; };
+		A0C62927CAC173641B427B10 /* PowerAssertion.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA30B23683AA6ED13DDD28C5 /* PowerAssertion.swift */; };
+		A4B5747A1D7BE4BF1F2AC392 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2BF2ED7F60C6EED0DAA3D7 /* Preferences.swift */; };
+		A9862C37A34A955438293B79 /* WakefulWidgets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4525C6CFDB7E99090C02FDC /* WakefulWidgets.swift */; };
+		B33A0C5CC1761DCC4CFCD6AF /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 9F37F8D4FE98A692554C2C23 /* Localizable.xcstrings */; };
+		B87CFF122181045888EE16D4 /* StatusItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8858394196DE26DB7A9A796C /* StatusItemController.swift */; };
+		B969809298D6F811BB51EABF /* SessionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335DD10BE6F65C4868DE39E2 /* SessionController.swift */; };
+		CA445FEC30A1F24153B94276 /* ProcessList.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCEC92800A461A84924F09EC /* ProcessList.swift */; };
+		CF0DE0EA800A7E2FDE2445A5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8414E00B237B680EA7A38094 /* SettingsView.swift */; };
+		D29E19B48F545BB592ADEF29 /* SharedState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8996B22029A4A2BBDCF9466E /* SharedState.swift */; };
+		D42A1ED6B49734A082038CC2 /* URLCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552517F7303A2946DE9D6332 /* URLCommand.swift */; };
+		D7426FB4B0213DEA886F21FE /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = AA0FC4203BAEB7C595A7569D /* PrivacyInfo.xcprivacy */; };
+		E87D2D933D379FF79D87E9E6 /* Intents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF26102D9ACE383D9B451 /* Intents.swift */; };
+		E8BBE8D3DCDF04319D87E0AB /* ProStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3391F518067BCA0094C2A /* ProStore.swift */; };
+		E9051F1B997424207FC5AB3A /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78DF359BA98F56D140028FD3 /* History.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		848102DD019E34518E751468 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FC11C6069D3BC7FB9E65122 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C1DC6511C7A63D464DB7649E;
+			remoteInfo = WakefulWidgets;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2496A88AE0B43C26FD98C2E9 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				4EB99BB54A1152AE864FD493 /* WakefulWidgets.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0A2BF2ED7F60C6EED0DAA3D7 /* Preferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		1194B2B31EF2D6F8B75D85EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1A7F5D6F6050F50E3B1F360E /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		1C19B13A7523C0CFDBDAE322 /* WakefulWidgets.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WakefulWidgets.entitlements; sourceTree = "<group>"; };
+		1C9284CC04FAB18099BB49D9 /* AutomationSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationSettings.swift; sourceTree = "<group>"; };
+		23E227CD77B69005A19730D7 /* ScreenshotRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenshotRenderer.swift; sourceTree = "<group>"; };
+		335DD10BE6F65C4868DE39E2 /* SessionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionController.swift; sourceTree = "<group>"; };
+		3AC74443F865247FDE98FC2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		4E1EBE368D3D26934F729A21 /* AppShortcuts.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AppShortcuts.xcstrings; sourceTree = "<group>"; };
+		51B3391F518067BCA0094C2A /* ProStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProStore.swift; sourceTree = "<group>"; };
+		552517F7303A2946DE9D6332 /* URLCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLCommand.swift; sourceTree = "<group>"; };
+		631BA7D0018C4EA40A94D0D3 /* Wakeful.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Wakeful.entitlements; sourceTree = "<group>"; };
+		78DF359BA98F56D140028FD3 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		796A08CE6DDCE56CBDECF1FE /* Marketing.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Marketing.xcstrings; sourceTree = "<group>"; };
+		8414E00B237B680EA7A38094 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		8858394196DE26DB7A9A796C /* StatusItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusItemController.swift; sourceTree = "<group>"; };
+		8996B22029A4A2BBDCF9466E /* SharedState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedState.swift; sourceTree = "<group>"; };
+		8C6454A1ECF8D123F245132B /* Wakeful.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wakeful.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FDF26102D9ACE383D9B451 /* Intents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intents.swift; sourceTree = "<group>"; };
+		9EC0C3948EC21994CB0E7DD3 /* WakefulWidgets.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = WakefulWidgets.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F37F8D4FE98A692554C2C23 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		AA0FC4203BAEB7C595A7569D /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		B67C16E232CFBB11C2607C3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B78287B99D563854A1FD2153 /* ProView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProView.swift; sourceTree = "<group>"; };
+		BE8CEDB6E639C8E6E05FF3E5 /* Triggers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triggers.swift; sourceTree = "<group>"; };
+		CFDE830B097F1B18F4C3DFD0 /* Battery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Battery.swift; sourceTree = "<group>"; };
+		DA30B23683AA6ED13DDD28C5 /* PowerAssertion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerAssertion.swift; sourceTree = "<group>"; };
+		DCEC92800A461A84924F09EC /* ProcessList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessList.swift; sourceTree = "<group>"; };
+		E4525C6CFDB7E99090C02FDC /* WakefulWidgets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WakefulWidgets.swift; sourceTree = "<group>"; };
+		E686E3C06733F609A527BDF5 /* Sensors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sensors.swift; sourceTree = "<group>"; };
+		F0A1728C5592E1843B81C8D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F3DFA8B29A4330B1DFAB30A6 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		71E261E105CEF3E9EFE08055 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2674C5A714FED803EDC1049F /* KeyboardShortcuts in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0603C90E60E3E4B11525D7D4 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				9F37F8D4FE98A692554C2C23 /* Localizable.xcstrings */,
+				AA0FC4203BAEB7C595A7569D /* PrivacyInfo.xcprivacy */,
+				8996B22029A4A2BBDCF9466E /* SharedState.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		288F118AA5B8526490C0F68E /* App */ = {
+			isa = PBXGroup;
+			children = (
+				B67C16E232CFBB11C2607C3F /* AppDelegate.swift */,
+				93FDF26102D9ACE383D9B451 /* Intents.swift */,
+				552517F7303A2946DE9D6332 /* URLCommand.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		51C561842E76CB7250BDEB56 = {
+			isa = PBXGroup;
+			children = (
+				0603C90E60E3E4B11525D7D4 /* Shared */,
+				A4C63747344F9D6BB7CF05EC /* Wakeful */,
+				981DAB1ED5763FA968551122 /* WakefulWidgets */,
+				921650A1DB9D4AA0D49D1E37 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7574AF4A854C8C9FC70E1C40 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				CFDE830B097F1B18F4C3DFD0 /* Battery.swift */,
+				78DF359BA98F56D140028FD3 /* History.swift */,
+				DA30B23683AA6ED13DDD28C5 /* PowerAssertion.swift */,
+				0A2BF2ED7F60C6EED0DAA3D7 /* Preferences.swift */,
+				DCEC92800A461A84924F09EC /* ProcessList.swift */,
+				51B3391F518067BCA0094C2A /* ProStore.swift */,
+				E686E3C06733F609A527BDF5 /* Sensors.swift */,
+				335DD10BE6F65C4868DE39E2 /* SessionController.swift */,
+				BE8CEDB6E639C8E6E05FF3E5 /* Triggers.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		8EAFB72997A4C4430CB26E19 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				796A08CE6DDCE56CBDECF1FE /* Marketing.xcstrings */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		921650A1DB9D4AA0D49D1E37 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C6454A1ECF8D123F245132B /* Wakeful.app */,
+				9EC0C3948EC21994CB0E7DD3 /* WakefulWidgets.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		96843576368B2A12536560A9 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				1C9284CC04FAB18099BB49D9 /* AutomationSettings.swift */,
+				1A7F5D6F6050F50E3B1F360E /* HistoryView.swift */,
+				B78287B99D563854A1FD2153 /* ProView.swift */,
+				8414E00B237B680EA7A38094 /* SettingsView.swift */,
+				8858394196DE26DB7A9A796C /* StatusItemController.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		981DAB1ED5763FA968551122 /* WakefulWidgets */ = {
+			isa = PBXGroup;
+			children = (
+				F0A1728C5592E1843B81C8D7 /* Info.plist */,
+				1C19B13A7523C0CFDBDAE322 /* WakefulWidgets.entitlements */,
+				E4525C6CFDB7E99090C02FDC /* WakefulWidgets.swift */,
+			);
+			path = WakefulWidgets;
+			sourceTree = "<group>";
+		};
+		A4C63747344F9D6BB7CF05EC /* Wakeful */ = {
+			isa = PBXGroup;
+			children = (
+				4E1EBE368D3D26934F729A21 /* AppShortcuts.xcstrings */,
+				1194B2B31EF2D6F8B75D85EE /* Assets.xcassets */,
+				3AC74443F865247FDE98FC2C /* Info.plist */,
+				F3DFA8B29A4330B1DFAB30A6 /* InfoPlist.xcstrings */,
+				631BA7D0018C4EA40A94D0D3 /* Wakeful.entitlements */,
+				288F118AA5B8526490C0F68E /* App */,
+				7574AF4A854C8C9FC70E1C40 /* Core */,
+				B6BE61BD6A4AD02E721C7FB6 /* Debug */,
+				8EAFB72997A4C4430CB26E19 /* Resources */,
+				96843576368B2A12536560A9 /* UI */,
+			);
+			path = Wakeful;
+			sourceTree = "<group>";
+		};
+		B6BE61BD6A4AD02E721C7FB6 /* Debug */ = {
+			isa = PBXGroup;
+			children = (
+				23E227CD77B69005A19730D7 /* ScreenshotRenderer.swift */,
+			);
+			path = Debug;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D75B347C4EF484EA3D9235C /* Wakeful */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E8AE5C72FD7CAFB68608CD8 /* Build configuration list for PBXNativeTarget "Wakeful" */;
+			buildPhases = (
+				4EED3C166ADDD76246FA0B91 /* Sources */,
+				5A18C1FF00E5E456B42A81E3 /* Resources */,
+				71E261E105CEF3E9EFE08055 /* Frameworks */,
+				2496A88AE0B43C26FD98C2E9 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				117C3CC69B1B4368CD322662 /* PBXTargetDependency */,
+			);
+			name = Wakeful;
+			packageProductDependencies = (
+				F99D872C2D0BB24577E2535C /* KeyboardShortcuts */,
+			);
+			productName = Wakeful;
+			productReference = 8C6454A1ECF8D123F245132B /* Wakeful.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C1DC6511C7A63D464DB7649E /* WakefulWidgets */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9133CBB7FCD1F1119AC90830 /* Build configuration list for PBXNativeTarget "WakefulWidgets" */;
+			buildPhases = (
+				5A5FF2707E19A93D8FA71DFA /* Sources */,
+				8D79751625E7891CC2C5263D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WakefulWidgets;
+			packageProductDependencies = (
+			);
+			productName = WakefulWidgets;
+			productReference = 9EC0C3948EC21994CB0E7DD3 /* WakefulWidgets.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2FC11C6069D3BC7FB9E65122 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					1D75B347C4EF484EA3D9235C = {
+						DevelopmentTeam = UL28GCBV3R;
+						ProvisioningStyle = Automatic;
+					};
+					C1DC6511C7A63D464DB7649E = {
+						DevelopmentTeam = UL28GCBV3R;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 520B8BDAD79734CE7DB89E22 /* Build configuration list for PBXProject "Wakeful" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				ar,
+				ca,
+				cs,
+				da,
+				de,
+				el,
+				en,
+				es,
+				fi,
+				fr,
+				he,
+				hi,
+				hr,
+				hu,
+				id,
+				it,
+				ja,
+				ko,
+				ms,
+				nb,
+				nl,
+				pl,
+				"pt-BR",
+				"pt-PT",
+				ro,
+				ru,
+				sk,
+				sv,
+				th,
+				tr,
+				uk,
+				vi,
+				"zh-Hans",
+				"zh-Hant",
+			);
+			mainGroup = 51C561842E76CB7250BDEB56;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				70C56374BBF6EA6A0F68D80A /* XCRemoteSwiftPackageReference "KeyboardShortcuts" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 921650A1DB9D4AA0D49D1E37 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D75B347C4EF484EA3D9235C /* Wakeful */,
+				C1DC6511C7A63D464DB7649E /* WakefulWidgets */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5A18C1FF00E5E456B42A81E3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E6F0FAA00D327C96509471B /* AppShortcuts.xcstrings in Resources */,
+				0F74A14B3051153C51DA4B67 /* Assets.xcassets in Resources */,
+				270E369EBB89A243FB4A2BE7 /* InfoPlist.xcstrings in Resources */,
+				B33A0C5CC1761DCC4CFCD6AF /* Localizable.xcstrings in Resources */,
+				0FFAA25BEE2887A522702F1D /* Marketing.xcstrings in Resources */,
+				D7426FB4B0213DEA886F21FE /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D79751625E7891CC2C5263D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FD64049995A73CBA6C22DE5 /* Localizable.xcstrings in Resources */,
+				7A3EEB50E0E6F96F1E63F201 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4EED3C166ADDD76246FA0B91 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				843E236F269B1384E23ADA9B /* AppDelegate.swift in Sources */,
+				6F8F5AE3F879831287B75C58 /* AutomationSettings.swift in Sources */,
+				256FF97996207FBAB43D7D65 /* Battery.swift in Sources */,
+				E9051F1B997424207FC5AB3A /* History.swift in Sources */,
+				37E29190096E451FD857E332 /* HistoryView.swift in Sources */,
+				E87D2D933D379FF79D87E9E6 /* Intents.swift in Sources */,
+				A0C62927CAC173641B427B10 /* PowerAssertion.swift in Sources */,
+				A4B5747A1D7BE4BF1F2AC392 /* Preferences.swift in Sources */,
+				E8BBE8D3DCDF04319D87E0AB /* ProStore.swift in Sources */,
+				2696D395B7E4BB7D72BE9862 /* ProView.swift in Sources */,
+				CA445FEC30A1F24153B94276 /* ProcessList.swift in Sources */,
+				20D16B8AEE1E5F4295EFB1CD /* ScreenshotRenderer.swift in Sources */,
+				5E9B1B0C3E4232B6A7EAD920 /* Sensors.swift in Sources */,
+				B969809298D6F811BB51EABF /* SessionController.swift in Sources */,
+				CF0DE0EA800A7E2FDE2445A5 /* SettingsView.swift in Sources */,
+				3C270EDD328A2DBE1D42E7BE /* SharedState.swift in Sources */,
+				B87CFF122181045888EE16D4 /* StatusItemController.swift in Sources */,
+				2B856A06D6723FF0A4013462 /* Triggers.swift in Sources */,
+				D42A1ED6B49734A082038CC2 /* URLCommand.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A5FF2707E19A93D8FA71DFA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D29E19B48F545BB592ADEF29 /* SharedState.swift in Sources */,
+				A9862C37A34A955438293B79 /* WakefulWidgets.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		117C3CC69B1B4368CD322662 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C1DC6511C7A63D464DB7649E /* WakefulWidgets */;
+			targetProxy = 848102DD019E34518E751468 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		25FED7A10BD9A21277B3CB38 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = WakefulWidgets/WakefulWidgets.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = WakefulWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dionlima.wakeful.widgets;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		291E60DC0783ED9CA42517A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = UL28GCBV3R;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		32134440A0F46261ECD8CA43 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Wakeful/Wakeful.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Wakeful/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dionlima.wakeful;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		788B1549D4994B05591ACA86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Wakeful/Wakeful.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Wakeful/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dionlima.wakeful;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		9201CDC940C86DF952F7779F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = UL28GCBV3R;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CC017A304D67008237EE802D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = WakefulWidgets/WakefulWidgets.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = WakefulWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dionlima.wakeful.widgets;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2E8AE5C72FD7CAFB68608CD8 /* Build configuration list for PBXNativeTarget "Wakeful" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				788B1549D4994B05591ACA86 /* Debug */,
+				32134440A0F46261ECD8CA43 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		520B8BDAD79734CE7DB89E22 /* Build configuration list for PBXProject "Wakeful" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				291E60DC0783ED9CA42517A7 /* Debug */,
+				9201CDC940C86DF952F7779F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9133CBB7FCD1F1119AC90830 /* Build configuration list for PBXNativeTarget "WakefulWidgets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25FED7A10BD9A21277B3CB38 /* Debug */,
+				CC017A304D67008237EE802D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		70C56374BBF6EA6A0F68D80A /* XCRemoteSwiftPackageReference "KeyboardShortcuts" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sindresorhus/KeyboardShortcuts";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F99D872C2D0BB24577E2535C /* KeyboardShortcuts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 70C56374BBF6EA6A0F68D80A /* XCRemoteSwiftPackageReference "KeyboardShortcuts" */;
+			productName = KeyboardShortcuts;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 2FC11C6069D3BC7FB9E65122 /* Project object */;
+}

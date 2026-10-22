@@ -1,0 +1,15 @@
+#!/bin/sh
+# Keeps the Mac awake (via the Wakeful app) until the given command finishes.
+#   wakeful run <command> [args...]
+#   wakeful start [minutes] | stop | toggle
+set -e
+case "$1" in
+  run)
+    shift
+    [ $# -gt 0 ] || { echo "usage: wakeful run <command> [args...]" >&2; exit 64; }
+    open -g "wakeful://watch?pid=$$&name=$(basename "$1")"
+    exec "$@" ;;
+  start) open -g "wakeful://start${2:+?minutes=$2}" ;;
+  stop|toggle) open -g "wakeful://$1" ;;
+  *) echo "usage: wakeful run <command> | start [minutes] | stop | toggle" >&2; exit 64 ;;
+esac

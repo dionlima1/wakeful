@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wakeful – Keep Mac Awake</title>
+<meta name="description" content="Wakeful keeps your Mac awake while you work and while your AI agents run. Timers, smart triggers, widgets and no subscription.">
+<link rel="icon" href="icon.png">
+<style>
+  :root {
+    --bg: #f7f6fb; --surface: #ffffff; --ink: #1d1b2e; --muted: #5f5c74; --accent: #e8781e; --night: #221f63; --line: #e4e2ef;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0f0e1f; --surface: #1a1930; --ink: #f1f0f8; --muted: #a9a6c2; --accent: #ff9f43; --night: #2b2878; --line: #2c2a47; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif; }
+  a { color: var(--accent); }
+  header { background: linear-gradient(180deg, #3b35a0, var(--night) 60%, #0f0e2e); color: #fff; text-align: center; padding: 64px 16px 0; }
+  header img.icon { width: 112px; height: 112px; }
+  header h1 { font-size: clamp(32px, 6vw, 52px); margin: 12px 0 8px; letter-spacing: -0.02em; }
+  header p { color: #d9d7f2; max-width: 640px; margin: 0 auto 24px; font-size: 19px; }
+  .badge { display: inline-block; background: #fff; color: #111; text-decoration: none; padding: 12px 22px; border-radius: 12px; font-weight: 600; }
+  header img.shot { display: block; width: min(960px, 100%); margin: 40px auto 0; border-radius: 14px 14px 0 0; }
+  main { max-width: 880px; margin: 0 auto; padding: 48px 16px 64px; }
+  h2 { font-size: 28px; margin: 48px 0 12px; letter-spacing: -0.01em; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+  .card h3 { margin: 0 0 6px; font-size: 17px; }
+  .card p { margin: 0; color: var(--muted); font-size: 15px; }
+  code { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; font-size: 14px; word-break: break-word; }
+  details { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; margin: 10px 0; }
+  summary { cursor: pointer; font-weight: 600; }
+  details p { color: var(--muted); margin: 10px 0 0; }
+  img.wide { width: 100%; border-radius: 12px; border: 1px solid var(--line); margin-top: 16px; }
+  footer { text-align: center; color: var(--muted); font-size: 14px; padding: 24px 16px 48px; }
+</style>
+</head>
+<body>
+<header>
+  <img class="icon" src="icon.png" alt="Wakeful app icon">
+  <h1>Wakeful</h1>
+  <p>Keeps your Mac awake exactly when you need it — while you present, read, download, or while your AI agents work — and lets it sleep the rest of the time.</p>
+  <a class="badge" href="#download">Download on the Mac App Store</a>
+  <img class="shot" src="menu.jpg" alt="The Wakeful menu in the macOS menu bar with timers from 15 minutes to 8 hours">
+</header>
+
+<main>
+  <h2>Built for AI agents</h2>
+  <p>Wakeful notices when Claude Code, Codex, Gemini or any command-line agent you add is running, keeps the Mac awake while they work, and tells you when they are done.</p>
+  <img class="wide" src="agents.jpg" alt="A terminal running AI agents next to the Wakeful menu and a notification saying all agents finished">
+
+  <h2>Features</h2>
+  <div class="grid">
+    <div class="card"><h3>One click</h3><p>Toggle from the menu bar, pick a timer or a custom duration, and see a live countdown.</p></div>
+    <div class="card"><h3>Smart triggers <small>(Pro)</small></h3><p>External display, power adapter, Wi‑Fi network, apps, video calls and schedules.</p></div>
+    <div class="card"><h3>Processes &amp; apps <small>(Pro)</small></h3><p>Stay awake until a command, script or app finishes.</p></div>
+    <div class="card"><h3>Lid closed <small>(Pro)</small></h3><p>Keep working with the lid closed while plugged in.</p></div>
+    <div class="card"><h3>Widgets &amp; Control Center</h3><p>A desktop widget, a Control Center control on macOS 26 and Shortcuts actions.</p></div>
+    <div class="card"><h3>Private</h3><p>No account, no ads, no tracking. Everything stays on your Mac.</p></div>
+  </div>
+
+  <h2 id="support">Support</h2>
+  <details><summary>Where is Wakeful after I open it?</summary><p>Wakeful lives in the menu bar (look for the coffee cup). Left-click toggles it; right-click opens the menu. You can swap the two in Settings.</p></details>
+  <details><summary>How do I keep my Mac awake until a command finishes?</summary><p>Run <code>open -g "wakeful://watch?pid=$$" &amp;&amp; your-command</code> in Terminal. Wakeful stays awake until that shell exits. Other commands: <code>wakeful://start?minutes=45</code>, <code>wakeful://stop</code>, <code>wakeful://toggle</code>.</p></details>
+  <details><summary>Why does my MacBook still sleep when I close the lid?</summary><p>macOS only lets apps keep a Mac awake with the lid closed while it is connected to power. Turn on “Keep Awake with Lid Closed” (Pro) and plug in the charger.</p></details>
+  <details><summary>Why does Wakeful ask for my location?</summary><p>Only if you add a Wi‑Fi trigger. macOS requires Location permission to read the name of your Wi‑Fi network. Wakeful never stores or sends your location.</p></details>
+  <details><summary>How do I restore Wakeful Pro on another Mac?</summary><p>Open Settings › Pro and click “Restore Purchases”. Pro is a one-time purchase and works with Family Sharing.</p></details>
+  <p>Something else? <a href="https://github.com/dionlima1/wakeful/issues">Open an issue</a> and I will get back to you.</p>
+
+  <h2 lang="pt-BR">Em português</h2>
+  <div lang="pt-BR">
+    <p>O Wakeful mantém o Mac acordado exatamente quando você precisa — numa apresentação, num download ou enquanto seus agentes de IA trabalham — e deixa ele repousar no resto do tempo. Timers, gatilhos automáticos, widget, Central de Controle e nenhuma assinatura.</p>
+    <img class="wide" src="menu-pt.jpg" alt="O menu do Wakeful em português na barra de menus do macOS">
+    <p>Dúvidas ou problemas? <a href="https://github.com/dionlima1/wakeful/issues">Abra uma issue</a>. Veja também a <a href="privacy.html#pt">política de privacidade</a>.</p>
+  </div>
+  <p id="download"></p>
+</main>
+
+<footer>© 2026 Dion Lima · <a href="privacy.html">Privacy Policy</a></footer>
+</body>
+</html>

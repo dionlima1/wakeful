@@ -1,0 +1,162 @@
+1|Wakeful Ayarları
+2|Terminal
+3|Bir yapay zekâ ajanı çalışırken Mac’i otomatik olarak uyanık tut
+4|Ajan işlem adları
+5|Saptanmışlara Geri Dön
+6|Yapay Zekâ Ajanları
+7|Virgülle ayrılmış işlem adları. Wakeful birkaç saniyede bir kontrol eder ve hepsi bitince Mac’in yeniden uyumasına izin verir.
+8|Henüz tetikleyici yok. Belirli durumlarda Mac’i otomatik olarak uyanık tutmak için bir tane ekleyin.
+9|Tetikleyiciyi sil
+10|Tetikleyiciler
+11|Etkin tetikleyicilerden herhangi biri geçerli olduğu sürece Mac uyanık kalır. Elle başlattığınız bir oturum her zaman önceliklidir.
+12|Bir komut bitene kadar uyanık tut:
+13|Veya Wakeful’u betiklerden, Raycast’ten ya da Alfred’den denetleyin:
+14|Harici ekran bağlı
+15|Güç adaptörü bağlı
+16|Kamera veya mikrofon kullanımda (görüntülü aramalar)
+17|Bir Wi‑Fi ağına bağlı…
+18|Bir zamanlamaya göre…
+19|Uygulama açık
+20|Uygulama önde
+21|Uygulama Seç…
+22|Tetikleyici Ekle
+23|Kilidi Aç
+24|Bu bir Wakeful Pro özelliğidir
+25|Otomasyonu, yapay zekâ ajanı algılamayı, geçmişi ve daha fazlasını tek seferlik bir satın alımla açın.
+26|Bir Wi‑Fi ağında uyanık tut
+27|Ağ adı
+28|macOS, Wi‑Fi adını okumak için Konum erişimi gerektirir.
+29|Geçerli Ağı Kullan
+30|Vazgeç
+31|Ekle
+32|Bir zamanlamaya göre uyanık tut
+33|Başlangıç
+34|Bitiş
+35|Tüm geçmiş silinsin mi?
+36|Son Oturumlar
+37|Saat
+38|Son 7 günde günlük uyanık kalma süresi
+39|Bugün
+40|Son 7 gün
+41|Oturumlar
+42|Gün
+43|Henüz kaydedilmiş oturum yok.
+44|Geçmişi bu Mac’e kaydet
+45|Geçmişi Sil…
+46|Geçmiş yalnızca bu Mac’te saklanır ve hiçbir yere gönderilmez.
+47|Geçmişi Sil
+48|Mac’i Uyanık Tut
+49|Mac’in uyumasını önler; isteğe bağlı olarak belirli bir dakika boyunca.
+50|Dakika
+51|Süresiz olarak uyanık tutmak için boş bırakın.
+52|Mac’in Uyumasına İzin Ver
+53|Uyanık Tutmayı Aç/Kapat
+54|Mac Uyanık Tutuluyor mu?
+55|Uyanık Tut
+56|App Store şu anda kullanılamıyor.
+57|Yapay zekâ ajanı modu
+58|Claude Code, Codex, Gemini veya eklediğiniz herhangi bir ajan çalışırken uyanık kalır.
+59|Otomatik tetikleyiciler
+60|Harici ekran, güç adaptörü, Wi‑Fi, uygulamalar, görüntülü aramalar ve zamanlamalar.
+61|İşlemler ve uygulamalar
+62|Bir komut, betik veya uygulama bitene kadar uyanık kalır.
+63|Kapak kapalı
+64|Prize takılıyken kapak kapalı çalışmaya devam edin.
+65|Geçmiş
+66|Mac’in ne kadar süre ve neden uyanık kaldığını görün.
+67|Wakeful Pro’nun kilidi açıldı
+68|Wakeful Pro
+69|Bağımsız bir geliştiriciyi desteklediğiniz için teşekkürler!
+70|Tek satın alım. Abonelik yok. Ailenizle paylaşılır.
+71|Satın alımınız onay bekliyor.
+72|Satın Alımları Geri Yükle
+73|Pro’nun Kilidini Aç
+74|%@ karşılığında kilidi aç
+75|Elle
+76|Zamanlayıcı
+77|Otomatik
+78|Zamanlayıcı bitti. Mac yeniden uyuyabilir.
+79|%@ bitti. Mac yeniden uyuyabilir.
+80|%@ kapatıldı. Mac yeniden uyuyabilir.
+81|Tüm yapay zekâ ajanları bitti. Mac yeniden uyuyabilir.
+82|Mac pil gücüyle çalıştığı için durduruldu.
+83|Pil %%%lld seviyesinde olduğu için durduruldu.
+84|Yapay zekâ ajanı çalışıyor (%@)
+85|Kapalı — Mac normal şekilde uyur
+86|Süresiz olarak uyanık
+87|%@ daha uyanık
+88|%@ çalışırken uyanık
+89|%@ açıkken uyanık
+90|Otomatik olarak uyanık: %@
+91|Genel
+92|Otomasyon
+93|Güç
+94|Pro
+95|Oturum açıldığında aç
+96|Wakeful açıldığında etkinleştir
+97|Menü çubuğu simgesine sol tıklama
+98|Saptanmış süre
+99|Açma/kapama kestirmesi
+100|Uyanık tutmayı açar/kapatır
+101|Menüyü açar
+102|Süresiz
+103|Ekranın uyumasına izin ver (yalnızca sistemi uyanık tut)
+104|Menü çubuğunda geri sayımı göster
+105|Bir oturum bittiğinde bildir
+106|Pil
+107|Mac pil gücüne geçtiğinde durdur
+108|Pil şu seviyeye düştüğünde durdur
+109|Hiçbir Zaman
+110|Kapak kapalıyken uyanık tut
+111|macOS buna yalnızca Mac güce bağlıyken izin verir. Pil gücündeyken kapağı kapatmak Mac’i yine uyutur.
+112|PRO
+113|Wakeful Pro gerektirir
+114|Kapat
+115|Süresiz Olarak Uyanık Tut
+116|Özel…
+117|Şu Süre Uyanık Tut
+118|Bir Yapay Zekâ Ajanı Çalışırken
+119|Bir Uygulama Açıkken
+120|Ekranın Uyumasına İzin Ver
+121|Kapak Kapalıyken Uyanık Tut
+122|Yapay Zekâ Ajanları Çalışınca Otomatik Etkinleştir
+123|Otomatik Tetikleyiciler…
+124|Wakeful Pro’nun Kilidini Aç…
+125|Ayarlar…
+126|Wakeful’dan Çık
+127|Çalışan yapay zekâ ajanı yok
+128|Ajan Listesini Düzenle…
+129|Ne kadar süre uyanık tutulsun?
+130|Dakika cinsinden bir süre girin.
+131|Başlat
+132|Harici bir ekran bağlı
+133|Güç adaptörü bağlı
+134|“%@” Wi‑Fi ağına bağlı
+135|%@ açık
+136|%@ önde
+137|Kamera veya mikrofon kullanımda
+138|%@, %@–%@
+139|Her gün
+140|Hafta içi
+141|Hafta sonu
+142|Wakeful
+143|Mac’in uyanık tutulup tutulmadığını görün ve tek tıkla değiştirin.
+144|Uyanık
+145|Normal şekilde uyur
+146|Siz kapatana kadar
+147|Uyanık tutmak için tıklayın
+148|Mac’in uyumasını önler.
+149|Kapalı
+150|Mac’inizi uyanık tutun. Tek tıkla.
+151|Zamanlayıcılar, genel kestirme ve canlı geri sayım, doğrudan menü çubuğunda.
+152|Yapay zekâ ajanlarınız çalışmaya devam eder.
+153|Claude Code, Codex veya Gemini çalışırken uyanık kalır, sonra Mac’in dinlenmesine izin verir.
+154|Önemli olduğunda, otomatik.
+155|Harici ekran, güç, Wi‑Fi, uygulamalar, görüntülü aramalar ve zamanlamalar.
+156|Widget’lar, Denetim Merkezi ve geçmiş.
+157|Gizlilik odaklı: Her şey Mac’inizde kalır.
+158|${applicationName} ile Mac’imi uyanık tut
+159|${applicationName} uygulamasını başlat
+160|${applicationName} uygulamasını durdur
+161|${applicationName} ile Mac’imin uyumasına izin ver
+162|Wakeful konumunuzu yalnızca macOS’in Wi‑Fi tetikleyicileri için Wi‑Fi ağınızın adını okumasına izin vermesi amacıyla kullanır. Konumunuz hiçbir zaman saklanmaz veya paylaşılmaz.

@@ -1,0 +1,158 @@
+{
+  "en-US": {
+    "name": "Wakeful Pro",
+    "description": "AI agents, triggers, lid closed and history"
+  },
+  "en-GB": {
+    "name": "Wakeful Pro",
+    "description": "AI agents, triggers, lid closed and history"
+  },
+  "en-AU": {
+    "name": "Wakeful Pro",
+    "description": "AI agents, triggers, lid closed and history"
+  },
+  "en-CA": {
+    "name": "Wakeful Pro",
+    "description": "AI agents, triggers, lid closed and history"
+  },
+  "ar-SA": {
+    "name": "Wakeful Pro",
+    "description": "وكلاء AI ومشغّلات والغطاء المغلق والسجل"
+  },
+  "ca": {
+    "name": "Wakeful Pro",
+    "description": "Agents d’IA, activadors, tapa i historial"
+  },
+  "cs": {
+    "name": "Wakeful Pro",
+    "description": "AI agenti, spouštěče, zavřené víko, historie"
+  },
+  "da": {
+    "name": "Wakeful Pro",
+    "description": "AI-agenter, udløsere, lukket låg, historik"
+  },
+  "de-DE": {
+    "name": "Wakeful Pro",
+    "description": "KI-Agenten, Auslöser, zugeklappt, Verlauf"
+  },
+  "el": {
+    "name": "Wakeful Pro",
+    "description": "Πράκτορες AI, εναύσματα, καπάκι, ιστορικό"
+  },
+  "es-ES": {
+    "name": "Wakeful Pro",
+    "description": "Agentes de IA, activadores, tapa e historial"
+  },
+  "es-MX": {
+    "name": "Wakeful Pro",
+    "description": "Agentes de IA, activadores, tapa e historial"
+  },
+  "fi": {
+    "name": "Wakeful Pro",
+    "description": "Tekoälyagentit, laukaisimet, kansi, historia"
+  },
+  "fr-FR": {
+    "name": "Wakeful Pro",
+    "description": "Agents IA, déclencheurs, écran rabattu"
+  },
+  "fr-CA": {
+    "name": "Wakeful Pro",
+    "description": "Agents IA, déclencheurs, écran rabattu"
+  },
+  "he": {
+    "name": "Wakeful Pro",
+    "description": "סוכני AI, טריגרים, מכסה סגור, היסטוריה"
+  },
+  "hi": {
+    "name": "Wakeful Pro",
+    "description": "AI एजेंट, ट्रिगर, ढक्कन बंद और इतिहास"
+  },
+  "hr": {
+    "name": "Wakeful Pro",
+    "description": "AI agenti, okidači, poklopac, povijest"
+  },
+  "hu": {
+    "name": "Wakeful Pro",
+    "description": "MI-ügynökök, eseményindítók, fedél, előzmény"
+  },
+  "id": {
+    "name": "Wakeful Pro",
+    "description": "Agen AI, pemicu, penutup tertutup, riwayat"
+  },
+  "it": {
+    "name": "Wakeful Pro",
+    "description": "Agenti IA, attivatori, coperchio, cronologia"
+  },
+  "ja": {
+    "name": "Wakeful Pro",
+    "description": "AIエージェント、トリガー、蓋を閉じた状態、履歴"
+  },
+  "ko": {
+    "name": "Wakeful Pro",
+    "description": "AI 에이전트, 트리거, 덮개 닫힘, 기록"
+  },
+  "ms": {
+    "name": "Wakeful Pro",
+    "description": "Ejen AI, pencetus, penutup ditutup, sejarah"
+  },
+  "nl-NL": {
+    "name": "Wakeful Pro",
+    "description": "AI-agents, triggers, klep dicht, geschiedenis"
+  },
+  "no": {
+    "name": "Wakeful Pro",
+    "description": "KI-agenter, utløsere, lukket lokk, logg"
+  },
+  "pl": {
+    "name": "Wakeful Pro",
+    "description": "Agenci AI, wyzwalacze, pokrywa, historia"
+  },
+  "pt-BR": {
+    "name": "Wakeful Pro",
+    "description": "Agentes de IA, gatilhos, tampa e histórico"
+  },
+  "pt-PT": {
+    "name": "Wakeful Pro",
+    "description": "Agentes de IA, acionadores, tampa, histórico"
+  },
+  "ro": {
+    "name": "Wakeful Pro",
+    "description": "Agenți AI, declanșatori, capac, istoric"
+  },
+  "ru": {
+    "name": "Wakeful Pro",
+    "description": "ИИ-агенты, триггеры, крышка, история"
+  },
+  "sk": {
+    "name": "Wakeful Pro",
+    "description": "AI agenti, spúšťače, zatvorené veko, história"
+  },
+  "sv": {
+    "name": "Wakeful Pro",
+    "description": "AI-agenter, utlösare, stängt lock, historik"
+  },
+  "th": {
+    "name": "Wakeful Pro",
+    "description": "เอเจนต์ AI ตัวกระตุ้น ปิดฝา และประวัติ"
+  },
+  "tr": {
+    "name": "Wakeful Pro",
+    "description": "YZ ajanları, tetikleyiciler, kapak, geçmiş"
+  },
+  "uk": {
+    "name": "Wakeful Pro",
+    "description": "ШІ-агенти, тригери, кришка, історія"
+  },
+  "vi": {
+    "name": "Wakeful Pro",
+    "description": "Tác nhân AI, trình kích hoạt, gập nắp"
+  },
+  "zh-Hans": {
+    "name": "Wakeful Pro",
+    "description": "AI 智能体、触发条件、合盖、历史记录"
+  },
+  "zh-Hant": {
+    "name": "Wakeful Pro",
+    "description": "AI 代理程式、觸發條件、闔上螢幕、歷史記錄"
+  }
+}

@@ -1,0 +1,36 @@
+name: Wakeful: Ébren tartja a Macet
+subtitle: Alvásgátló, időzítő és MI
+keywords: alvás,altatás,álmatlanság,képernyő,képernyővédő,lecsukott,akkumulátor,időzítő,menüsor,koffein,kód
+promo: MI-ügynökei és hosszú buildjei végigfutnak ahelyett, hogy leállnának, amikor a Mac elszundít. Egy kattintás, okos eseményindítók, előfizetés nélkül.
+iap: MI-ügynökök, eseményindítók, fedél, előzmény
+---
+A Wakeful pontosan akkor tartja ébren a Macet, amikor szüksége van rá, a többi időben pedig hagyja aludni.
+
+Kattintson a csészére a menüsorban, és a Mac nem alszik el, nem sötétíti el a képernyőt, és nem indítja el a képernyővédőt. Válasszon időzítőt, vagy bízza a döntést a Wakefulra.
+
+MI-ÜGYNÖKÖKHÖZ ÉS HOSSZÚ FELADATOKHOZ
+• Ébren marad, amíg a Claude Code, a Codex, a Gemini vagy bármely hozzáadott ügynök dolgozik, és ha végeztek, hagyja aludni a Macet
+• Ébren tartja a Macet, amíg egy parancs, szkript vagy app be nem fejeződik
+• Parancssori eszköz és URL-séma szkriptekhez, a Raycasthez és az Alfredhez
+
+INGYENES
+• Be- és kikapcsolás egy kattintással a menüsorból
+• Időzítők 15 perctől 8 óráig, vagy bármilyen időtartam
+• Élő visszaszámlálás a menüsorban
+• Globális billentyűparancs
+• Csak a rendszer maradjon ébren, a kijelző aludhat
+• Akkumulátorvédelem: akkumulátoron vagy adott töltöttség alatt leáll
+• Parancsok-műveletek, asztali widget és vezérlő a Vezérlőközpontban (macOS 26)
+• Bejelentkezéskor megnyílik, és értesít a munkamenet végén
+
+WAKEFUL PRO (EGYSZERI VÁSÁRLÁS)
+• MI-ügynök mód
+• Automatikus eseményindítók: külső kijelző, hálózati adapter, Wi‑Fi-hálózat, appok, videohívások és ütemezések
+• Ébren tartás, amíg egy folyamat vagy app fut
+• Munka lecsukott fedéllel, amíg a Mac áramra van kötve
+• Előzmények arról, mennyi ideig és miért volt ébren a Mac
+
+ADATVÉDELEM ALAPBÓL
+Nincs fiók, nincs reklám, nincs követés. Minden a Macen marad.
+
+A macOS csak akkor engedi lecsukott fedéllel ébren tartani a Macet, ha az áramra van kötve.

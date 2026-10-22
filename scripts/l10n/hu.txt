@@ -1,0 +1,162 @@
+1|Wakeful beállításai
+2|Terminál
+3|A Mac automatikus ébren tartása, amíg egy MI-ügynök dolgozik
+4|Ügynökök folyamatnevei
+5|Alapértékek visszaállítása
+6|MI-ügynökök
+7|Vesszővel elválasztott folyamatnevek. A Wakeful néhány másodpercenként ellenőriz, és ha mind végzett, újra engedi a Mac alvását.
+8|Még nincsenek eseményindítók. Adjon hozzá egyet, hogy a Mac bizonyos helyzetekben automatikusan ébren maradjon.
+9|Eseményindító eltávolítása
+10|Eseményindítók
+11|Amíg bármely bekapcsolt eseményindító teljesül, a Mac ébren marad. A kézzel indított munkamenet mindig elsőbbséget élvez.
+12|Ébren tartás egy parancs befejeződéséig:
+13|Vagy vezérelje a Wakefult szkriptekből, a Raycastből vagy az Alfredből:
+14|Külső kijelző csatlakoztatva
+15|Hálózati adapter csatlakoztatva
+16|Kamera vagy mikrofon használatban (videohívások)
+17|Wi‑Fi-hálózathoz csatlakozva…
+18|Ütemezés szerint…
+19|Az app meg van nyitva
+20|Az app előtérben van
+21|App kiválasztása…
+22|Eseményindító hozzáadása
+23|Feloldás
+24|Ez a Wakeful Pro funkciója
+25|Oldja fel az automatizálást, az MI-ügynökök észlelését, az előzményeket és még sok mást egyszeri vásárlással.
+26|Ébren tartás Wi‑Fi-hálózaton
+27|Hálózat neve
+28|A macOS helyhozzáférést igényel a Wi‑Fi-hálózat nevének olvasásához.
+29|Jelenlegi hálózat használata
+30|Mégse
+31|Hozzáadás
+32|Ébren tartás ütemezés szerint
+33|Kezdés
+34|Befejezés
+35|Törli a teljes előzményt?
+36|Legutóbbi munkamenetek
+37|Óra
+38|Napi ébren töltött idő az elmúlt 7 napban
+39|Ma
+40|Elmúlt 7 nap
+41|Munkamenetek
+42|Nap
+43|Még nincs rögzített munkamenet.
+44|Előzmények rögzítése ezen a Macen
+45|Előzmények törlése…
+46|Az előzmények csak ezen a Macen tárolódnak, és sehová sem kerülnek elküldésre.
+47|Előzmények törlése
+48|Mac ébren tartása
+49|Megakadályozza a Mac alvó állapotba kerülését, igény szerint adott számú percig.
+50|Perc
+51|Hagyja üresen a határozatlan ideig tartó ébren tartáshoz.
+52|Mac alvásának engedése
+53|Ébren tartás be/ki
+54|Ébren van tartva a Mac?
+55|Ébren tartás
+56|Az App Store jelenleg nem érhető el.
+57|MI-ügynök mód
+58|Ébren marad, amíg a Claude Code, a Codex, a Gemini vagy bármely hozzáadott ügynök dolgozik.
+59|Automatikus eseményindítók
+60|Külső kijelző, hálózati adapter, Wi‑Fi, appok, videohívások és ütemezések.
+61|Folyamatok és appok
+62|Ébren marad, amíg egy parancs, szkript vagy app be nem fejeződik.
+63|Lecsukott fedél
+64|Dolgozzon tovább lecsukott fedéllel, amíg a Mac áramra van kötve.
+65|Előzmények
+66|Nézze meg, mennyi ideig és miért volt ébren a Mac.
+67|A Wakeful Pro feloldva
+68|Wakeful Pro
+69|Köszönjük, hogy egy független fejlesztőt támogat!
+70|Egyszeri vásárlás. Nincs előfizetés. Megosztható a családdal.
+71|A vásárlás jóváhagyásra vár.
+72|Vásárlások visszaállítása
+73|Pro feloldása
+74|Feloldás %@ áron
+75|Kézi
+76|Időzítő
+77|Automatikus
+78|Az időzítő lejárt. A Mac újra alhat.
+79|A(z) %@ befejeződött. A Mac újra alhat.
+80|A(z) %@ kilépett. A Mac újra alhat.
+81|Minden MI-ügynök végzett. A Mac újra alhat.
+82|Leállítva, mert a Mac akkumulátorról működik.
+83|Leállítva, mert az akkumulátor töltöttsége %lld%%.
+84|MI-ügynök fut (%@)
+85|Ki — a Mac a szokásos módon alszik
+86|Határozatlan ideig ébren
+87|Még %@ ébren
+88|Ébren, amíg a(z) %@ fut
+89|Ébren, amíg a(z) %@ nyitva van
+90|Automatikusan ébren: %@
+91|Általános
+92|Automatizálás
+93|Energia
+94|Pro
+95|Megnyitás bejelentkezéskor
+96|Bekapcsolás a Wakeful indításakor
+97|Bal kattintás a menüsor ikonjára
+98|Alapértelmezett időtartam
+99|Billentyűparancs a váltáshoz
+100|Ébren tartás be/ki
+101|Megnyitja a menüt
+102|Határozatlan ideig
+103|Kijelző alvásának engedése (csak a rendszer marad ébren)
+104|Visszaszámlálás megjelenítése a menüsorban
+105|Értesítés a munkamenet végén
+106|Akkumulátor
+107|Leállítás, ha a Mac akkumulátorra vált
+108|Leállítás, ha az akkumulátor töltöttsége ennyire csökken
+109|Soha
+110|Ébren tartás lecsukott fedéllel
+111|A macOS ezt csak akkor engedi, ha a Mac áramra van kötve. Akkumulátorról a fedél lecsukása továbbra is alvó állapotba helyezi a Macet.
+112|PRO
+113|Wakeful Pro szükséges
+114|Kikapcsolás
+115|Ébren tartás határozatlan ideig
+116|Egyéni…
+117|Ébren tartás ennyi ideig
+118|Amíg egy MI-ügynök dolgozik
+119|Amíg egy app nyitva van
+120|Kijelző alvásának engedése
+121|Ébren tartás lecsukott fedéllel
+122|Automatikus bekapcsolás MI-ügynököknél
+123|Automatikus eseményindítók…
+124|Wakeful Pro feloldása…
+125|Beállítások…
+126|Kilépés a Wakefulból
+127|Nem fut MI-ügynök
+128|Ügynöklista szerkesztése…
+129|Mennyi ideig maradjon ébren?
+130|Adja meg az időtartamot percben.
+131|Indítás
+132|Külső kijelző van csatlakoztatva
+133|A hálózati adapter csatlakoztatva van
+134|Csatlakozva a(z) „%@” Wi‑Fi-hálózathoz
+135|A(z) %@ meg van nyitva
+136|A(z) %@ előtérben van
+137|A kamera vagy a mikrofon használatban van
+138|%@, %@–%@
+139|Minden nap
+140|Hétköznap
+141|Hétvégén
+142|Wakeful
+143|Nézze meg, hogy a Mac ébren van-e tartva, és váltson egy kattintással.
+144|Ébren
+145|Szokásos alvás
+146|Amíg ki nem kapcsolja
+147|Kattintson az ébren tartáshoz
+148|Megakadályozza a Mac alvó állapotba kerülését.
+149|Ki
+150|Tartsa ébren a Macet. Egy kattintással.
+151|Időzítők, globális billentyűparancs és élő visszaszámlálás közvetlenül a menüsorban.
+152|Az MI-ügynökei tovább dolgoznak.
+153|Ébren marad, amíg a Claude Code, a Codex vagy a Gemini fut, aztán hagyja pihenni a Macet.
+154|Automatikusan, amikor számít.
+155|Külső kijelző, áram, Wi‑Fi, appok, videohívások és ütemezések.
+156|Widgetek, Vezérlőközpont és előzmények.
+157|Adatvédelem alapból: minden a Macen marad.
+158|Tartsd ébren a Macemet a(z) ${applicationName} appal
+159|${applicationName} indítása
+160|${applicationName} leállítása
+161|Engedd aludni a Macemet a(z) ${applicationName} appal
+162|A Wakeful csak azért használja a helyzetét, hogy a macOS engedje beolvasni a Wi‑Fi-hálózat nevét a Wi‑Fi-eseményindítókhoz. A helyzetét soha nem tárolja és nem osztja meg.

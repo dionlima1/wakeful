@@ -1,0 +1,162 @@
+1|Configuració del Wakeful
+2|Terminal
+3|Mantenir el Mac despert automàticament mentre treballa un agent d’IA
+4|Noms dels processos dels agents
+5|Restaurar els valors per omissió
+6|Agents d’IA
+7|Noms de processos separats per comes. El Wakeful comprova cada pocs segons i deixa que el Mac torni a repòs quan tots han acabat.
+8|Encara no hi ha activadors. Afegeix-ne un per mantenir el Mac despert automàticament en certes situacions.
+9|Eliminar l’activador
+10|Activadors
+11|Mentre es compleixi qualsevol activador activat, el Mac es manté despert. Una sessió que iniciïs tu sempre té prioritat.
+12|Mantenir despert fins que acabi una ordre:
+13|O controla el Wakeful des de scripts, Raycast o Alfred:
+14|Pantalla externa connectada
+15|Adaptador de corrent connectat
+16|Càmera o micròfon en ús (videotrucades)
+17|Connectat a una xarxa Wi‑Fi…
+18|Segons un horari…
+19|L’app està oberta
+20|L’app està en primer pla
+21|Triar una app…
+22|Afegir activador
+23|Desbloquejar
+24|Aquesta és una funció del Wakeful Pro
+25|Desbloqueja l’automatització, la detecció d’agents d’IA, l’historial i més amb una sola compra.
+26|Mantenir despert en una xarxa Wi‑Fi
+27|Nom de la xarxa
+28|El macOS requereix accés a la ubicació per llegir el nom de la xarxa Wi‑Fi.
+29|Utilitzar la xarxa actual
+30|Cancel·lar
+31|Afegir
+32|Mantenir despert segons un horari
+33|De
+34|A
+35|Vols esborrar tot l’historial?
+36|Sessions recents
+37|Hores
+38|Temps despert per dia els últims 7 dies
+39|Avui
+40|Últims 7 dies
+41|Sessions
+42|Dia
+43|Encara no s’ha registrat cap sessió.
+44|Registrar l’historial en aquest Mac
+45|Esborrar l’historial…
+46|L’historial només es desa en aquest Mac i mai no s’envia enlloc.
+47|Esborrar l’historial
+48|Mantenir el Mac despert
+49|Evita que el Mac entri en repòs, opcionalment durant uns minuts.
+50|Minuts
+51|Deixa-ho buit per mantenir-lo despert indefinidament.
+52|Deixar que el Mac entri en repòs
+53|Activar o desactivar mantenir despert
+54|El Mac es manté despert?
+55|Mantenir despert
+56|L’App Store no està disponible ara mateix.
+57|Mode d’agent d’IA
+58|Es manté despert mentre treballen el Claude Code, el Codex, el Gemini o qualsevol agent que afegeixis.
+59|Activadors automàtics
+60|Pantalla externa, adaptador de corrent, Wi‑Fi, apps, videotrucades i horaris.
+61|Processos i apps
+62|Es manté despert fins que acaba una ordre, un script o una app.
+63|Tapa tancada
+64|Continua treballant amb la tapa tancada mentre estigui endollat.
+65|Historial
+66|Consulta quant de temps ha estat despert el Mac i per què.
+67|El Wakeful Pro està desbloquejat
+68|Wakeful Pro
+69|Gràcies per donar suport a un desenvolupador independent!
+70|Una sola compra. Sense subscripció. Compartida amb la família.
+71|La compra està pendent d’aprovació.
+72|Restaurar les compres
+73|Desbloquejar el Pro
+74|Desbloquejar per %@
+75|Manual
+76|Temporitzador
+77|Automàtic
+78|El temporitzador ha acabat. El Mac pot tornar a repòs.
+79|%@ ha acabat. El Mac pot tornar a repòs.
+80|%@ s’ha tancat. El Mac pot tornar a repòs.
+81|Tots els agents d’IA han acabat. El Mac pot tornar a repòs.
+82|S’ha aturat perquè el Mac funciona amb bateria.
+83|S’ha aturat perquè la bateria és al %lld %%.
+84|Agent d’IA en execució (%@)
+85|Desactivat: el Mac entra en repòs amb normalitat
+86|Despert indefinidament
+87|Despert %@ més
+88|Despert mentre s’executa %@
+89|Despert mentre %@ està oberta
+90|Despert automàticament: %@
+91|General
+92|Automatització
+93|Energia
+94|Pro
+95|Obrir en iniciar la sessió
+96|Activar en obrir el Wakeful
+97|Clic esquerre a la icona de la barra de menús
+98|Durada per omissió
+99|Drecera per activar o desactivar
+100|Activa o desactiva
+101|Obre el menú
+102|Indefinidament
+103|Permetre el repòs de la pantalla (mantenir despert només el sistema)
+104|Mostrar el compte enrere a la barra de menús
+105|Avisar quan acabi una sessió
+106|Bateria
+107|Aturar quan el Mac passi a funcionar amb bateria
+108|Aturar quan la bateria baixi al
+109|Mai
+110|Mantenir despert amb la tapa tancada
+111|El macOS només ho permet mentre el Mac està connectat al corrent. Amb bateria, tancar la tapa continua posant el Mac en repòs.
+112|PRO
+113|Requereix el Wakeful Pro
+114|Desactivar
+115|Mantenir despert indefinidament
+116|Personalitzat…
+117|Mantenir despert durant
+118|Mentre treballa un agent d’IA
+119|Mentre una app està oberta
+120|Permetre el repòs de la pantalla
+121|Mantenir despert amb la tapa tancada
+122|Activar automàticament amb agents d’IA
+123|Activadors automàtics…
+124|Desbloquejar el Wakeful Pro…
+125|Configuració…
+126|Sortir del Wakeful
+127|No hi ha cap agent d’IA en execució
+128|Editar la llista d’agents…
+129|Quant de temps el vols mantenir despert?
+130|Introdueix una durada en minuts.
+131|Iniciar
+132|Hi ha una pantalla externa connectada
+133|L’adaptador de corrent està connectat
+134|Connectat a la Wi‑Fi «%@»
+135|%@ està oberta
+136|%@ està en primer pla
+137|La càmera o el micròfon estan en ús
+138|%@, %@–%@
+139|Cada dia
+140|Dies feiners
+141|Caps de setmana
+142|Wakeful
+143|Comprova si el Mac es manté despert i canvia-ho amb un clic.
+144|Despert
+145|Repòs normal
+146|Fins que el desactivis
+147|Fes clic per mantenir-lo despert
+148|Evita que el Mac entri en repòs.
+149|Desactivat
+150|Mantén el Mac despert. Amb un clic.
+151|Temporitzadors, drecera global i compte enrere en directe, a la barra de menús.
+152|Els teus agents d’IA continuen treballant.
+153|Es manté despert mentre el Claude Code, el Codex o el Gemini treballen i després deixa descansar el Mac.
+154|Automàtic, quan importa.
+155|Pantalla externa, corrent, Wi‑Fi, apps, videotrucades i horaris.
+156|Widgets, centre de control i historial.
+157|Privat per disseny: tot es queda al teu Mac.
+158|Mantén el meu Mac despert amb ${applicationName}
+159|Iniciar ${applicationName}
+160|Aturar ${applicationName}
+161|Deixa que el meu Mac entri en repòs amb ${applicationName}
+162|El Wakeful utilitza la teva ubicació només perquè el macOS li permeti llegir el nom de la xarxa Wi‑Fi per als activadors de Wi‑Fi. La teva ubicació mai no es desa ni es comparteix.

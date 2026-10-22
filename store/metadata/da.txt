@@ -1,0 +1,36 @@
+name: Wakeful: Hold din Mac vågen
+subtitle: Anti-dvale, timer og AI
+keywords: dvale,søvn,pauseskærm,skærm,lukket låg,batteri,timer,menulinje,koffein,kodning,søvnløs
+promo: Dine AI-agenter og lange builds bliver færdige i stedet for at stoppe, når Mac'en nikker. Ét klik, smarte udløsere, intet abonnement.
+iap: AI-agenter, udløsere, lukket låg, historik
+---
+Wakeful holder din Mac vågen, præcis når du har brug for det, og lader den gå i dvale resten af tiden.
+
+Klik på koppen på menulinjen, så Mac'en ikke går i dvale, dæmper skærmen eller starter pauseskærmen. Vælg en timer, eller lad Wakeful bestemme selv.
+
+BYGGET TIL AI-AGENTER OG LANGE OPGAVER
+• Forbliver vågen, mens Claude Code, Codex, Gemini eller en anden agent, du tilføjer, arbejder, og lader Mac'en gå i dvale, når de er færdige
+• Holder Mac'en vågen, indtil en kommando, et script eller en app er færdig
+• Kommandolinjeværktøj og URL-skema til scripts, Raycast og Alfred
+
+GRATIS
+• Slå til og fra med ét klik på menulinjen
+• Timere fra 15 minutter til 8 timer eller en vilkårlig varighed
+• Live nedtælling på menulinjen
+• Global tastaturgenvej
+• Hold kun systemet vågent, og lad skærmen gå i dvale
+• Batteribeskyttelse: stopper på batteri eller under et bestemt niveau
+• Genvejshandlinger, skrivebordswidget og betjeningsmulighed i Kontrolcenter (macOS 26)
+• Åbner ved log ind og giver besked, når en session slutter
+
+WAKEFUL PRO (ENGANGSKØB)
+• AI-agenttilstand
+• Automatiske udløsere: ekstern skærm, strømforsyning, Wi-Fi-netværk, apps, videoopkald og tidsplaner
+• Hold vågen, mens en proces eller app kører
+• Bliv ved med at arbejde med lukket låg, mens Mac'en er tilsluttet strøm
+• Historik over, hvor længe og hvorfor Mac'en var vågen
+
+PRIVAT FRA BUNDEN
+Ingen konto, ingen reklamer, ingen sporing. Alt bliver på din Mac.
+
+macOS tillader kun, at en Mac holdes vågen med lukket låg, mens den er tilsluttet strøm.

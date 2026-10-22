@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Wakeful</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.dionlima.wakeful</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wakeful</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2026 Dion Lima</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared.</string>
+	<key>WakefulAppGroup</key>
+	<string>$(TeamIdentifierPrefix)com.dionlima.wakeful</string>
+</dict>
+</plist>

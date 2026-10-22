@@ -1,0 +1,162 @@
+1|Configurări Wakeful
+2|Terminal
+3|Menține automat Mac‑ul treaz cât timp lucrează un agent AI
+4|Numele proceselor agenților
+5|Restabilește valorile implicite
+6|Agenți AI
+7|Nume de procese separate prin virgulă. Wakeful verifică la câteva secunde și lasă Mac‑ul să intre din nou în repaus după ce toate se termină.
+8|Încă nu există declanșatori. Adăugați unul pentru a menține automat Mac‑ul treaz în anumite situații.
+9|Elimină declanșatorul
+10|Declanșatori
+11|Cât timp oricare declanșator activat este îndeplinit, Mac‑ul rămâne treaz. O sesiune pornită manual are întotdeauna prioritate.
+12|Menține treaz până se termină o comandă:
+13|Sau controlați Wakeful din scripturi, Raycast sau Alfred:
+14|Monitor extern conectat
+15|Adaptor de alimentare conectat
+16|Cameră sau microfon în uz (apeluri video)
+17|Conectat la o rețea Wi‑Fi…
+18|Conform unui program…
+19|Aplicația este deschisă
+20|Aplicația este în prim-plan
+21|Alege aplicația…
+22|Adaugă declanșator
+23|Deblochează
+24|Aceasta este o funcționalitate Wakeful Pro
+25|Deblocați automatizarea, detectarea agenților AI, istoricul și altele cu o singură achiziție.
+26|Menține treaz într-o rețea Wi‑Fi
+27|Numele rețelei
+28|macOS necesită acces la localizare pentru a citi numele rețelei Wi‑Fi.
+29|Folosește rețeaua actuală
+30|Anulează
+31|Adaugă
+32|Menține treaz conform unui program
+33|De la
+34|Până la
+35|Ștergeți tot istoricul?
+36|Sesiuni recente
+37|Ore
+38|Timp treaz pe zi în ultimele 7 zile
+39|Azi
+40|Ultimele 7 zile
+41|Sesiuni
+42|Zi
+43|Nicio sesiune înregistrată încă.
+44|Înregistrează istoricul pe acest Mac
+45|Șterge istoricul…
+46|Istoricul este stocat doar pe acest Mac și nu este trimis nicăieri.
+47|Șterge istoricul
+48|Menține Mac‑ul treaz
+49|Împiedică intrarea Mac‑ului în repaus, opțional pentru un număr de minute.
+50|Minute
+51|Lăsați gol pentru a menține treaz pe termen nelimitat.
+52|Lasă Mac‑ul în repaus
+53|Comută menținerea trează
+54|Este Mac‑ul menținut treaz?
+55|Menține treaz
+56|App Store nu este disponibil în acest moment.
+57|Mod agent AI
+58|Rămâne treaz cât timp lucrează Claude Code, Codex, Gemini sau orice agent adăugați.
+59|Declanșatori automați
+60|Monitor extern, adaptor de alimentare, Wi‑Fi, aplicații, apeluri video și programe.
+61|Procese și aplicații
+62|Rămâne treaz până se termină o comandă, un script sau o aplicație.
+63|Capac închis
+64|Continuați să lucrați cu capacul închis cât timp Mac‑ul este conectat la priză.
+65|Istoric
+66|Vedeți cât timp a stat Mac‑ul treaz și de ce.
+67|Wakeful Pro este deblocat
+68|Wakeful Pro
+69|Vă mulțumim că sprijiniți un dezvoltator independent!
+70|O singură achiziție. Fără abonament. Partajată cu familia.
+71|Achiziția dvs. așteaptă aprobarea.
+72|Restaurează achizițiile
+73|Deblochează Pro
+74|Deblochează pentru %@
+75|Manual
+76|Temporizator
+77|Automat
+78|Temporizatorul s-a terminat. Mac‑ul poate intra din nou în repaus.
+79|%@ s-a terminat. Mac‑ul poate intra din nou în repaus.
+80|%@ s-a închis. Mac‑ul poate intra din nou în repaus.
+81|Toți agenții AI au terminat. Mac‑ul poate intra din nou în repaus.
+82|Oprit deoarece Mac‑ul funcționează pe baterie.
+83|Oprit deoarece bateria este la %lld%%.
+84|Agent AI în execuție (%@)
+85|Dezactivat — Mac‑ul intră în repaus normal
+86|Treaz pe termen nelimitat
+87|Treaz încă %@
+88|Treaz cât timp rulează %@
+89|Treaz cât timp %@ este deschisă
+90|Treaz automat: %@
+91|General
+92|Automatizare
+93|Alimentare
+94|Pro
+95|Deschide la autentificare
+96|Activează la pornirea Wakeful
+97|Clic stânga pe pictograma din bara de meniu
+98|Durată implicită
+99|Scurtătură pentru comutare
+100|Comută menținerea trează
+101|Deschide meniul
+102|Pe termen nelimitat
+103|Permite repausul ecranului (menține treaz doar sistemul)
+104|Afișează numărătoarea inversă în bara de meniu
+105|Notifică la terminarea unei sesiuni
+106|Baterie
+107|Oprește când Mac‑ul trece pe baterie
+108|Oprește când bateria scade la
+109|Niciodată
+110|Menține treaz cu capacul închis
+111|macOS permite acest lucru doar cât timp Mac‑ul este conectat la alimentare. Pe baterie, închiderea capacului pune în continuare Mac‑ul în repaus.
+112|PRO
+113|Necesită Wakeful Pro
+114|Dezactivează
+115|Menține treaz pe termen nelimitat
+116|Personalizat…
+117|Menține treaz timp de
+118|Cât timp lucrează un agent AI
+119|Cât timp o aplicație este deschisă
+120|Permite repausul ecranului
+121|Menține treaz cu capacul închis
+122|Activează automat cu agenți AI
+123|Declanșatori automați…
+124|Deblochează Wakeful Pro…
+125|Configurări…
+126|Închide Wakeful
+127|Niciun agent AI în execuție
+128|Editează lista de agenți…
+129|Cât timp să fie menținut treaz?
+130|Introduceți durata în minute.
+131|Pornește
+132|Este conectat un monitor extern
+133|Adaptorul de alimentare este conectat
+134|Conectat la Wi‑Fi „%@”
+135|%@ este deschisă
+136|%@ este în prim-plan
+137|Camera sau microfonul este în uz
+138|%@, %@–%@
+139|În fiecare zi
+140|Zile lucrătoare
+141|Weekenduri
+142|Wakeful
+143|Vedeți dacă Mac‑ul este menținut treaz și comutați cu un clic.
+144|Treaz
+145|Repaus normal
+146|Până îl dezactivați
+147|Faceți clic pentru a menține treaz
+148|Împiedică intrarea Mac‑ului în repaus.
+149|Dezactivat
+150|Mențineți Mac‑ul treaz. Cu un clic.
+151|Temporizatoare, scurtătură globală și numărătoare inversă live, direct în bara de meniu.
+152|Agenții dvs. AI continuă să lucreze.
+153|Rămâne treaz cât timp rulează Claude Code, Codex sau Gemini, apoi lasă Mac‑ul să se odihnească.
+154|Automat, când contează.
+155|Monitor extern, alimentare, Wi‑Fi, aplicații, apeluri video și programe.
+156|Widgeturi, Centrul de control și istoric.
+157|Confidențial prin concepție: totul rămâne pe Mac‑ul dvs.
+158|Menține Mac‑ul meu treaz cu ${applicationName}
+159|Pornește ${applicationName}
+160|Oprește ${applicationName}
+161|Lasă Mac‑ul meu în repaus cu ${applicationName}
+162|Wakeful folosește localizarea dvs. doar pentru ca macOS să-i permită citirea numelui rețelei Wi‑Fi pentru declanșatorii Wi‑Fi. Localizarea dvs. nu este niciodată stocată sau partajată.

@@ -1,0 +1,36 @@
+name: Wakeful: Giữ máy Mac luôn thức
+subtitle: Chống ngủ, hẹn giờ và AI
+keywords: ngủ,chống ngủ,mất ngủ,màn hình,bảo vệ màn hình,gập nắp,pin,hẹn giờ,thanh menu,cà phê,lập trình
+promo: Các tác nhân AI và bản build dài của bạn chạy đến cùng thay vì dừng lại khi máy Mac ngủ gật. Một lần bấm, trình kích hoạt thông minh, không đăng ký.
+iap: Tác nhân AI, trình kích hoạt, gập nắp
+---
+Wakeful giữ máy Mac thức đúng lúc bạn cần và cho máy ngủ vào những lúc còn lại.
+
+Bấm vào tách cà phê trên thanh menu để máy Mac không chuyển sang chế độ ngủ, không làm tối màn hình hay bật trình bảo vệ màn hình. Chọn hẹn giờ hoặc để Wakeful tự quyết định.
+
+DÀNH CHO TÁC NHÂN AI VÀ TÁC VỤ DÀI
+• Luôn thức khi Claude Code, Codex, Gemini hoặc bất kỳ tác nhân nào bạn thêm đang làm việc, rồi cho máy Mac ngủ khi chúng hoàn tất
+• Giữ máy Mac thức đến khi một lệnh, tập lệnh hoặc ứng dụng hoàn tất
+• Công cụ dòng lệnh và lược đồ URL cho tập lệnh, Raycast và Alfred
+
+MIỄN PHÍ
+• Bật/tắt chỉ với một lần bấm trên thanh menu
+• Hẹn giờ từ 15 phút đến 8 giờ, hoặc thời lượng bất kỳ
+• Đếm ngược trực tiếp trên thanh menu
+• Phím tắt toàn cục
+• Chỉ giữ hệ thống thức và cho màn hình ngủ
+• Bảo vệ pin: dừng khi dùng pin hoặc khi pin dưới mức đặt trước
+• Tác vụ Phím tắt, tiện ích màn hình nền và điều khiển trong Trung tâm điều khiển (macOS 26)
+• Mở khi đăng nhập và thông báo khi phiên kết thúc
+
+WAKEFUL PRO (MUA MỘT LẦN)
+• Chế độ tác nhân AI
+• Trình kích hoạt tự động: màn hình ngoài, bộ tiếp hợp nguồn, mạng Wi‑Fi, ứng dụng, cuộc gọi video và lịch
+• Giữ thức khi một tiến trình hoặc ứng dụng đang chạy
+• Tiếp tục làm việc khi gập nắp trong lúc đang cắm sạc
+• Lịch sử máy Mac đã thức bao lâu và vì sao
+
+RIÊNG TƯ TỪ THIẾT KẾ
+Không tài khoản, không quảng cáo, không theo dõi. Mọi thứ ở lại trên máy Mac của bạn.
+
+macOS chỉ cho phép máy Mac thức khi gập nắp trong lúc được cắm nguồn.

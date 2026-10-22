@@ -1,0 +1,162 @@
+1|Definições do Wakeful
+2|Terminal
+3|Manter o Mac acordado automaticamente enquanto um agente de IA trabalha
+4|Nomes dos processos dos agentes
+5|Repor predefinições
+6|Agentes de IA
+7|Nomes de processos separados por vírgulas. O Wakeful verifica a cada poucos segundos e deixa o Mac entrar em pausa quando todos terminarem.
+8|Ainda não há acionadores. Adicione um para manter o Mac acordado automaticamente em certas situações.
+9|Remover acionador
+10|Acionadores
+11|Enquanto qualquer acionador ativo se verificar, o Mac fica acordado. Uma sessão iniciada por si tem sempre prioridade.
+12|Manter acordado até um comando terminar:
+13|Ou controle o Wakeful a partir de scripts, Raycast ou Alfred:
+14|Monitor externo ligado
+15|Transformador ligado
+16|Câmara ou microfone em uso (videochamadas)
+17|Ligado a uma rede Wi‑Fi…
+18|Num horário…
+19|A app está aberta
+20|A app está em primeiro plano
+21|Escolher app…
+22|Adicionar acionador
+23|Desbloquear
+24|Esta é uma funcionalidade do Wakeful Pro
+25|Desbloqueie automação, deteção de agentes de IA, histórico e muito mais com uma compra única.
+26|Manter acordado numa rede Wi‑Fi
+27|Nome da rede
+28|O macOS exige acesso à localização para ler o nome da rede Wi‑Fi.
+29|Usar rede atual
+30|Cancelar
+31|Adicionar
+32|Manter acordado num horário
+33|De
+34|Até
+35|Apagar todo o histórico?
+36|Sessões recentes
+37|Horas
+38|Tempo acordado por dia nos últimos 7 dias
+39|Hoje
+40|Últimos 7 dias
+41|Sessões
+42|Dia
+43|Ainda não há sessões registadas.
+44|Registar histórico neste Mac
+45|Apagar histórico…
+46|O histórico fica apenas neste Mac e nunca é enviado para lado nenhum.
+47|Apagar histórico
+48|Manter o Mac acordado
+49|Impede que o Mac entre em pausa, opcionalmente durante alguns minutos.
+50|Minutos
+51|Deixe em branco para manter acordado indefinidamente.
+52|Deixar o Mac entrar em pausa
+53|Alternar manter acordado
+54|O Mac está a ser mantido acordado?
+55|Manter acordado
+56|A App Store não está disponível de momento.
+57|Modo agente de IA
+58|Fica acordado enquanto o Claude Code, o Codex, o Gemini ou qualquer agente que adicione estiver a trabalhar.
+59|Acionadores automáticos
+60|Monitor externo, transformador, Wi‑Fi, apps, videochamadas e horários.
+61|Processos e apps
+62|Fica acordado até um comando, script ou app terminar.
+63|Tampa fechada
+64|Continue a trabalhar com a tampa fechada enquanto estiver ligado à corrente.
+65|Histórico
+66|Veja quanto tempo o Mac esteve acordado e porquê.
+67|O Wakeful Pro está desbloqueado
+68|Wakeful Pro
+69|Obrigado por apoiar um programador independente!
+70|Uma compra. Sem subscrição. Partilhada com a sua família.
+71|A sua compra aguarda aprovação.
+72|Restaurar compras
+73|Desbloquear Pro
+74|Desbloquear por %@
+75|Manual
+76|Temporizador
+77|Automático
+78|O temporizador terminou. O Mac pode voltar a entrar em pausa.
+79|%@ terminou. O Mac pode voltar a entrar em pausa.
+80|%@ foi encerrado. O Mac pode voltar a entrar em pausa.
+81|Todos os agentes de IA terminaram. O Mac pode voltar a entrar em pausa.
+82|Parado porque o Mac está a usar a bateria.
+83|Parado porque a bateria está a %lld%%.
+84|Agente de IA em execução (%@)
+85|Desativado — o Mac entra em pausa normalmente
+86|Acordado indefinidamente
+87|Acordado durante mais %@
+88|Acordado enquanto %@ estiver em execução
+89|Acordado enquanto %@ estiver aberto
+90|Acordado automaticamente: %@
+91|Geral
+92|Automação
+93|Energia
+94|Pro
+95|Abrir ao iniciar sessão
+96|Ativar quando o Wakeful abrir
+97|Clique esquerdo no ícone da barra de menus
+98|Duração predefinida
+99|Atalho para alternar
+100|Ativa/desativa
+101|Abre o menu
+102|Indefinidamente
+103|Permitir que o ecrã entre em pausa (manter só o sistema acordado)
+104|Mostrar contagem decrescente na barra de menus
+105|Notificar quando uma sessão terminar
+106|Bateria
+107|Parar quando o Mac passar a usar a bateria
+108|Parar quando a bateria descer para
+109|Nunca
+110|Manter acordado com a tampa fechada
+111|O macOS só permite isto enquanto o Mac está ligado à corrente. Com bateria, fechar a tampa continua a pôr o Mac em pausa.
+112|PRO
+113|Requer o Wakeful Pro
+114|Desativar
+115|Manter acordado indefinidamente
+116|Personalizado…
+117|Manter acordado durante
+118|Enquanto um agente de IA trabalha
+119|Enquanto uma app está aberta
+120|Permitir que o ecrã entre em pausa
+121|Manter acordado com a tampa fechada
+122|Ativar automaticamente com agentes de IA
+123|Acionadores automáticos…
+124|Desbloquear o Wakeful Pro…
+125|Definições…
+126|Encerrar o Wakeful
+127|Nenhum agente de IA em execução
+128|Editar lista de agentes…
+129|Manter acordado durante quanto tempo?
+130|Introduza a duração em minutos.
+131|Iniciar
+132|Está ligado um monitor externo
+133|O transformador está ligado
+134|Ligado à rede Wi‑Fi “%@”
+135|%@ está aberto
+136|%@ está em primeiro plano
+137|A câmara ou o microfone está em uso
+138|%@, %@–%@
+139|Todos os dias
+140|Dias úteis
+141|Fins de semana
+142|Wakeful
+143|Veja se o Mac está a ser mantido acordado e alterne com um clique.
+144|Acordado
+145|Entra em pausa normalmente
+146|Até o desativar
+147|Clique para manter acordado
+148|Impede que o Mac entre em pausa.
+149|Desativado
+150|Mantenha o Mac acordado. Com um clique.
+151|Temporizadores, atalho global e contagem decrescente ao vivo, na barra de menus.
+152|Os seus agentes de IA continuam a trabalhar.
+153|Fica acordado enquanto o Claude Code, o Codex ou o Gemini trabalham e depois deixa o Mac entrar em pausa.
+154|Automático, quando importa.
+155|Monitor externo, energia, Wi‑Fi, apps, videochamadas e horários.
+156|Widgets, Central de controlo e histórico.
+157|Privado por natureza: tudo fica no seu Mac.
+158|Manter o meu Mac acordado com o ${applicationName}
+159|Iniciar o ${applicationName}
+160|Parar o ${applicationName}
+161|Deixar o meu Mac entrar em pausa com o ${applicationName}
+162|O Wakeful usa a sua localização apenas para que o macOS permita ler o nome da rede Wi‑Fi nos acionadores de Wi‑Fi. A sua localização nunca é guardada nem partilhada.

@@ -1,0 +1,1 @@
+MI-ügynökei és hosszú buildjei végigfutnak ahelyett, hogy leállnának, amikor a Mac elszundít. Egy kattintás, okos eseményindítók, előfizetés nélkül.

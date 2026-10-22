@@ -1,0 +1,36 @@
+name: Wakeful: Mac Sempre Acordado
+subtitle: Anti-repouso, timer e IA
+keywords: repouso,dormir,insônia,não dormir,tela,protetor de tela,tampa fechada,bateria,timer,cafeína,codar
+promo: Seus agentes de IA e builds longos terminam em vez de parar quando o Mac cochila. Um clique, gatilhos inteligentes, sem assinatura.
+iap: Agentes de IA, gatilhos, tampa e histórico
+---
+O Wakeful mantém o Mac acordado exatamente quando você precisa e deixa ele repousar no resto do tempo.
+
+Clique na xícara na barra de menus para impedir que o Mac entre em repouso, escureça a tela ou ative o protetor de tela. Escolha um timer ou deixe o Wakeful decidir sozinho.
+
+FEITO PARA AGENTES DE IA E TAREFAS LONGAS
+• Fica acordado enquanto Claude Code, Codex, Gemini ou qualquer agente que você adicionar estiver trabalhando, e deixa o Mac repousar quando terminam
+• Mantém acordado até um comando, script ou app terminar
+• Comando de terminal e esquema de URL para scripts, Raycast e Alfred
+
+GRÁTIS
+• Liga e desliga com um clique na barra de menus
+• Timers de 15 minutos a 8 horas, ou qualquer duração personalizada
+• Contagem regressiva ao vivo na barra de menus
+• Atalho de teclado global
+• Mantenha só o sistema acordado e deixe a tela apagar
+• Proteção da bateria: para na bateria ou abaixo de um nível de carga
+• Ações no app Atalhos, widget de mesa e botão na Central de Controle (macOS 26)
+• Abre ao iniciar sessão e avisa quando uma sessão termina
+
+WAKEFUL PRO (COMPRA ÚNICA)
+• Modo agente de IA
+• Gatilhos automáticos: monitor externo, carregador, rede Wi‑Fi, apps, videochamadas e horários
+• Mantém acordado enquanto um processo ou app estiver rodando
+• Continue trabalhando com a tampa fechada enquanto estiver na tomada
+• Histórico de quanto tempo, e por quê, o Mac ficou acordado
+
+PRIVADO POR PADRÃO
+Sem conta, sem anúncios, sem rastreamento. Tudo fica no seu Mac.
+
+O macOS só permite manter o Mac acordado com a tampa fechada enquanto ele estiver ligado na energia.

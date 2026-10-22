@@ -1,0 +1,1630 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Automatic, when it matters.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تلقائي، عندما يهم الأمر."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automàtic, quan importa."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automaticky, když na tom záleží."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisk, når det gælder."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch, wenn es darauf ankommt."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτόματα, όταν μετράει."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automático, cuando importa."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automaattisesti, kun sillä on väliä."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatique, quand ça compte."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אוטומטי, כשזה חשוב."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ऑटोमैटिक, जब ज़रूरत हो।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatski, kad je važno."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatikusan, amikor számít."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otomatis, saat dibutuhkan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatico, quando serve."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "必要なときに、自動で。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "필요할 때, 자동으로."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatik, apabila penting."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisk, når det gjelder."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch, wanneer het telt."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatycznie, gdy to ważne."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automático, quando importa."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automático, quando importa."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automat, când contează."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически, когда это важно."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automaticky, keď na tom záleží."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatiskt, när det spelar roll."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "อัตโนมัติ เมื่อสำคัญ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önemli olduğunda, otomatik."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматично, коли це важливо."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tự động, khi cần thiết."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关键时刻,自动处理。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "關鍵時刻,自動處理。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "External display, power, Wi‑Fi, apps, video calls and schedules.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شاشة خارجية وطاقة وWi‑Fi وتطبيقات ومكالمات فيديو وجداول زمنية."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla externa, corrent, Wi‑Fi, apps, videotrucades i horaris."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Externí monitor, napájení, Wi‑Fi, aplikace, videohovory a plány."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ekstern skærm, strøm, Wi-Fi, apps, videoopkald og tidsplaner."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Externer Bildschirm, Strom, WLAN, Apps, Videoanrufe und Zeitpläne."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Εξωτερική οθόνη, ρεύμα, Wi‑Fi, εφαρμογές, βιντεοκλήσεις και προγράμματα."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla externa, corriente, Wi‑Fi, apps, videollamadas y horarios."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ulkoinen näyttö, virta, Wi-Fi, apit, videopuhelut ja aikataulut."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écran externe, secteur, Wi‑Fi, apps, visioconférences et horaires."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסך חיצוני, חשמל, Wi‑Fi, יישומים, שיחות וידאו ולוחות זמנים."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बाहरी डिस्प्ले, पावर, वाई-फ़ाई, ऐप्स, वीडियो कॉल और शेड्यूल।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vanjski zaslon, napajanje, Wi‑Fi, aplikacije, videopozivi i rasporedi."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Külső kijelző, áram, Wi‑Fi, appok, videohívások és ütemezések."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Layar eksternal, daya, Wi‑Fi, app, panggilan video, dan jadwal."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitor esterno, alimentazione, Wi‑Fi, app, videochiamate e orari."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外部ディスプレイ、電源、Wi‑Fi、アプリ、ビデオ通話、スケジュール。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "외장 디스플레이, 전원, Wi‑Fi, 앱, 영상 통화, 일정."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paparan luaran, kuasa, Wi‑Fi, app, panggilan video dan jadual."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ekstern skjerm, strøm, Wi-Fi, apper, videosamtaler og tidsplaner."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extern beeldscherm, stroom, wifi, apps, videogesprekken en schema's."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitor zewnętrzny, zasilanie, Wi‑Fi, aplikacje, wideorozmowy i harmonogramy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitor externo, energia, Wi‑Fi, apps, videochamadas e horários."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitor externo, energia, Wi‑Fi, apps, videochamadas e horários."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitor extern, alimentare, Wi‑Fi, aplicații, apeluri video și programe."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Внешний дисплей, питание, Wi‑Fi, приложения, видеозвонки и расписания."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Externý monitor, napájanie, Wi‑Fi, aplikácie, videohovory a plány."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extern skärm, ström, wifi, appar, videosamtal och scheman."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "จอภาพภายนอก พลังงาน Wi‑Fi แอป การโทรวิดีโอ และกำหนดการ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Harici ekran, güç, Wi‑Fi, uygulamalar, görüntülü aramalar ve zamanlamalar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зовнішній дисплей, живлення, Wi‑Fi, програми, відеодзвінки й розклади."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Màn hình ngoài, nguồn điện, Wi‑Fi, ứng dụng, cuộc gọi video và lịch."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外接显示器、电源、Wi‑Fi、App、视频通话和日程。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外接顯示器、電源、Wi‑Fi、App、視訊通話和排程。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Keep your Mac awake. One click.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أبقِ الـ Mac مستيقظًا. بنقرة واحدة."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantén el Mac despert. Amb un clic."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenechte svůj Mac usnout. Jedním kliknutím."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hold din Mac vågen. Med ét klik."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halte deinen Mac wach. Mit einem Klick."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Κρατήστε το Mac σε εγρήγορση. Με ένα κλικ."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantén tu Mac despierto. Con un clic."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pidä Mac hereillä. Yhdellä klikkauksella."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gardez votre Mac éveillé. En un clic."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השאר את ה‑Mac ער. בלחיצה אחת."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अपने Mac को जगाए रखें। एक क्लिक में।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Držite Mac budnim. Jednim klikom."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tartsa ébren a Macet. Egy kattintással."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jaga Mac Anda tetap terjaga. Dengan satu klik."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantieni sveglio il tuo Mac. Con un clic."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macをスリープさせない。ワンクリックで。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac을 깨어 있게. 클릭 한 번으로."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pastikan Mac anda berjaga. Dengan satu klik."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hold Macen våken. Med ett klikk."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Houd je Mac wakker. Met één klik."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie pozwól Macowi zasnąć. Jednym kliknięciem."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenha seu Mac acordado. Com um clique."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenha o Mac acordado. Com um clique."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mențineți Mac‑ul treaz. Cu un clic."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не давайте Mac уснуть. Одним нажатием."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenechajte Mac zaspať. Jedným kliknutím."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Håll din Mac vaken. Med ett klick."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ให้ Mac ตื่นอยู่ ในคลิกเดียว"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac’inizi uyanık tutun. Tek tıkla."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не давайте Mac заснути. Одним клацанням."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giữ máy Mac luôn thức. Chỉ một lần bấm."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "让 Mac 保持唤醒,一键即可。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "讓 Mac 保持喚醒,一鍵搞定。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Private by design: everything stays on your Mac.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الخصوصية في التصميم: كل شيء يبقى على الـ Mac."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat per disseny: tot es queda al teu Mac."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Soukromí v základu: vše zůstává na vašem Macu."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat fra bunden: Alt bliver på din Mac."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat von Grund auf: Alles bleibt auf deinem Mac."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ιδιωτικότητα από τη σχεδίαση: όλα μένουν στο Mac σας."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privado por diseño: todo se queda en tu Mac."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yksityinen alusta asti: kaikki pysyy Macillasi."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confidentiel par nature : tout reste sur votre Mac."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פרטיות מובנית: הכול נשאר ב‑Mac שלך."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शुरू से निजी: सब कुछ आपके Mac पर ही रहता है।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privatnost od temelja: sve ostaje na vašem Macu."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adatvédelem alapból: minden a Macen marad."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat sejak awal: semuanya tetap di Mac Anda."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privato per natura: tutto resta sul tuo Mac."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プライバシー重視の設計:すべてがMacの中に。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설계부터 개인 정보 보호: 모든 것이 Mac에 머뭅니다."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peribadi dari asas: semuanya kekal pada Mac anda."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat fra grunnen av: Alt blir værende på Macen."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privé vanaf de basis: alles blijft op je Mac."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prywatność w standardzie: wszystko zostaje na Twoim Macu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privado por padrão: tudo fica no seu Mac."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privado por natureza: tudo fica no seu Mac."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confidențial prin concepție: totul rămâne pe Mac‑ul dvs."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Конфиденциальность по умолчанию: все остается на вашем Mac."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Súkromie v základe: všetko zostáva na vašom Macu."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat från grunden: allt stannar på din Mac."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เป็นส่วนตัวตั้งแต่การออกแบบ: ทุกอย่างอยู่บน Mac ของคุณ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gizlilik odaklı: Her şey Mac’inizde kalır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приватність за замовчуванням: усе залишається на вашому Mac."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riêng tư từ thiết kế: mọi thứ ở lại trên máy Mac của bạn."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私至上:所有内容都留在你的 Mac 上。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隱私至上:所有內容都留在你的 Mac 上。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Stays awake while Claude Code, Codex or Gemini run, then lets your Mac sleep.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يبقى مستيقظًا أثناء تشغيل Claude Code أو Codex أو Gemini، ثم يترك الـ Mac يستريح."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es manté despert mentre el Claude Code, el Codex o el Gemini treballen i després deixa descansar el Mac."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zůstane vzhůru, dokud běží Claude Code, Codex nebo Gemini, a pak nechá Mac odpočinout."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forbliver vågen, mens Claude Code, Codex eller Gemini arbejder, og lader derefter Mac'en hvile."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bleibt wach, während Claude Code, Codex oder Gemini arbeiten – danach darf der Mac ruhen."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μένει σε εγρήγορση όσο εκτελούνται το Claude Code, το Codex ή το Gemini και μετά αφήνει το Mac να ξεκουραστεί."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permanece despierto mientras Claude Code, Codex o Gemini trabajan y luego deja que el Mac descanse."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pysyy hereillä, kun Claude Code, Codex tai Gemini työskentelevät, ja antaa sitten Macin levätä."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reste éveillé pendant que Claude Code, Codex ou Gemini travaillent, puis laisse le Mac se reposer."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נשאר ער בזמן ש‑Claude Code, Codex או Gemini פועלים, ואז נותן ל‑Mac לנוח."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude Code, Codex या Gemini चलने तक जगा रहता है, फिर Mac को आराम करने देता है।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ostaje budan dok rade Claude Code, Codex ili Gemini, a zatim pušta Mac da se odmori."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ébren marad, amíg a Claude Code, a Codex vagy a Gemini fut, aztán hagyja pihenni a Macet."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tetap terjaga saat Claude Code, Codex, atau Gemini berjalan, lalu membiarkan Mac Anda tidur."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resta sveglio mentre lavorano Claude Code, Codex o Gemini, poi lascia riposare il Mac."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude Code、Codex、Geminiの実行中はスリープせず、終わったらMacを休ませます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude Code, Codex, Gemini가 실행되는 동안 깨어 있고, 끝나면 Mac을 쉬게 합니다."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terus berjaga semasa Claude Code, Codex atau Gemini berjalan, kemudian membiarkan Mac anda tidur."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forblir våken mens Claude Code, Codex eller Gemini jobber, og lar deretter Macen hvile."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blijft wakker terwijl Claude Code, Codex of Gemini werken en laat je Mac daarna sluimeren."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie usypia, gdy pracuje Claude Code, Codex lub Gemini, a potem pozwala Macowi odpocząć."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fica acordado enquanto Claude Code, Codex ou Gemini rodam e depois deixa o Mac repousar."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fica acordado enquanto o Claude Code, o Codex ou o Gemini trabalham e depois deixa o Mac entrar em pausa."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rămâne treaz cât timp rulează Claude Code, Codex sau Gemini, apoi lasă Mac‑ul să se odihnească."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не дает уснуть, пока работают Claude Code, Codex или Gemini, а потом дает Mac отдохнуть."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zostane hore, kým beží Claude Code, Codex alebo Gemini, a potom nechá Mac odpočívať."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Förblir vaken medan Claude Code, Codex eller Gemini arbetar och låter sedan datorn vila."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ตื่นอยู่ขณะที่ Claude Code, Codex หรือ Gemini ทำงาน แล้วปล่อยให้ Mac ได้พัก"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude Code, Codex veya Gemini çalışırken uyanık kalır, sonra Mac’in dinlenmesine izin verir."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не дає заснути, поки працюють Claude Code, Codex чи Gemini, а потім дає Mac відпочити."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Luôn thức khi Claude Code, Codex hoặc Gemini chạy, rồi cho máy Mac nghỉ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Claude Code、Codex 或 Gemini 运行时保持唤醒,完成后让 Mac 休息。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Claude Code、Codex 或 Gemini 執行時保持喚醒,完成後讓 Mac 休息。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Timers, a global shortcut and a live countdown, right in the menu bar.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مؤقتات واختصار عام وعد تنازلي مباشر، في شريط القائمة."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporitzadors, drecera global i compte enrere en directe, a la barra de menús."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Časovače, globální zkratka a živý odpočet přímo na řádku nabídek."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timere, global tastaturgenvej og live nedtælling direkte på menulinjen."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timer, globaler Kurzbefehl und Live-Countdown direkt in der Menüleiste."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Χρονόμετρα, καθολική συντόμευση και ζωντανή αντίστροφη μέτρηση στη γραμμή μενού."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporizadores, una función rápida global y cuenta atrás en directo, en la barra de menús."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajastimet, yleinen pikanäppäin ja reaaliaikainen lähtölaskenta suoraan valikkorivillä."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minuteurs, raccourci global et compte à rebours en direct, dans la barre des menus."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טיימרים, קיצור גלובלי וספירה לאחור חיה, ישירות בשורת התפריטים."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टाइमर, ग्लोबल शॉर्टकट और लाइव काउंटडाउन, सीधे मेनू बार में।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mjerači vremena, globalni prečac i odbrojavanje uživo, izravno u traci izbornika."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Időzítők, globális billentyűparancs és élő visszaszámlálás közvetlenül a menüsorban."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timer, pintasan global, dan hitung mundur langsung, tepat di bar menu."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timer, abbreviazione globale e conto alla rovescia in tempo reale, nella barra dei menu."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タイマー、グローバルショートカット、ライブカウントダウンをメニューバーに。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "타이머, 전역 단축키, 실시간 카운트다운을 메뉴 막대에서 바로."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pemasa, pintasan global dan kiraan detik langsung, terus dalam bar menu."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidtakere, global snarvei og direkte nedtelling rett i menylinjen."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timers, een algemene toetscombinatie en live aftelling, gewoon in de menubalk."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minutniki, globalny skrót i odliczanie na żywo prosto na pasku menu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timers, atalho global e contagem regressiva ao vivo, direto na barra de menus."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporizadores, atalho global e contagem decrescente ao vivo, na barra de menus."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporizatoare, scurtătură globală și numărătoare inversă live, direct în bara de meniu."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Таймеры, глобальное сочетание клавиш и обратный отсчет прямо в строке меню."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Časovače, globálna skratka a živé odpočítavanie priamo na lište."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timers, globalt kortkommando och nedräkning direkt i menyraden."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ตัวจับเวลา ปุ่มลัดส่วนกลาง และการนับถอยหลังสด บนแถบเมนู"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zamanlayıcılar, genel kestirme ve canlı geri sayım, doğrudan menü çubuğunda."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Таймери, глобальне скорочення й живий зворотний відлік просто в смузі меню."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hẹn giờ, phím tắt toàn cục và đếm ngược trực tiếp ngay trên thanh menu."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "计时器、全局快捷键和实时倒计时,尽在菜单栏。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "計時器、全域快速鍵和即時倒數,盡在選單列。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Widgets, Control Center and history.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أدوات وواجهات، ومركز التحكم، والسجل."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, centre de control i historial."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgety, Ovládací centrum a historie."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Kontrolcenter og historik."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Kontrollzentrum und Verlauf."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widget, Κέντρο ελέγχου και ιστορικό."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Centro de control e historial."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgetit, Ohjauskeskus ja historia."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Centre de contrôle et historique."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "וידג׳טים, מרכז הבקרה והיסטוריה."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "विजेट, कंट्रोल सेंटर और इतिहास।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgeti, Kontrolni centar i povijest."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgetek, Vezérlőközpont és előzmények."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widget, Pusat Kontrol, dan riwayat."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widget, Centro di Controllo e cronologia."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ウィジェット、コントロールセンター、履歴。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "위젯, 제어 센터, 기록."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widget, Pusat Kawalan dan sejarah."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgeter, Kontrollsenter og logg."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, bedieningspaneel en geschiedenis."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widżety, centrum sterowania i historia."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Central de Controle e histórico."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgets, Central de controlo e histórico."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgeturi, Centrul de control și istoric."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Виджеты, Пункт управления и история."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgety, Ovládacie centrum a história."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widgetar, Kontrollcenter och historik."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "วิดเจ็ต ศูนย์ควบคุม และประวัติ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widget’lar, Denetim Merkezi ve geçmiş."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Віджети, Центр керування та історія."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiện ích, Trung tâm điều khiển và lịch sử."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小组件、控制中心和历史记录。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小工具、控制中心和歷史記錄。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Your AI agents keep working.": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "وكلاء الذكاء الاصطناعي يواصلون العمل."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Els teus agents d’IA continuen treballant."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaši AI agenti pracují dál."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dine AI-agenter bliver ved med at arbejde."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine KI-Agenten arbeiten weiter."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι πράκτορες AI συνεχίζουν να εργάζονται."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tus agentes de IA siguen trabajando."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tekoälyagenttisi jatkavat työtään."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vos agents IA continuent de travailler."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סוכני ה‑AI שלך ממשיכים לעבוד."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपके AI एजेंट काम करते रहते हैं।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaši AI agenti nastavljaju raditi."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az MI-ügynökei tovább dolgoznak."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agen AI Anda terus bekerja."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I tuoi agenti IA continuano a lavorare."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AIエージェントは作業を続けます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 에이전트는 계속 일합니다."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ejen AI anda terus bekerja."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "KI-agentene dine fortsetter å jobbe."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je AI-agents blijven doorwerken."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twoi agenci AI pracują dalej."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seus agentes de IA continuam trabalhando."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os seus agentes de IA continuam a trabalhar."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agenții dvs. AI continuă să lucreze."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваши ИИ-агенты продолжают работать."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaši AI agenti pracujú ďalej."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dina AI-agenter fortsätter arbeta."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เอเจนต์ AI ของคุณทำงานต่อไป"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yapay zekâ ajanlarınız çalışmaya devam eder."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваші ШІ-агенти продовжують працювати."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Các tác nhân AI của bạn tiếp tục làm việc."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的 AI 智能体持续工作。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的 AI 代理程式持續工作。"
+          }
+        }
+      },
+      "extractionState": "manual"
+    }
+  },
+  "version": "1.0"
+}

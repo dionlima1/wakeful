@@ -1,0 +1,30 @@
+Wakeful holder Macen våken akkurat når du trenger det, og lar den gå i dvale resten av tiden.
+
+Klikk på koppen i menylinjen så Macen ikke går i dvale, demper skjermen eller starter skjermspareren. Velg en tidtaker, eller la Wakeful bestemme selv.
+
+LAGET FOR KI-AGENTER OG LANGE OPPGAVER
+• Forblir våken mens Claude Code, Codex, Gemini eller en annen agent du legger til, jobber, og lar Macen gå i dvale når de er ferdige
+• Holder Macen våken til en kommando, et skript eller en app er ferdig
+• Kommandolinjeverktøy og URL-skjema for skript, Raycast og Alfred
+
+GRATIS
+• Slå av og på med ett klikk i menylinjen
+• Tidtakere fra 15 minutter til 8 timer, eller valgfri varighet
+• Direkte nedtelling i menylinjen
+• Global hurtigtast
+• Hold bare systemet våkent og la skjermen gå i dvale
+• Batteribeskyttelse: stopper på batteri eller under et bestemt nivå
+• Snarveier-handlinger, skrivebordswidget og kontroll i Kontrollsenter (macOS 26)
+• Åpnes ved pålogging og varsler når en økt slutter
+
+WAKEFUL PRO (ENGANGSKJØP)
+• KI-agentmodus
+• Automatiske utløsere: ekstern skjerm, strømadapter, Wi-Fi-nettverk, apper, videosamtaler og tidsplaner
+• Hold våken mens en prosess eller app kjører
+• Fortsett å jobbe med lukket lokk mens Macen er koblet til strøm
+• Logg over hvor lenge, og hvorfor, Macen var våken
+
+PRIVAT FRA GRUNNEN AV
+Ingen konto, ingen reklame, ingen sporing. Alt blir værende på Macen.
+
+macOS tillater bare at en Mac holdes våken med lukket lokk mens den er koblet til strøm.

@@ -1,0 +1,36 @@
+name: Wakeful: Mac Tetap Terjaga
+subtitle: Anti-tidur, timer, dan agen AI
+keywords: tidur,cegah tidur,insomnia,layar,penghemat layar,penutup,baterai,timer,bar menu,kafein,koding
+promo: Agen AI dan build panjang Anda selesai, bukan terhenti saat Mac tertidur. Satu klik, pemicu pintar, tanpa langganan.
+iap: Agen AI, pemicu, penutup tertutup, riwayat
+---
+Wakeful menjaga Mac Anda tetap terjaga tepat saat Anda membutuhkannya, dan membiarkannya tidur di waktu lain.
+
+Klik cangkir di bar menu agar Mac tidak tidur, tidak meredupkan layar, atau memulai penghemat layar. Pilih timer, atau biarkan Wakeful memutuskan sendiri.
+
+DIBUAT UNTUK AGEN AI DAN TUGAS PANJANG
+• Tetap terjaga saat Claude Code, Codex, Gemini, atau agen apa pun yang Anda tambahkan sedang bekerja, lalu membiarkan Mac tidur setelah selesai
+• Menjaga Mac tetap terjaga sampai perintah, skrip, atau app selesai
+• Alat baris perintah dan skema URL untuk skrip, Raycast, dan Alfred
+
+GRATIS
+• Nyalakan atau matikan dengan satu klik dari bar menu
+• Timer dari 15 menit hingga 8 jam, atau durasi apa pun
+• Hitung mundur langsung di bar menu
+• Pintasan papan ketik global
+• Jaga hanya sistem tetap terjaga dan biarkan layar tidur
+• Perlindungan baterai: berhenti saat menggunakan baterai atau di bawah level tertentu
+• Tindakan Pintasan, widget desktop, dan kontrol di Pusat Kontrol (macOS 26)
+• Dibuka saat login dan memberi tahu saat sesi berakhir
+
+WAKEFUL PRO (SEKALI BELI)
+• Mode agen AI
+• Pemicu otomatis: layar eksternal, adaptor daya, jaringan Wi‑Fi, app, panggilan video, dan jadwal
+• Jaga tetap terjaga selama proses atau app berjalan
+• Terus bekerja dengan penutup tertutup selama tersambung ke listrik
+• Riwayat berapa lama, dan mengapa, Mac Anda terjaga
+
+PRIVAT SEJAK AWAL
+Tanpa akun, tanpa iklan, tanpa pelacakan. Semuanya tetap di Mac Anda.
+
+macOS hanya mengizinkan Mac tetap terjaga dengan penutup tertutup saat tersambung ke daya.

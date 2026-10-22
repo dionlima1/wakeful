@@ -1,0 +1,424 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSLocationUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يستخدم Wakeful موقعك فقط لكي يسمح له macOS بقراءة اسم شبكة Wi‑Fi لمشغّلات Wi‑Fi. لا يتم تخزين موقعك أو مشاركته أبدًا."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Wakeful utilitza la teva ubicació només perquè el macOS li permeti llegir el nom de la xarxa Wi‑Fi per als activadors de Wi‑Fi. La teva ubicació mai no es desa ni es comparteix."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful používá vaši polohu jen proto, aby mu macOS dovolil přečíst název vaší sítě Wi‑Fi pro spouštěče Wi‑Fi. Vaše poloha se nikdy neukládá ani nesdílí."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful bruger kun din lokalitet, så macOS tillader appen at læse navnet på dit Wi-Fi-netværk til Wi-Fi-udløsere. Din lokalitet gemmes eller deles aldrig."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful verwendet deinen Standort nur, damit macOS den Namen deines WLANs für WLAN-Auslöser lesen lässt. Dein Standort wird nie gespeichert oder geteilt."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το Wakeful χρησιμοποιεί την τοποθεσία σας μόνο ώστε το macOS να του επιτρέπει να διαβάζει το όνομα του δικτύου Wi‑Fi για τα εναύσματα Wi‑Fi. Η τοποθεσία σας δεν αποθηκεύεται ούτε κοινοποιείται ποτέ."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful usa tu ubicación solo para que macOS le permita leer el nombre de tu red Wi‑Fi en los activadores de Wi‑Fi. Tu ubicación nunca se guarda ni se comparte."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful käyttää sijaintiasi vain, jotta macOS antaa sen lukea Wi-Fi-verkkosi nimen Wi-Fi-laukaisimia varten. Sijaintiasi ei koskaan tallenneta eikä jaeta."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful utilise votre position uniquement pour que macOS l’autorise à lire le nom de votre réseau Wi‑Fi pour les déclencheurs Wi‑Fi. Votre position n’est jamais stockée ni partagée."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful משתמש במיקום שלך רק כדי ש‑macOS יאפשר לו לקרוא את שם רשת ה‑Wi‑Fi עבור טריגרים של Wi‑Fi. המיקום שלך לעולם אינו נשמר או משותף."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful आपकी लोकेशन केवल इसलिए उपयोग करता है ताकि macOS उसे वाई-फ़ाई ट्रिगर के लिए आपके वाई-फ़ाई नेटवर्क का नाम पढ़ने दे। आपकी लोकेशन कभी संग्रहित या शेयर नहीं की जाती।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful upotrebljava vašu lokaciju samo kako bi mu macOS dopustio čitanje naziva vaše Wi‑Fi mreže za Wi‑Fi okidače. Vaša lokacija nikada se ne pohranjuje niti dijeli."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Wakeful csak azért használja a helyzetét, hogy a macOS engedje beolvasni a Wi‑Fi-hálózat nevét a Wi‑Fi-eseményindítókhoz. A helyzetét soha nem tárolja és nem osztja meg."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful menggunakan lokasi Anda hanya agar macOS mengizinkannya membaca nama jaringan Wi‑Fi Anda untuk pemicu Wi‑Fi. Lokasi Anda tidak pernah disimpan atau dibagikan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful usa la tua posizione solo perché macOS gli consenta di leggere il nome della rete Wi‑Fi per gli attivatori Wi‑Fi. La tua posizione non viene mai salvata né condivisa."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakefulは、Wi‑FiトリガーのためにmacOSがWi‑Fiネットワーク名の読み取りを許可するようにする目的でのみ位置情報を使用します。位置情報が保存されたり共有されたりすることはありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful은 Wi‑Fi 트리거에 사용할 Wi‑Fi 네트워크 이름을 macOS가 읽을 수 있도록 허용하기 위해서만 위치를 사용합니다. 위치는 절대 저장되거나 공유되지 않습니다."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful menggunakan lokasi anda hanya supaya macOS membenarkannya membaca nama rangkaian Wi‑Fi anda untuk pencetus Wi‑Fi. Lokasi anda tidak pernah disimpan atau dikongsi."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful bruker lokaliteten din bare slik at macOS lar appen lese navnet på Wi-Fi-nettverket ditt for Wi-Fi-utløsere. Lokaliteten din blir aldri lagret eller delt."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful gebruikt je locatie alleen zodat macOS de naam van je wifinetwerk laat lezen voor wifitriggers. Je locatie wordt nooit bewaard of gedeeld."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful używa Twojej lokalizacji tylko po to, aby macOS pozwolił odczytać nazwę sieci Wi‑Fi na potrzeby wyzwalaczy Wi‑Fi. Twoja lokalizacja nigdy nie jest przechowywana ani udostępniana."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Wakeful usa sua localização apenas para que o macOS permita ler o nome da sua rede Wi‑Fi nos gatilhos de Wi‑Fi. Sua localização nunca é armazenada nem compartilhada."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Wakeful usa a sua localização apenas para que o macOS permita ler o nome da rede Wi‑Fi nos acionadores de Wi‑Fi. A sua localização nunca é guardada nem partilhada."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful folosește localizarea dvs. doar pentru ca macOS să-i permită citirea numelui rețelei Wi‑Fi pentru declanșatorii Wi‑Fi. Localizarea dvs. nu este niciodată stocată sau partajată."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful использует вашу геопозицию только для того, чтобы macOS разрешила прочитать имя сети Wi‑Fi для триггеров Wi‑Fi. Ваша геопозиция никогда не сохраняется и не передается."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful používa vašu polohu len preto, aby mu macOS dovolil prečítať názov vašej siete Wi‑Fi pre spúšťače Wi‑Fi. Vaša poloha sa nikdy neukladá ani nezdieľa."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful använder din plats bara för att macOS ska låta appen läsa namnet på ditt wifi-nätverk för wifi-utlösare. Din plats lagras eller delas aldrig."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful ใช้ตำแหน่งที่ตั้งของคุณเพื่อให้ macOS อนุญาตให้อ่านชื่อเครือข่าย Wi‑Fi สำหรับตัวกระตุ้น Wi‑Fi เท่านั้น ตำแหน่งที่ตั้งของคุณจะไม่ถูกจัดเก็บหรือแชร์"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful konumunuzu yalnızca macOS’in Wi‑Fi tetikleyicileri için Wi‑Fi ağınızın adını okumasına izin vermesi amacıyla kullanır. Konumunuz hiçbir zaman saklanmaz veya paylaşılmaz."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful використовує вашу геопозицію лише для того, щоб macOS дозволила прочитати назву мережі Wi‑Fi для тригерів Wi‑Fi. Ваша геопозиція ніколи не зберігається й не передається."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful chỉ dùng vị trí của bạn để macOS cho phép đọc tên mạng Wi‑Fi cho các trình kích hoạt Wi‑Fi. Vị trí của bạn không bao giờ được lưu trữ hay chia sẻ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful 使用你的位置仅是为了让 macOS 允许其读取 Wi‑Fi 网络名称以用于 Wi‑Fi 触发条件。你的位置绝不会被存储或共享。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful 使用你的位置只是為了讓 macOS 允許其讀取 Wi‑Fi 網路名稱以用於 Wi‑Fi 觸發條件。你的位置絕不會被儲存或分享。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared."
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يستخدم Wakeful موقعك فقط لكي يسمح له macOS بقراءة اسم شبكة Wi‑Fi لمشغّلات Wi‑Fi. لا يتم تخزين موقعك أو مشاركته أبدًا."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Wakeful utilitza la teva ubicació només perquè el macOS li permeti llegir el nom de la xarxa Wi‑Fi per als activadors de Wi‑Fi. La teva ubicació mai no es desa ni es comparteix."
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful používá vaši polohu jen proto, aby mu macOS dovolil přečíst název vaší sítě Wi‑Fi pro spouštěče Wi‑Fi. Vaše poloha se nikdy neukládá ani nesdílí."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful bruger kun din lokalitet, så macOS tillader appen at læse navnet på dit Wi-Fi-netværk til Wi-Fi-udløsere. Din lokalitet gemmes eller deles aldrig."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful verwendet deinen Standort nur, damit macOS den Namen deines WLANs für WLAN-Auslöser lesen lässt. Dein Standort wird nie gespeichert oder geteilt."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το Wakeful χρησιμοποιεί την τοποθεσία σας μόνο ώστε το macOS να του επιτρέπει να διαβάζει το όνομα του δικτύου Wi‑Fi για τα εναύσματα Wi‑Fi. Η τοποθεσία σας δεν αποθηκεύεται ούτε κοινοποιείται ποτέ."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful usa tu ubicación solo para que macOS le permita leer el nombre de tu red Wi‑Fi en los activadores de Wi‑Fi. Tu ubicación nunca se guarda ni se comparte."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful käyttää sijaintiasi vain, jotta macOS antaa sen lukea Wi-Fi-verkkosi nimen Wi-Fi-laukaisimia varten. Sijaintiasi ei koskaan tallenneta eikä jaeta."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful utilise votre position uniquement pour que macOS l’autorise à lire le nom de votre réseau Wi‑Fi pour les déclencheurs Wi‑Fi. Votre position n’est jamais stockée ni partagée."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful משתמש במיקום שלך רק כדי ש‑macOS יאפשר לו לקרוא את שם רשת ה‑Wi‑Fi עבור טריגרים של Wi‑Fi. המיקום שלך לעולם אינו נשמר או משותף."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful आपकी लोकेशन केवल इसलिए उपयोग करता है ताकि macOS उसे वाई-फ़ाई ट्रिगर के लिए आपके वाई-फ़ाई नेटवर्क का नाम पढ़ने दे। आपकी लोकेशन कभी संग्रहित या शेयर नहीं की जाती।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful upotrebljava vašu lokaciju samo kako bi mu macOS dopustio čitanje naziva vaše Wi‑Fi mreže za Wi‑Fi okidače. Vaša lokacija nikada se ne pohranjuje niti dijeli."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Wakeful csak azért használja a helyzetét, hogy a macOS engedje beolvasni a Wi‑Fi-hálózat nevét a Wi‑Fi-eseményindítókhoz. A helyzetét soha nem tárolja és nem osztja meg."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful menggunakan lokasi Anda hanya agar macOS mengizinkannya membaca nama jaringan Wi‑Fi Anda untuk pemicu Wi‑Fi. Lokasi Anda tidak pernah disimpan atau dibagikan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful usa la tua posizione solo perché macOS gli consenta di leggere il nome della rete Wi‑Fi per gli attivatori Wi‑Fi. La tua posizione non viene mai salvata né condivisa."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakefulは、Wi‑FiトリガーのためにmacOSがWi‑Fiネットワーク名の読み取りを許可するようにする目的でのみ位置情報を使用します。位置情報が保存されたり共有されたりすることはありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful은 Wi‑Fi 트리거에 사용할 Wi‑Fi 네트워크 이름을 macOS가 읽을 수 있도록 허용하기 위해서만 위치를 사용합니다. 위치는 절대 저장되거나 공유되지 않습니다."
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful menggunakan lokasi anda hanya supaya macOS membenarkannya membaca nama rangkaian Wi‑Fi anda untuk pencetus Wi‑Fi. Lokasi anda tidak pernah disimpan atau dikongsi."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful bruker lokaliteten din bare slik at macOS lar appen lese navnet på Wi-Fi-nettverket ditt for Wi-Fi-utløsere. Lokaliteten din blir aldri lagret eller delt."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful gebruikt je locatie alleen zodat macOS de naam van je wifinetwerk laat lezen voor wifitriggers. Je locatie wordt nooit bewaard of gedeeld."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful używa Twojej lokalizacji tylko po to, aby macOS pozwolił odczytać nazwę sieci Wi‑Fi na potrzeby wyzwalaczy Wi‑Fi. Twoja lokalizacja nigdy nie jest przechowywana ani udostępniana."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Wakeful usa sua localização apenas para que o macOS permita ler o nome da sua rede Wi‑Fi nos gatilhos de Wi‑Fi. Sua localização nunca é armazenada nem compartilhada."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Wakeful usa a sua localização apenas para que o macOS permita ler o nome da rede Wi‑Fi nos acionadores de Wi‑Fi. A sua localização nunca é guardada nem partilhada."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful folosește localizarea dvs. doar pentru ca macOS să-i permită citirea numelui rețelei Wi‑Fi pentru declanșatorii Wi‑Fi. Localizarea dvs. nu este niciodată stocată sau partajată."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful использует вашу геопозицию только для того, чтобы macOS разрешила прочитать имя сети Wi‑Fi для триггеров Wi‑Fi. Ваша геопозиция никогда не сохраняется и не передается."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful používa vašu polohu len preto, aby mu macOS dovolil prečítať názov vašej siete Wi‑Fi pre spúšťače Wi‑Fi. Vaša poloha sa nikdy neukladá ani nezdieľa."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful använder din plats bara för att macOS ska låta appen läsa namnet på ditt wifi-nätverk för wifi-utlösare. Din plats lagras eller delas aldrig."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful ใช้ตำแหน่งที่ตั้งของคุณเพื่อให้ macOS อนุญาตให้อ่านชื่อเครือข่าย Wi‑Fi สำหรับตัวกระตุ้น Wi‑Fi เท่านั้น ตำแหน่งที่ตั้งของคุณจะไม่ถูกจัดเก็บหรือแชร์"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful konumunuzu yalnızca macOS’in Wi‑Fi tetikleyicileri için Wi‑Fi ağınızın adını okumasına izin vermesi amacıyla kullanır. Konumunuz hiçbir zaman saklanmaz veya paylaşılmaz."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful використовує вашу геопозицію лише для того, щоб macOS дозволила прочитати назву мережі Wi‑Fi для тригерів Wi‑Fi. Ваша геопозиція ніколи не зберігається й не передається."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful chỉ dùng vị trí của bạn để macOS cho phép đọc tên mạng Wi‑Fi cho các trình kích hoạt Wi‑Fi. Vị trí của bạn không bao giờ được lưu trữ hay chia sẻ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful 使用你的位置仅是为了让 macOS 允许其读取 Wi‑Fi 网络名称以用于 Wi‑Fi 触发条件。你的位置绝不会被存储或共享。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful 使用你的位置只是為了讓 macOS 允許其讀取 Wi‑Fi 網路名稱以用於 Wi‑Fi 觸發條件。你的位置絕不會被儲存或分享。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wakeful uses your location only so macOS lets it read the name of your Wi‑Fi network for Wi‑Fi triggers. Your location is never stored or shared."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

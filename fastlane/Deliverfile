@@ -1,0 +1,18 @@
+# Uploads the App Store page (metadata + screenshots for every locale) with `fastlane deliver`.
+#
+#   python3 scripts/store/build_metadata.py   # regenerate fastlane/metadata
+#   scripts/render-screenshots.sh             # regenerate fastlane/screenshots
+#   fastlane deliver                          # upload (needs an App Store Connect API key)
+#
+# The build itself is uploaded from Xcode (Product > Archive > Distribute App).
+app_identifier("com.dionlima.wakeful")
+platform("osx")
+
+skip_binary_upload(true)
+submit_for_review(false)
+automatic_release(false)
+overwrite_screenshots(true)
+force(true) # skip the HTML preview
+precheck_include_in_app_purchases(false)
+
+# api_key_path("fastlane/app-store-connect-key.json")

@@ -1,0 +1,30 @@
+El Wakeful manté el Mac despert just quan ho necessites i el deixa en repòs la resta del temps.
+
+Fes clic a la tassa de la barra de menús perquè el Mac no entri en repòs, no enfosqueixi la pantalla ni activi el protector de pantalla. Tria un temporitzador o deixa que el Wakeful decideixi sol.
+
+FET PER A AGENTS D’IA I TASQUES LLARGUES
+• Es manté despert mentre treballen el Claude Code, el Codex, el Gemini o qualsevol agent que afegeixis, i deixa que el Mac entri en repòs quan acaben
+• Manté el Mac despert fins que acaba una ordre, un script o una app
+• Eina de línia d’ordres i esquema d’URL per a scripts, Raycast i Alfred
+
+GRATUÏT
+• Activació amb un clic des de la barra de menús
+• Temporitzadors de 15 minuts a 8 hores, o qualsevol durada
+• Compte enrere en directe a la barra de menús
+• Drecera de teclat global
+• Mantén despert només el sistema i deixa que la pantalla reposi
+• Protecció de la bateria: s’atura amb bateria o per sota d’un nivell de càrrega
+• Accions de Dreceres, giny d’escriptori i control al centre de control (macOS 26)
+• S’obre en iniciar la sessió i avisa quan acaba una sessió
+
+WAKEFUL PRO (COMPRA ÚNICA)
+• Mode d’agent d’IA
+• Activadors automàtics: pantalla externa, adaptador de corrent, xarxa Wi‑Fi, apps, videotrucades i horaris
+• Mantén despert mentre s’executa un procés o una app
+• Continua treballant amb la tapa tancada mentre estigui endollat
+• Historial de quant de temps, i per què, el Mac ha estat despert
+
+PRIVAT PER DISSENY
+Sense compte, sense anuncis, sense seguiment. Tot es queda al teu Mac.
+
+El macOS només permet mantenir el Mac despert amb la tapa tancada mentre està connectat al corrent.

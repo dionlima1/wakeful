@@ -1,0 +1,162 @@
+1|Nastavení Wakeful
+2|Terminál
+3|Automaticky nenechat Mac usnout, když pracuje AI agent
+4|Názvy procesů agentů
+5|Obnovit výchozí
+6|AI agenti
+7|Názvy procesů oddělené čárkou. Wakeful kontroluje každých pár sekund a jakmile všechny skončí, nechá Mac znovu přejít do režimu spánku.
+8|Zatím žádné spouštěče. Přidejte spouštěč, který v určitých situacích automaticky nenechá Mac usnout.
+9|Odstranit spouštěč
+10|Spouštěče
+11|Dokud platí kterýkoli zapnutý spouštěč, Mac neusne. Relace spuštěná ručně má vždy přednost.
+12|Nenechat usnout, dokud příkaz neskončí:
+13|Nebo ovládejte Wakeful ze skriptů, Raycastu či Alfredu:
+14|Připojen externí monitor
+15|Připojen napájecí adaptér
+16|Kamera nebo mikrofon se používá (videohovory)
+17|Připojeno k síti Wi‑Fi…
+18|Podle plánu…
+19|Aplikace je otevřená
+20|Aplikace je v popředí
+21|Vybrat aplikaci…
+22|Přidat spouštěč
+23|Odemknout
+24|Tato funkce je součástí Wakeful Pro
+25|Odemkněte automatizaci, detekci AI agentů, historii a další funkce jednorázovým nákupem.
+26|Nenechat usnout v síti Wi‑Fi
+27|Název sítě
+28|macOS vyžaduje přístup k poloze, aby mohl přečíst název sítě Wi‑Fi.
+29|Použít aktuální síť
+30|Zrušit
+31|Přidat
+32|Nenechat usnout podle plánu
+33|Od
+34|Do
+35|Smazat celou historii?
+36|Nedávné relace
+37|Hodiny
+38|Doba bdění za den v posledních 7 dnech
+39|Dnes
+40|Posledních 7 dní
+41|Relace
+42|Den
+43|Zatím nebyly zaznamenány žádné relace.
+44|Zaznamenávat historii na tomto Macu
+45|Smazat historii…
+46|Historie se ukládá jen na tomto Macu a nikam se neodesílá.
+47|Smazat historii
+48|Nenechat Mac usnout
+49|Zabrání přechodu Macu do režimu spánku, volitelně na zadaný počet minut.
+50|Minuty
+51|Ponechte prázdné, chcete-li Mac nechat vzhůru neomezeně.
+52|Nechat Mac usnout
+53|Přepnout zabránění spánku
+54|Je Mac držen vzhůru?
+55|Nenechat usnout
+56|App Store teď není k dispozici.
+57|Režim AI agenta
+58|Zůstane vzhůru, dokud pracuje Claude Code, Codex, Gemini nebo jakýkoli agent, kterého přidáte.
+59|Automatické spouštěče
+60|Externí monitor, napájecí adaptér, Wi‑Fi, aplikace, videohovory a plány.
+61|Procesy a aplikace
+62|Zůstane vzhůru, dokud neskončí příkaz, skript nebo aplikace.
+63|Zavřené víko
+64|Pracujte dál se zavřeným víkem, když je Mac připojený k napájení.
+65|Historie
+66|Zjistěte, jak dlouho a proč byl Mac vzhůru.
+67|Wakeful Pro je odemčen
+68|Wakeful Pro
+69|Děkujeme, že podporujete nezávislého vývojáře!
+70|Jeden nákup. Žádné předplatné. Sdíleno s rodinou.
+71|Váš nákup čeká na schválení.
+72|Obnovit nákupy
+73|Odemknout Pro
+74|Odemknout za %@
+75|Ručně
+76|Časovač
+77|Automaticky
+78|Časovač skončil. Mac může znovu usnout.
+79|%@ skončil. Mac může znovu usnout.
+80|%@ byla ukončena. Mac může znovu usnout.
+81|Všichni AI agenti skončili. Mac může znovu usnout.
+82|Zastaveno, protože Mac běží na baterii.
+83|Zastaveno, protože baterie je na %lld %%.
+84|Běží AI agent (%@)
+85|Vypnuto — Mac usíná jako obvykle
+86|Vzhůru neomezeně
+87|Vzhůru ještě %@
+88|Vzhůru, dokud běží %@
+89|Vzhůru, dokud je otevřená aplikace %@
+90|Automaticky vzhůru: %@
+91|Obecné
+92|Automatizace
+93|Napájení
+94|Pro
+95|Otevírat při přihlášení
+96|Zapnout při spuštění Wakeful
+97|Kliknutí levým tlačítkem na ikonu na řádku nabídek
+98|Výchozí doba
+99|Zkratka pro přepnutí
+100|Přepne zabránění spánku
+101|Otevře nabídku
+102|Neomezeně
+103|Povolit spánek monitoru (nechat vzhůru jen systém)
+104|Zobrazovat odpočet na řádku nabídek
+105|Upozornit na konec relace
+106|Baterie
+107|Zastavit, když Mac přejde na baterii
+108|Zastavit, když baterie klesne na
+109|Nikdy
+110|Nenechat usnout se zavřeným víkem
+111|macOS to umožňuje jen tehdy, když je Mac připojený k napájení. Na baterii zavření víka Mac stále uspí.
+112|PRO
+113|Vyžaduje Wakeful Pro
+114|Vypnout
+115|Nenechat usnout neomezeně
+116|Vlastní…
+117|Nenechat usnout po dobu
+118|Dokud pracuje AI agent
+119|Dokud je otevřená aplikace
+120|Povolit spánek monitoru
+121|Nenechat usnout se zavřeným víkem
+122|Automaticky zapnout při běhu AI agentů
+123|Automatické spouštěče…
+124|Odemknout Wakeful Pro…
+125|Nastavení…
+126|Ukončit Wakeful
+127|Neběží žádní AI agenti
+128|Upravit seznam agentů…
+129|Jak dlouho nenechat usnout?
+130|Zadejte dobu v minutách.
+131|Spustit
+132|Je připojen externí monitor
+133|Napájecí adaptér je připojen
+134|Připojeno k Wi‑Fi „%@“
+135|Aplikace %@ je otevřená
+136|Aplikace %@ je v popředí
+137|Kamera nebo mikrofon se používá
+138|%@, %@–%@
+139|Každý den
+140|Pracovní dny
+141|Víkendy
+142|Wakeful
+143|Zjistěte, zda je Mac držen vzhůru, a přepínejte jedním kliknutím.
+144|Vzhůru
+145|Usíná normálně
+146|Dokud to nevypnete
+147|Klikněte a Mac neusne
+148|Zabrání přechodu Macu do režimu spánku.
+149|Vypnuto
+150|Nenechte svůj Mac usnout. Jedním kliknutím.
+151|Časovače, globální zkratka a živý odpočet přímo na řádku nabídek.
+152|Vaši AI agenti pracují dál.
+153|Zůstane vzhůru, dokud běží Claude Code, Codex nebo Gemini, a pak nechá Mac odpočinout.
+154|Automaticky, když na tom záleží.
+155|Externí monitor, napájení, Wi‑Fi, aplikace, videohovory a plány.
+156|Widgety, Ovládací centrum a historie.
+157|Soukromí v základu: vše zůstává na vašem Macu.
+158|Nenech můj Mac usnout pomocí ${applicationName}
+159|Spustit ${applicationName}
+160|Zastavit ${applicationName}
+161|Nech můj Mac usnout pomocí ${applicationName}
+162|Wakeful používá vaši polohu jen proto, aby mu macOS dovolil přečíst název vaší sítě Wi‑Fi pro spouštěče Wi‑Fi. Vaše poloha se nikdy neukládá ani nesdílí.
