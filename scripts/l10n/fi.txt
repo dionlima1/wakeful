@@ -20,143 +20,118 @@
 20|Appi on edessä
 21|Valitse appi…
 22|Lisää laukaisin
-23|Avaa
-24|Tämä on Wakeful Pro -ominaisuus
-25|Avaa automaatio, tekoälyagenttien tunnistus, historia ja paljon muuta kertaostoksella.
-26|Pidä hereillä Wi-Fi-verkossa
-27|Verkon nimi
-28|macOS vaatii sijainnin käyttöoikeuden Wi-Fi-verkon nimen lukemiseen.
-29|Käytä nykyistä verkkoa
-30|Kumoa
-31|Lisää
-32|Pidä hereillä aikataulun mukaan
-33|Alkaen
-34|Päättyen
-35|Tyhjennetäänkö koko historia?
-36|Viimeaikaiset istunnot
-37|Tunnit
-38|Hereilläoloaika päivittäin viimeisten 7 päivän ajalta
-39|Tänään
-40|Viimeiset 7 päivää
-41|Istunnot
-42|Päivä
-43|Istuntoja ei ole vielä tallennettu.
-44|Tallenna historia tähän Maciin
-45|Tyhjennä historia…
-46|Historia tallennetaan vain tähän Maciin, eikä sitä lähetetä minnekään.
-47|Tyhjennä historia
-48|Pidä Mac hereillä
-49|Estää Macia menemästä lepoon, valinnaisesti tietyksi minuuttimääräksi.
-50|Minuutit
-51|Jätä tyhjäksi, niin Mac pysyy hereillä toistaiseksi.
-52|Anna Macin mennä lepoon
-53|Pidä hereillä päälle/pois
-54|Pidetäänkö Mac hereillä?
-55|Pidä hereillä
-56|App Store ei ole juuri nyt käytettävissä.
-57|Tekoälyagenttitila
-58|Pysyy hereillä, kun Claude Code, Codex, Gemini tai mikä tahansa lisäämäsi agentti työskentelee.
-59|Automaattiset laukaisimet
-60|Ulkoinen näyttö, virtalähde, Wi-Fi, apit, videopuhelut ja aikataulut.
-61|Prosessit ja apit
-62|Pysyy hereillä, kunnes komento, skripti tai appi on valmis.
-63|Kansi kiinni
-64|Jatka työtä kansi kiinni, kun Mac on liitetty virtalähteeseen.
-65|Historia
-66|Näe, kuinka kauan Mac oli hereillä ja miksi.
-67|Wakeful Pro on avattu
-68|Wakeful Pro
-69|Kiitos, että tuet itsenäistä kehittäjää!
-70|Yksi osto. Ei tilausta. Jaetaan perheen kanssa.
-71|Ostoksesi odottaa hyväksyntää.
-72|Palauta ostot
-73|Avaa Pro
-74|Avaa hintaan %@
-75|Manuaalinen
-76|Ajastin
-77|Automaattinen
-78|Ajastin päättyi. Mac voi taas mennä lepoon.
-79|%@ on valmis. Mac voi taas mennä lepoon.
-80|%@ lopetettiin. Mac voi taas mennä lepoon.
-81|Kaikki tekoälyagentit ovat valmiita. Mac voi taas mennä lepoon.
-82|Pysäytetty, koska Mac käyttää akkuvirtaa.
-83|Pysäytetty, koska akun varaus on %lld %%.
-84|Tekoälyagentti käynnissä (%@)
-85|Pois – Mac menee lepoon normaalisti
-86|Hereillä toistaiseksi
-87|Hereillä vielä %@
-88|Hereillä, kun %@ on käynnissä
-89|Hereillä, kun %@ on auki
-90|Automaattisesti hereillä: %@
-91|Yleiset
-92|Automaatio
-93|Virta
-94|Pro
-95|Avaa sisäänkirjautuessa
-96|Ota käyttöön, kun Wakeful avataan
-97|Vasen klikkaus valikkorivin symbolissa
-98|Oletuskesto
-99|Pikanäppäin päälle/pois
-100|Kytkee hereilläolon
-101|Avaa valikon
-102|Toistaiseksi
-103|Salli näytön lepo (pidä vain järjestelmä hereillä)
-104|Näytä lähtölaskenta valikkorivillä
-105|Ilmoita, kun istunto päättyy
-106|Akku
-107|Pysäytä, kun Mac siirtyy akkuvirtaan
-108|Pysäytä, kun akun varaus laskee tasolle
-109|Ei koskaan
-110|Pidä hereillä kansi kiinni
-111|macOS sallii tämän vain, kun Mac on liitetty virtalähteeseen. Akkuvirralla Mac menee silti lepoon, kun kansi suljetaan.
-112|PRO
-113|Vaatii Wakeful Pron
-114|Laita pois
-115|Pidä hereillä toistaiseksi
-116|Muokattu…
-117|Pidä hereillä ajan
-118|Kun tekoälyagentti työskentelee
-119|Kun appi on auki
-120|Salli näytön lepo
-121|Pidä hereillä kansi kiinni
-122|Ota käyttöön automaattisesti tekoälyagenttien kanssa
-123|Automaattiset laukaisimet…
-124|Avaa Wakeful Pro…
-125|Asetukset…
-126|Lopeta Wakeful
-127|Tekoälyagentteja ei ole käynnissä
-128|Muokkaa agenttiluetteloa…
-129|Kuinka kauan pidetään hereillä?
-130|Syötä kesto minuutteina.
-131|Aloita
-132|Ulkoinen näyttö on liitetty
-133|Virtalähde on liitetty
-134|Yhdistetty Wi-Fi-verkkoon ”%@”
-135|%@ on auki
-136|%@ on edessä
-137|Kamera tai mikrofoni on käytössä
-138|%@, %@–%@
-139|Joka päivä
-140|Arkipäivät
-141|Viikonloput
-142|Wakeful
-143|Näe, pidetäänkö Macia hereillä, ja vaihda yhdellä klikkauksella.
-144|Hereillä
-145|Lepo normaalisti
-146|Kunnes laitat sen pois
-147|Klikkaa pitääksesi hereillä
-148|Estää Macia menemästä lepoon.
-149|Pois
-150|Pidä Mac hereillä. Yhdellä klikkauksella.
-151|Ajastimet, yleinen pikanäppäin ja reaaliaikainen lähtölaskenta suoraan valikkorivillä.
-152|Tekoälyagenttisi jatkavat työtään.
-153|Pysyy hereillä, kun Claude Code, Codex tai Gemini työskentelevät, ja antaa sitten Macin levätä.
-154|Automaattisesti, kun sillä on väliä.
-155|Ulkoinen näyttö, virta, Wi-Fi, apit, videopuhelut ja aikataulut.
-156|Widgetit, Ohjauskeskus ja historia.
-157|Yksityinen alusta asti: kaikki pysyy Macillasi.
-158|Pidä Macini hereillä ${applicationName}-apilla
-159|Käynnistä ${applicationName}
-160|Pysäytä ${applicationName}
-161|Anna Macini levätä ${applicationName}-apilla
-162|Wakeful käyttää sijaintiasi vain, jotta macOS antaa sen lukea Wi-Fi-verkkosi nimen Wi-Fi-laukaisimia varten. Sijaintiasi ei koskaan tallenneta eikä jaeta.
+23|Pidä hereillä Wi-Fi-verkossa
+24|Verkon nimi
+25|macOS vaatii sijainnin käyttöoikeuden Wi-Fi-verkon nimen lukemiseen.
+26|Käytä nykyistä verkkoa
+27|Kumoa
+28|Lisää
+29|Pidä hereillä aikataulun mukaan
+30|Alkaen
+31|Päättyen
+32|Tyhjennetäänkö koko historia?
+33|Viimeaikaiset istunnot
+34|Tunnit
+35|Hereilläoloaika päivittäin viimeisten 7 päivän ajalta
+36|Tänään
+37|Viimeiset 7 päivää
+38|Istunnot
+39|Päivä
+40|Istuntoja ei ole vielä tallennettu.
+41|Tallenna historia tähän Maciin
+42|Tyhjennä historia…
+43|Historia tallennetaan vain tähän Maciin, eikä sitä lähetetä minnekään.
+44|Tyhjennä historia
+45|Pidä Mac hereillä
+46|Estää Macia menemästä lepoon, valinnaisesti tietyksi minuuttimääräksi.
+47|Minuutit
+48|Jätä tyhjäksi, niin Mac pysyy hereillä toistaiseksi.
+49|Anna Macin mennä lepoon
+50|Pidä hereillä päälle/pois
+51|Pidetäänkö Mac hereillä?
+52|Pidä hereillä
+53|Historia
+54|Manuaalinen
+55|Ajastin
+56|Automaattinen
+57|Ajastin päättyi. Mac voi taas mennä lepoon.
+58|%@ on valmis. Mac voi taas mennä lepoon.
+59|%@ lopetettiin. Mac voi taas mennä lepoon.
+60|Kaikki tekoälyagentit ovat valmiita. Mac voi taas mennä lepoon.
+61|Pysäytetty, koska Mac käyttää akkuvirtaa.
+62|Pysäytetty, koska akun varaus on %lld %%.
+63|Tekoälyagentti käynnissä (%@)
+64|Pois – Mac menee lepoon normaalisti
+65|Hereillä toistaiseksi
+66|Hereillä vielä %@
+67|Hereillä, kun %@ on käynnissä
+68|Hereillä, kun %@ on auki
+69|Automaattisesti hereillä: %@
+70|Yleiset
+71|Automaatio
+72|Virta
+73|Avaa sisäänkirjautuessa
+74|Ota käyttöön, kun Wakeful avataan
+75|Vasen klikkaus valikkorivin symbolissa
+76|Oletuskesto
+77|Pikanäppäin päälle/pois
+78|Kytkee hereilläolon
+79|Avaa valikon
+80|Toistaiseksi
+81|Salli näytön lepo (pidä vain järjestelmä hereillä)
+82|Näytä lähtölaskenta valikkorivillä
+83|Ilmoita, kun istunto päättyy
+84|Akku
+85|Pysäytä, kun Mac siirtyy akkuvirtaan
+86|Pysäytä, kun akun varaus laskee tasolle
+87|Ei koskaan
+88|Pidä hereillä kansi kiinni
+89|macOS sallii tämän vain, kun Mac on liitetty virtalähteeseen. Akkuvirralla Mac menee silti lepoon, kun kansi suljetaan.
+90|Laita pois
+91|Pidä hereillä toistaiseksi
+92|Muokattu…
+93|Pidä hereillä ajan
+94|Kun tekoälyagentti työskentelee
+95|Kun appi on auki
+96|Salli näytön lepo
+97|Pidä hereillä kansi kiinni
+98|Ota käyttöön automaattisesti tekoälyagenttien kanssa
+99|Automaattiset laukaisimet…
+100|Asetukset…
+101|Lopeta Wakeful
+102|Tekoälyagentteja ei ole käynnissä
+103|Muokkaa agenttiluetteloa…
+104|Kuinka kauan pidetään hereillä?
+105|Syötä kesto minuutteina.
+106|Aloita
+107|Ulkoinen näyttö on liitetty
+108|Virtalähde on liitetty
+109|Yhdistetty Wi-Fi-verkkoon ”%@”
+110|%@ on auki
+111|%@ on edessä
+112|Kamera tai mikrofoni on käytössä
+113|%@, %@–%@
+114|Joka päivä
+115|Arkipäivät
+116|Viikonloput
+117|Wakeful
+118|Näe, pidetäänkö Macia hereillä, ja vaihda yhdellä klikkauksella.
+119|Hereillä
+120|Lepo normaalisti
+121|Kunnes laitat sen pois
+122|Klikkaa pitääksesi hereillä
+123|Estää Macia menemästä lepoon.
+124|Pois
+125|Pidä Mac hereillä. Yhdellä klikkauksella.
+126|Ajastimet, yleinen pikanäppäin ja reaaliaikainen lähtölaskenta suoraan valikkorivillä.
+127|Tekoälyagenttisi jatkavat työtään.
+128|Pysyy hereillä, kun Claude Code, Codex tai Gemini työskentelevät, ja antaa sitten Macin levätä.
+129|Automaattisesti, kun sillä on väliä.
+130|Ulkoinen näyttö, virta, Wi-Fi, apit, videopuhelut ja aikataulut.
+131|Widgetit, Ohjauskeskus ja historia.
+132|Yksityinen alusta asti: kaikki pysyy Macillasi.
+133|Pidä Macini hereillä ${applicationName}-apilla
+134|Käynnistä ${applicationName}
+135|Pysäytä ${applicationName}
+136|Anna Macini levätä ${applicationName}-apilla
+137|Wakeful käyttää sijaintiasi vain, jotta macOS antaa sen lukea Wi-Fi-verkkosi nimen Wi-Fi-laukaisimia varten. Sijaintiasi ei koskaan tallenneta eikä jaeta.

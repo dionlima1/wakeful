@@ -2,10 +2,10 @@ Wakeful is a menu bar app (no Dock icon). After launch, look for the coffee cup 
 
 How to verify: turn Wakeful on, then run `pmset -g assertions` in Terminal. You will see a "PreventUserIdleDisplaySleep" assertion named "Wakeful keep-awake session".
 
-Wakeful Pro is a non-consumable in-app purchase (com.dionlima.wakeful.pro) that unlocks automation (AI agent detection, triggers, schedules), keeping awake while a process or app runs, the lid-closed option and history. It can be bought from the "Pro" tab in Settings.
+Wakeful is a paid app with no in-app purchases: every feature is available right away. To try automation, open Settings › Automation and add a trigger such as "Power adapter connected".
 
 Permissions:
 - Location: only requested if the user adds a Wi‑Fi trigger. macOS requires Location authorization to read the current Wi‑Fi network name (SSID). The location itself is never used, stored or transmitted.
 - User-selected files (read-only): only used when the user picks an app in "App is open" triggers, to read its bundle identifier.
 
-The app collects no data and makes no network requests besides StoreKit.
+The app collects no data and makes no network requests.

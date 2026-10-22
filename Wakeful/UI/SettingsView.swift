@@ -4,7 +4,7 @@ import SwiftUI
 import UserNotifications
 
 enum SettingsTab: Hashable {
-    case general, automation, power, history, pro
+    case general, automation, power, history
 }
 
 @MainActor
@@ -23,9 +23,8 @@ struct SettingsView: View {
             Tab("Automation", systemImage: "wand.and.stars", value: .automation) { AutomationSettings() }
             Tab("Power", systemImage: "battery.75percent", value: .power) { PowerSettings() }
             Tab("History", systemImage: "chart.bar.xaxis", value: .history) { HistoryView() }
-            Tab("Pro", systemImage: "star.circle", value: .pro) { ProView() }
         }
-        .frame(width: 560, height: 640)
+        .frame(width: 560, height: 600)
     }
 }
 
@@ -83,7 +82,6 @@ private struct PowerSettings: View {
     @AppStorage(PrefKey.stopOnBattery) private var stopOnBattery = false
     @AppStorage(PrefKey.batteryThreshold) private var batteryThreshold = 15
     @AppStorage(PrefKey.keepAwakeLidClosed) private var keepAwakeLidClosed = false
-    @State private var store = ProStore.shared
 
     var body: some View {
         Form {
@@ -98,34 +96,12 @@ private struct PowerSettings: View {
                 .disabled(stopOnBattery)
             }
             Section {
-                Toggle(isOn: $keepAwakeLidClosed) {
-                    HStack {
-                        Text("Keep awake with the lid closed")
-                        ProBadge()
-                    }
-                }
-                .disabled(!store.isPro)
+                Toggle("Keep awake with the lid closed", isOn: $keepAwakeLidClosed)
             } footer: {
                 Text("macOS only allows this while the Mac is connected to power. On battery, closing the lid still puts it to sleep.")
             }
         }
         .formStyle(.grouped)
-    }
-}
-
-struct ProBadge: View {
-    @State private var store = ProStore.shared
-
-    var body: some View {
-        if !store.isPro {
-            Text("PRO")
-                .font(.caption2.weight(.bold))
-                .padding(.horizontal, 5)
-                .padding(.vertical, 1)
-                .background(.tint, in: Capsule())
-                .foregroundStyle(.white)
-                .accessibilityLabel("Requires Wakeful Pro")
-        }
     }
 }
 

@@ -20,143 +20,118 @@
 20|App is op de voorgrond
 21|Kies app…
 22|Voeg trigger toe
-23|Ontgrendel
-24|Dit is een functie van Wakeful Pro
-25|Ontgrendel automatisering, detectie van AI-agents, geschiedenis en meer met één aankoop.
-26|Wakker houden op een wifinetwerk
-27|Netwerknaam
-28|macOS vereist toegang tot locatie om de naam van het wifinetwerk te lezen.
-29|Gebruik huidig netwerk
-30|Annuleer
-31|Voeg toe
-32|Wakker houden volgens een schema
-33|Van
-34|Tot
-35|Hele geschiedenis wissen?
-36|Recente sessies
-37|Uren
-38|Wakkere tijd per dag in de afgelopen 7 dagen
-39|Vandaag
-40|Afgelopen 7 dagen
-41|Sessies
-42|Dag
-43|Nog geen sessies vastgelegd.
-44|Leg geschiedenis vast op deze Mac
-45|Wis geschiedenis…
-46|De geschiedenis blijft alleen op deze Mac en wordt nooit ergens heen gestuurd.
-47|Wis geschiedenis
-48|Houd Mac wakker
-49|Voorkomt dat de Mac gaat sluimeren, eventueel voor een aantal minuten.
-50|Minuten
-51|Laat leeg om voor onbepaalde tijd wakker te houden.
-52|Laat Mac sluimeren
-53|Schakel wakker houden in of uit
-54|Wordt de Mac wakker gehouden?
-55|Houd wakker
-56|De App Store is momenteel niet beschikbaar.
-57|AI-agentmodus
-58|Blijft wakker terwijl Claude Code, Codex, Gemini of een andere toegevoegde agent bezig is.
-59|Automatische triggers
-60|Extern beeldscherm, lichtnetadapter, wifi, apps, videogesprekken en schema's.
-61|Processen en apps
-62|Blijft wakker tot een opdracht, script of app klaar is.
-63|Klep dicht
-64|Blijf werken met de klep dicht zolang de Mac op netstroom werkt.
-65|Geschiedenis
-66|Zie hoelang je Mac wakker bleef, en waarom.
-67|Wakeful Pro is ontgrendeld
-68|Wakeful Pro
-69|Bedankt voor het steunen van een onafhankelijke ontwikkelaar!
-70|Eén aankoop. Geen abonnement. Gedeeld met je gezin.
-71|Je aankoop wacht op goedkeuring.
-72|Herstel aankopen
-73|Ontgrendel Pro
-74|Ontgrendel voor %@
-75|Handmatig
-76|Timer
-77|Automatisch
-78|Timer afgelopen. Je Mac mag weer sluimeren.
-79|%@ is klaar. Je Mac mag weer sluimeren.
-80|%@ is gestopt. Je Mac mag weer sluimeren.
-81|Alle AI-agents zijn klaar. Je Mac mag weer sluimeren.
-82|Gestopt omdat de Mac op de batterij werkt.
-83|Gestopt omdat de batterij op %lld%% staat.
-84|AI-agent actief (%@)
-85|Uit – je Mac sluimert zoals gewoonlijk
-86|Voor onbepaalde tijd wakker
-87|Nog %@ wakker
-88|Wakker zolang %@ actief is
-89|Wakker zolang %@ geopend is
-90|Automatisch wakker: %@
-91|Algemeen
-92|Automatisering
-93|Energie
-94|Pro
-95|Open bij inloggen
-96|Activeer bij het openen van Wakeful
-97|Linkerklik op het menubalksymbool
-98|Standaardduur
-99|Toetscombinatie om te schakelen
-100|Schakelt wakker houden
-101|Opent het menu
-102|Voor onbepaalde tijd
-103|Sta sluimerstand van het beeldscherm toe (houd alleen het systeem wakker)
-104|Toon aftelling in de menubalk
-105|Meld wanneer een sessie eindigt
-106|Batterij
-107|Stop wanneer de Mac overschakelt op de batterij
-108|Stop wanneer de batterij zakt tot
-109|Nooit
-110|Wakker houden met de klep dicht
-111|macOS staat dit alleen toe als de Mac op netstroom is aangesloten. Op de batterij gaat de Mac bij het sluiten van de klep toch sluimeren.
-112|PRO
-113|Vereist Wakeful Pro
-114|Zet uit
-115|Houd voor onbepaalde tijd wakker
-116|Aangepast…
-117|Houd wakker gedurende
-118|Terwijl een AI-agent werkt
-119|Zolang een app geopend is
-120|Sta sluimerstand van beeldscherm toe
-121|Houd wakker met de klep dicht
-122|Activeer automatisch bij AI-agents
-123|Automatische triggers…
-124|Ontgrendel Wakeful Pro…
-125|Instellingen…
-126|Stop Wakeful
-127|Geen actieve AI-agents
-128|Wijzig agentlijst…
-129|Hoelang wakker houden?
-130|Voer een duur in minuten in.
-131|Start
-132|Er is een extern beeldscherm aangesloten
-133|De lichtnetadapter is aangesloten
-134|Verbonden met wifi ‘%@’
-135|%@ is geopend
-136|%@ is op de voorgrond
-137|De camera of microfoon is in gebruik
-138|%@, %@–%@
-139|Elke dag
-140|Werkdagen
-141|Weekends
-142|Wakeful
-143|Zie of je Mac wakker wordt gehouden en schakel met één klik.
-144|Wakker
-145|Sluimert normaal
-146|Tot je het uitzet
-147|Klik om wakker te houden
-148|Voorkomt dat de Mac gaat sluimeren.
-149|Uit
-150|Houd je Mac wakker. Met één klik.
-151|Timers, een algemene toetscombinatie en live aftelling, gewoon in de menubalk.
-152|Je AI-agents blijven doorwerken.
-153|Blijft wakker terwijl Claude Code, Codex of Gemini werken en laat je Mac daarna sluimeren.
-154|Automatisch, wanneer het telt.
-155|Extern beeldscherm, stroom, wifi, apps, videogesprekken en schema's.
-156|Widgets, bedieningspaneel en geschiedenis.
-157|Privé vanaf de basis: alles blijft op je Mac.
-158|Houd mijn Mac wakker met ${applicationName}
-159|Start ${applicationName}
-160|Stop ${applicationName}
-161|Laat mijn Mac sluimeren met ${applicationName}
-162|Wakeful gebruikt je locatie alleen zodat macOS de naam van je wifinetwerk laat lezen voor wifitriggers. Je locatie wordt nooit bewaard of gedeeld.
+23|Wakker houden op een wifinetwerk
+24|Netwerknaam
+25|macOS vereist toegang tot locatie om de naam van het wifinetwerk te lezen.
+26|Gebruik huidig netwerk
+27|Annuleer
+28|Voeg toe
+29|Wakker houden volgens een schema
+30|Van
+31|Tot
+32|Hele geschiedenis wissen?
+33|Recente sessies
+34|Uren
+35|Wakkere tijd per dag in de afgelopen 7 dagen
+36|Vandaag
+37|Afgelopen 7 dagen
+38|Sessies
+39|Dag
+40|Nog geen sessies vastgelegd.
+41|Leg geschiedenis vast op deze Mac
+42|Wis geschiedenis…
+43|De geschiedenis blijft alleen op deze Mac en wordt nooit ergens heen gestuurd.
+44|Wis geschiedenis
+45|Houd Mac wakker
+46|Voorkomt dat de Mac gaat sluimeren, eventueel voor een aantal minuten.
+47|Minuten
+48|Laat leeg om voor onbepaalde tijd wakker te houden.
+49|Laat Mac sluimeren
+50|Schakel wakker houden in of uit
+51|Wordt de Mac wakker gehouden?
+52|Houd wakker
+53|Geschiedenis
+54|Handmatig
+55|Timer
+56|Automatisch
+57|Timer afgelopen. Je Mac mag weer sluimeren.
+58|%@ is klaar. Je Mac mag weer sluimeren.
+59|%@ is gestopt. Je Mac mag weer sluimeren.
+60|Alle AI-agents zijn klaar. Je Mac mag weer sluimeren.
+61|Gestopt omdat de Mac op de batterij werkt.
+62|Gestopt omdat de batterij op %lld%% staat.
+63|AI-agent actief (%@)
+64|Uit – je Mac sluimert zoals gewoonlijk
+65|Voor onbepaalde tijd wakker
+66|Nog %@ wakker
+67|Wakker zolang %@ actief is
+68|Wakker zolang %@ geopend is
+69|Automatisch wakker: %@
+70|Algemeen
+71|Automatisering
+72|Energie
+73|Open bij inloggen
+74|Activeer bij het openen van Wakeful
+75|Linkerklik op het menubalksymbool
+76|Standaardduur
+77|Toetscombinatie om te schakelen
+78|Schakelt wakker houden
+79|Opent het menu
+80|Voor onbepaalde tijd
+81|Sta sluimerstand van het beeldscherm toe (houd alleen het systeem wakker)
+82|Toon aftelling in de menubalk
+83|Meld wanneer een sessie eindigt
+84|Batterij
+85|Stop wanneer de Mac overschakelt op de batterij
+86|Stop wanneer de batterij zakt tot
+87|Nooit
+88|Wakker houden met de klep dicht
+89|macOS staat dit alleen toe als de Mac op netstroom is aangesloten. Op de batterij gaat de Mac bij het sluiten van de klep toch sluimeren.
+90|Zet uit
+91|Houd voor onbepaalde tijd wakker
+92|Aangepast…
+93|Houd wakker gedurende
+94|Terwijl een AI-agent werkt
+95|Zolang een app geopend is
+96|Sta sluimerstand van beeldscherm toe
+97|Houd wakker met de klep dicht
+98|Activeer automatisch bij AI-agents
+99|Automatische triggers…
+100|Instellingen…
+101|Stop Wakeful
+102|Geen actieve AI-agents
+103|Wijzig agentlijst…
+104|Hoelang wakker houden?
+105|Voer een duur in minuten in.
+106|Start
+107|Er is een extern beeldscherm aangesloten
+108|De lichtnetadapter is aangesloten
+109|Verbonden met wifi ‘%@’
+110|%@ is geopend
+111|%@ is op de voorgrond
+112|De camera of microfoon is in gebruik
+113|%@, %@–%@
+114|Elke dag
+115|Werkdagen
+116|Weekends
+117|Wakeful
+118|Zie of je Mac wakker wordt gehouden en schakel met één klik.
+119|Wakker
+120|Sluimert normaal
+121|Tot je het uitzet
+122|Klik om wakker te houden
+123|Voorkomt dat de Mac gaat sluimeren.
+124|Uit
+125|Houd je Mac wakker. Met één klik.
+126|Timers, een algemene toetscombinatie en live aftelling, gewoon in de menubalk.
+127|Je AI-agents blijven doorwerken.
+128|Blijft wakker terwijl Claude Code, Codex of Gemini werken en laat je Mac daarna sluimeren.
+129|Automatisch, wanneer het telt.
+130|Extern beeldscherm, stroom, wifi, apps, videogesprekken en schema's.
+131|Widgets, bedieningspaneel en geschiedenis.
+132|Privé vanaf de basis: alles blijft op je Mac.
+133|Houd mijn Mac wakker met ${applicationName}
+134|Start ${applicationName}
+135|Stop ${applicationName}
+136|Laat mijn Mac sluimeren met ${applicationName}
+137|Wakeful gebruikt je locatie alleen zodat macOS de naam van je wifinetwerk laat lezen voor wifitriggers. Je locatie wordt nooit bewaard of gedeeld.

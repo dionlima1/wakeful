@@ -7,7 +7,7 @@ IZRAĐENO ZA AI AGENTE I DUGE ZADATKE
 • Drži Mac budnim dok se naredba, skripta ili aplikacija ne završi
 • Alat naredbenog retka i URL shema za skripte, Raycast i Alfred
 
-BESPLATNO
+SVE UKLJUČENO
 • Uključivanje jednim klikom iz trake izbornika
 • Mjerači vremena od 15 minuta do 8 sati ili bilo koje trajanje
 • Odbrojavanje uživo u traci izbornika
@@ -16,13 +16,12 @@ BESPLATNO
 • Zaštita baterije: zaustavlja se na bateriji ili ispod određene razine napunjenosti
 • Radnje Prečaca, widget radne površine i kontrola u Kontrolnom centru (macOS 26)
 • Otvara se pri prijavi i obavještava kad sesija završi
-
-WAKEFUL PRO (JEDNOKRATNA KUPNJA)
-• Način AI agenta
 • Automatski okidači: vanjski zaslon, strujni adapter, Wi‑Fi mreža, aplikacije, videopozivi i rasporedi
 • Drži budnim dok radi proces ili aplikacija
 • Nastavite raditi sa zatvorenim poklopcem dok je Mac spojen na napajanje
 • Povijest koliko je dugo i zašto Mac bio budan
+
+Jedna kupnja. Bez pretplate. Dijeli se s obitelji.
 
 PRIVATNOST OD TEMELJA
 Bez računa, bez oglasa, bez praćenja. Sve ostaje na vašem Macu.

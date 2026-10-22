@@ -63,9 +63,6 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
       </CommandLineArguments>
-      <StoreKitConfigurationFileReference
-         identifier = "../../StoreKit/Wakeful.storekit">
-      </StoreKitConfigurationFileReference>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"

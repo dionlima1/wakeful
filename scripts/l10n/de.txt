@@ -20,143 +20,118 @@
 20|App ist im Vordergrund
 21|App auswählen …
 22|Auslöser hinzufügen
-23|Freischalten
-24|Das ist eine Funktion von Wakeful Pro
-25|Schalte Automatisierung, KI-Agenten-Erkennung, Verlauf und mehr mit einem einmaligen Kauf frei.
-26|In einem WLAN wach halten
-27|Netzwerkname
-28|macOS benötigt Zugriff auf Ortungsdienste, um den WLAN-Namen zu lesen.
-29|Aktuelles Netzwerk verwenden
-30|Abbrechen
-31|Hinzufügen
-32|Nach Zeitplan wach halten
-33|Von
-34|Bis
-35|Gesamten Verlauf löschen?
-36|Letzte Sitzungen
-37|Stunden
-38|Wachzeit pro Tag in den letzten 7 Tagen
-39|Heute
-40|Letzte 7 Tage
-41|Sitzungen
-42|Tag
-43|Noch keine Sitzungen aufgezeichnet.
-44|Verlauf auf diesem Mac aufzeichnen
-45|Verlauf löschen …
-46|Der Verlauf bleibt nur auf diesem Mac und wird nie irgendwohin gesendet.
-47|Verlauf löschen
-48|Mac wach halten
-49|Verhindert, dass der Mac in den Ruhezustand wechselt – optional für eine bestimmte Anzahl Minuten.
-50|Minuten
-51|Leer lassen, um unbegrenzt wach zu halten.
-52|Mac ruhen lassen
-53|Wachhalten ein-/ausschalten
-54|Wird der Mac wach gehalten?
-55|Wach halten
-56|Der App Store ist gerade nicht verfügbar.
-57|KI-Agenten-Modus
-58|Bleibt wach, während Claude Code, Codex, Gemini oder ein anderer von dir hinzugefügter Agent arbeitet.
-59|Automatische Auslöser
-60|Externer Bildschirm, Netzteil, WLAN, Apps, Videoanrufe und Zeitpläne.
-61|Prozesse und Apps
-62|Bleibt wach, bis ein Befehl, Skript oder eine App fertig ist.
-63|Zugeklappt
-64|Arbeite mit zugeklapptem Mac weiter, solange er am Strom hängt.
-65|Verlauf
-66|Sieh dir an, wie lange dein Mac wach war und warum.
-67|Wakeful Pro ist freigeschaltet
-68|Wakeful Pro
-69|Danke, dass du einen unabhängigen Entwickler unterstützt!
-70|Ein Kauf. Kein Abo. Mit deiner Familie geteilt.
-71|Dein Kauf wartet auf Genehmigung.
-72|Käufe wiederherstellen
-73|Pro freischalten
-74|Für %@ freischalten
-75|Manuell
-76|Timer
-77|Automatisch
-78|Timer abgelaufen. Dein Mac darf wieder ruhen.
-79|%@ ist fertig. Dein Mac darf wieder ruhen.
-80|%@ wurde beendet. Dein Mac darf wieder ruhen.
-81|Alle KI-Agenten sind fertig. Dein Mac darf wieder ruhen.
-82|Gestoppt, weil der Mac im Batteriebetrieb läuft.
-83|Gestoppt, weil die Batterie bei %lld %% ist.
-84|KI-Agent läuft (%@)
-85|Aus – dein Mac ruht wie gewohnt
-86|Unbegrenzt wach
-87|Noch %@ wach
-88|Wach, solange %@ läuft
-89|Wach, solange %@ geöffnet ist
-90|Automatisch wach: %@
-91|Allgemein
-92|Automatisierung
-93|Energie
-94|Pro
-95|Bei der Anmeldung öffnen
-96|Beim Start von Wakeful aktivieren
-97|Linksklick auf das Menüleistensymbol
-98|Standarddauer
-99|Tastenkurzbefehl zum Umschalten
-100|Schaltet Wachhalten um
-101|Öffnet das Menü
-102|Unbegrenzt
-103|Bildschirm-Ruhezustand erlauben (nur das System wach halten)
-104|Countdown in der Menüleiste anzeigen
-105|Benachrichtigen, wenn eine Sitzung endet
-106|Batterie
-107|Stoppen, wenn der Mac auf Batterie wechselt
-108|Stoppen, wenn die Batterie fällt auf
-109|Nie
-110|Bei zugeklapptem Mac wach halten
-111|macOS erlaubt das nur, solange der Mac am Strom hängt. Im Batteriebetrieb geht er beim Zuklappen weiterhin in den Ruhezustand.
-112|PRO
-113|Erfordert Wakeful Pro
-114|Ausschalten
-115|Unbegrenzt wach halten
-116|Eigene Dauer …
-117|Wach halten für
-118|Während ein KI-Agent arbeitet
-119|Solange eine App geöffnet ist
-120|Bildschirm-Ruhezustand erlauben
-121|Bei zugeklapptem Mac wach halten
-122|Bei KI-Agenten automatisch aktivieren
-123|Automatische Auslöser …
-124|Wakeful Pro freischalten …
-125|Einstellungen …
-126|Wakeful beenden
-127|Keine KI-Agenten aktiv
-128|Agentenliste bearbeiten …
-129|Wie lange wach halten?
-130|Gib eine Dauer in Minuten ein.
-131|Starten
-132|Ein externer Bildschirm ist angeschlossen
-133|Das Netzteil ist angeschlossen
-134|Mit WLAN „%@“ verbunden
-135|%@ ist geöffnet
-136|%@ ist im Vordergrund
-137|Kamera oder Mikrofon wird verwendet
-138|%@, %@–%@
-139|Täglich
-140|Werktags
-141|Am Wochenende
-142|Wakeful
-143|Sieh, ob dein Mac wach gehalten wird, und schalte mit einem Klick um.
-144|Wach
-145|Ruht normal
-146|Bis du es ausschaltest
-147|Klicken, um wach zu halten
-148|Verhindert, dass der Mac in den Ruhezustand wechselt.
-149|Aus
-150|Halte deinen Mac wach. Mit einem Klick.
-151|Timer, globaler Kurzbefehl und Live-Countdown direkt in der Menüleiste.
-152|Deine KI-Agenten arbeiten weiter.
-153|Bleibt wach, während Claude Code, Codex oder Gemini arbeiten – danach darf der Mac ruhen.
-154|Automatisch, wenn es darauf ankommt.
-155|Externer Bildschirm, Strom, WLAN, Apps, Videoanrufe und Zeitpläne.
-156|Widgets, Kontrollzentrum und Verlauf.
-157|Privat von Grund auf: Alles bleibt auf deinem Mac.
-158|Halte meinen Mac mit ${applicationName} wach
-159|${applicationName} starten
-160|${applicationName} stoppen
-161|Lass meinen Mac mit ${applicationName} ruhen
-162|Wakeful verwendet deinen Standort nur, damit macOS den Namen deines WLANs für WLAN-Auslöser lesen lässt. Dein Standort wird nie gespeichert oder geteilt.
+23|In einem WLAN wach halten
+24|Netzwerkname
+25|macOS benötigt Zugriff auf Ortungsdienste, um den WLAN-Namen zu lesen.
+26|Aktuelles Netzwerk verwenden
+27|Abbrechen
+28|Hinzufügen
+29|Nach Zeitplan wach halten
+30|Von
+31|Bis
+32|Gesamten Verlauf löschen?
+33|Letzte Sitzungen
+34|Stunden
+35|Wachzeit pro Tag in den letzten 7 Tagen
+36|Heute
+37|Letzte 7 Tage
+38|Sitzungen
+39|Tag
+40|Noch keine Sitzungen aufgezeichnet.
+41|Verlauf auf diesem Mac aufzeichnen
+42|Verlauf löschen …
+43|Der Verlauf bleibt nur auf diesem Mac und wird nie irgendwohin gesendet.
+44|Verlauf löschen
+45|Mac wach halten
+46|Verhindert, dass der Mac in den Ruhezustand wechselt – optional für eine bestimmte Anzahl Minuten.
+47|Minuten
+48|Leer lassen, um unbegrenzt wach zu halten.
+49|Mac ruhen lassen
+50|Wachhalten ein-/ausschalten
+51|Wird der Mac wach gehalten?
+52|Wach halten
+53|Verlauf
+54|Manuell
+55|Timer
+56|Automatisch
+57|Timer abgelaufen. Dein Mac darf wieder ruhen.
+58|%@ ist fertig. Dein Mac darf wieder ruhen.
+59|%@ wurde beendet. Dein Mac darf wieder ruhen.
+60|Alle KI-Agenten sind fertig. Dein Mac darf wieder ruhen.
+61|Gestoppt, weil der Mac im Batteriebetrieb läuft.
+62|Gestoppt, weil die Batterie bei %lld %% ist.
+63|KI-Agent läuft (%@)
+64|Aus – dein Mac ruht wie gewohnt
+65|Unbegrenzt wach
+66|Noch %@ wach
+67|Wach, solange %@ läuft
+68|Wach, solange %@ geöffnet ist
+69|Automatisch wach: %@
+70|Allgemein
+71|Automatisierung
+72|Energie
+73|Bei der Anmeldung öffnen
+74|Beim Start von Wakeful aktivieren
+75|Linksklick auf das Menüleistensymbol
+76|Standarddauer
+77|Tastenkurzbefehl zum Umschalten
+78|Schaltet Wachhalten um
+79|Öffnet das Menü
+80|Unbegrenzt
+81|Bildschirm-Ruhezustand erlauben (nur das System wach halten)
+82|Countdown in der Menüleiste anzeigen
+83|Benachrichtigen, wenn eine Sitzung endet
+84|Batterie
+85|Stoppen, wenn der Mac auf Batterie wechselt
+86|Stoppen, wenn die Batterie fällt auf
+87|Nie
+88|Bei zugeklapptem Mac wach halten
+89|macOS erlaubt das nur, solange der Mac am Strom hängt. Im Batteriebetrieb geht er beim Zuklappen weiterhin in den Ruhezustand.
+90|Ausschalten
+91|Unbegrenzt wach halten
+92|Eigene Dauer …
+93|Wach halten für
+94|Während ein KI-Agent arbeitet
+95|Solange eine App geöffnet ist
+96|Bildschirm-Ruhezustand erlauben
+97|Bei zugeklapptem Mac wach halten
+98|Bei KI-Agenten automatisch aktivieren
+99|Automatische Auslöser …
+100|Einstellungen …
+101|Wakeful beenden
+102|Keine KI-Agenten aktiv
+103|Agentenliste bearbeiten …
+104|Wie lange wach halten?
+105|Gib eine Dauer in Minuten ein.
+106|Starten
+107|Ein externer Bildschirm ist angeschlossen
+108|Das Netzteil ist angeschlossen
+109|Mit WLAN „%@“ verbunden
+110|%@ ist geöffnet
+111|%@ ist im Vordergrund
+112|Kamera oder Mikrofon wird verwendet
+113|%@, %@–%@
+114|Täglich
+115|Werktags
+116|Am Wochenende
+117|Wakeful
+118|Sieh, ob dein Mac wach gehalten wird, und schalte mit einem Klick um.
+119|Wach
+120|Ruht normal
+121|Bis du es ausschaltest
+122|Klicken, um wach zu halten
+123|Verhindert, dass der Mac in den Ruhezustand wechselt.
+124|Aus
+125|Halte deinen Mac wach. Mit einem Klick.
+126|Timer, globaler Kurzbefehl und Live-Countdown direkt in der Menüleiste.
+127|Deine KI-Agenten arbeiten weiter.
+128|Bleibt wach, während Claude Code, Codex oder Gemini arbeiten – danach darf der Mac ruhen.
+129|Automatisch, wenn es darauf ankommt.
+130|Externer Bildschirm, Strom, WLAN, Apps, Videoanrufe und Zeitpläne.
+131|Widgets, Kontrollzentrum und Verlauf.
+132|Privat von Grund auf: Alles bleibt auf deinem Mac.
+133|Halte meinen Mac mit ${applicationName} wach
+134|${applicationName} starten
+135|${applicationName} stoppen
+136|Lass meinen Mac mit ${applicationName} ruhen
+137|Wakeful verwendet deinen Standort nur, damit macOS den Namen deines WLANs für WLAN-Auslöser lesen lässt. Dein Standort wird nie gespeichert oder geteilt.

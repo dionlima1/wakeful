@@ -20,143 +20,118 @@
 20|App er forrest
 21|Vælg app …
 22|Tilføj udløser
-23|Lås op
-24|Dette er en Wakeful Pro-funktion
-25|Lås op for automatisering, registrering af AI-agenter, historik og mere med et engangskøb.
-26|Hold vågen på et Wi-Fi-netværk
-27|Netværksnavn
-28|macOS kræver adgang til lokalitet for at læse navnet på Wi-Fi-netværket.
-29|Brug nuværende netværk
-30|Annuller
-31|Tilføj
-32|Hold vågen efter en tidsplan
-33|Fra
-34|Til
-35|Slet al historik?
-36|Seneste sessioner
-37|Timer
-38|Vågen tid pr. dag de seneste 7 dage
-39|I dag
-40|Seneste 7 dage
-41|Sessioner
-42|Dag
-43|Ingen sessioner registreret endnu.
-44|Gem historik på denne Mac
-45|Slet historik …
-46|Historikken gemmes kun på denne Mac og sendes aldrig nogen steder hen.
-47|Slet historik
-48|Hold Mac vågen
-49|Forhindrer, at Mac'en går i dvale, eventuelt i et antal minutter.
-50|Minutter
-51|Lad være tomt for at holde vågen på ubestemt tid.
-52|Lad Mac gå i dvale
-53|Slå hold vågen til/fra
-54|Holdes Mac'en vågen?
-55|Hold vågen
-56|App Store er ikke tilgængelig lige nu.
-57|AI-agenttilstand
-58|Forbliver vågen, mens Claude Code, Codex, Gemini eller en anden agent, du tilføjer, arbejder.
-59|Automatiske udløsere
-60|Ekstern skærm, strømforsyning, Wi-Fi, apps, videoopkald og tidsplaner.
-61|Processer og apps
-62|Forbliver vågen, indtil en kommando, et script eller en app er færdig.
-63|Lukket låg
-64|Bliv ved med at arbejde med lukket låg, mens Mac'en er tilsluttet strøm.
-65|Historik
-66|Se, hvor længe Mac'en var vågen, og hvorfor.
-67|Wakeful Pro er låst op
-68|Wakeful Pro
-69|Tak, fordi du støtter en uafhængig udvikler!
-70|Ét køb. Intet abonnement. Deles med familien.
-71|Dit køb venter på godkendelse.
-72|Gendan køb
-73|Lås Pro op
-74|Lås op for %@
-75|Manuel
-76|Timer
-77|Automatisk
-78|Timeren er udløbet. Mac'en må gå i dvale igen.
-79|%@ er færdig. Mac'en må gå i dvale igen.
-80|%@ blev afsluttet. Mac'en må gå i dvale igen.
-81|Alle AI-agenter er færdige. Mac'en må gå i dvale igen.
-82|Stoppet, fordi Mac'en kører på batteri.
-83|Stoppet, fordi batteriet er på %lld %%.
-84|AI-agent kører (%@)
-85|Fra – Mac'en går i dvale som normalt
-86|Vågen på ubestemt tid
-87|Vågen i %@ mere
-88|Vågen, mens %@ kører
-89|Vågen, mens %@ er åben
-90|Automatisk vågen: %@
-91|Generelt
-92|Automatisering
-93|Strøm
-94|Pro
-95|Åbn ved log ind
-96|Aktivér, når Wakeful åbnes
-97|Venstreklik på symbolet på menulinjen
-98|Standardvarighed
-99|Tastaturgenvej til at slå til/fra
-100|Slår hold vågen til/fra
-101|Åbner menuen
-102|På ubestemt tid
-103|Tillad skærmen at gå i dvale (hold kun systemet vågent)
-104|Vis nedtælling på menulinjen
-105|Giv besked, når en session slutter
-106|Batteri
-107|Stop, når Mac'en skifter til batteri
-108|Stop, når batteriet falder til
-109|Aldrig
-110|Hold vågen med lukket låg
-111|macOS tillader det kun, mens Mac'en er tilsluttet strøm. På batteri går Mac'en stadig i dvale, når låget lukkes.
-112|PRO
-113|Kræver Wakeful Pro
-114|Slå fra
-115|Hold vågen på ubestemt tid
-116|Tilpasset …
-117|Hold vågen i
-118|Mens en AI-agent arbejder
-119|Mens en app er åben
-120|Tillad skærmen at gå i dvale
-121|Hold vågen med lukket låg
-122|Aktivér automatisk ved AI-agenter
-123|Automatiske udløsere …
-124|Lås Wakeful Pro op …
-125|Indstillinger …
-126|Slut Wakeful
-127|Ingen AI-agenter kører
-128|Rediger agentlisten …
-129|Hvor længe skal Mac'en holdes vågen?
-130|Angiv en varighed i minutter.
-131|Start
-132|En ekstern skærm er tilsluttet
-133|Strømforsyningen er tilsluttet
-134|Forbundet til Wi-Fi “%@”
-135|%@ er åben
-136|%@ er forrest
-137|Kameraet eller mikrofonen er i brug
-138|%@, %@–%@
-139|Hver dag
-140|Hverdage
-141|Weekender
-142|Wakeful
-143|Se, om din Mac holdes vågen, og skift med ét klik.
-144|Vågen
-145|Går i dvale normalt
-146|Indtil du slår det fra
-147|Klik for at holde vågen
-148|Forhindrer, at Mac'en går i dvale.
-149|Fra
-150|Hold din Mac vågen. Med ét klik.
-151|Timere, global tastaturgenvej og live nedtælling direkte på menulinjen.
-152|Dine AI-agenter bliver ved med at arbejde.
-153|Forbliver vågen, mens Claude Code, Codex eller Gemini arbejder, og lader derefter Mac'en hvile.
-154|Automatisk, når det gælder.
-155|Ekstern skærm, strøm, Wi-Fi, apps, videoopkald og tidsplaner.
-156|Widgets, Kontrolcenter og historik.
-157|Privat fra bunden: Alt bliver på din Mac.
-158|Hold min Mac vågen med ${applicationName}
-159|Start ${applicationName}
-160|Stop ${applicationName}
-161|Lad min Mac gå i dvale med ${applicationName}
-162|Wakeful bruger kun din lokalitet, så macOS tillader appen at læse navnet på dit Wi-Fi-netværk til Wi-Fi-udløsere. Din lokalitet gemmes eller deles aldrig.
+23|Hold vågen på et Wi-Fi-netværk
+24|Netværksnavn
+25|macOS kræver adgang til lokalitet for at læse navnet på Wi-Fi-netværket.
+26|Brug nuværende netværk
+27|Annuller
+28|Tilføj
+29|Hold vågen efter en tidsplan
+30|Fra
+31|Til
+32|Slet al historik?
+33|Seneste sessioner
+34|Timer
+35|Vågen tid pr. dag de seneste 7 dage
+36|I dag
+37|Seneste 7 dage
+38|Sessioner
+39|Dag
+40|Ingen sessioner registreret endnu.
+41|Gem historik på denne Mac
+42|Slet historik …
+43|Historikken gemmes kun på denne Mac og sendes aldrig nogen steder hen.
+44|Slet historik
+45|Hold Mac vågen
+46|Forhindrer, at Mac'en går i dvale, eventuelt i et antal minutter.
+47|Minutter
+48|Lad være tomt for at holde vågen på ubestemt tid.
+49|Lad Mac gå i dvale
+50|Slå hold vågen til/fra
+51|Holdes Mac'en vågen?
+52|Hold vågen
+53|Historik
+54|Manuel
+55|Timer
+56|Automatisk
+57|Timeren er udløbet. Mac'en må gå i dvale igen.
+58|%@ er færdig. Mac'en må gå i dvale igen.
+59|%@ blev afsluttet. Mac'en må gå i dvale igen.
+60|Alle AI-agenter er færdige. Mac'en må gå i dvale igen.
+61|Stoppet, fordi Mac'en kører på batteri.
+62|Stoppet, fordi batteriet er på %lld %%.
+63|AI-agent kører (%@)
+64|Fra – Mac'en går i dvale som normalt
+65|Vågen på ubestemt tid
+66|Vågen i %@ mere
+67|Vågen, mens %@ kører
+68|Vågen, mens %@ er åben
+69|Automatisk vågen: %@
+70|Generelt
+71|Automatisering
+72|Strøm
+73|Åbn ved log ind
+74|Aktivér, når Wakeful åbnes
+75|Venstreklik på symbolet på menulinjen
+76|Standardvarighed
+77|Tastaturgenvej til at slå til/fra
+78|Slår hold vågen til/fra
+79|Åbner menuen
+80|På ubestemt tid
+81|Tillad skærmen at gå i dvale (hold kun systemet vågent)
+82|Vis nedtælling på menulinjen
+83|Giv besked, når en session slutter
+84|Batteri
+85|Stop, når Mac'en skifter til batteri
+86|Stop, når batteriet falder til
+87|Aldrig
+88|Hold vågen med lukket låg
+89|macOS tillader det kun, mens Mac'en er tilsluttet strøm. På batteri går Mac'en stadig i dvale, når låget lukkes.
+90|Slå fra
+91|Hold vågen på ubestemt tid
+92|Tilpasset …
+93|Hold vågen i
+94|Mens en AI-agent arbejder
+95|Mens en app er åben
+96|Tillad skærmen at gå i dvale
+97|Hold vågen med lukket låg
+98|Aktivér automatisk ved AI-agenter
+99|Automatiske udløsere …
+100|Indstillinger …
+101|Slut Wakeful
+102|Ingen AI-agenter kører
+103|Rediger agentlisten …
+104|Hvor længe skal Mac'en holdes vågen?
+105|Angiv en varighed i minutter.
+106|Start
+107|En ekstern skærm er tilsluttet
+108|Strømforsyningen er tilsluttet
+109|Forbundet til Wi-Fi “%@”
+110|%@ er åben
+111|%@ er forrest
+112|Kameraet eller mikrofonen er i brug
+113|%@, %@–%@
+114|Hver dag
+115|Hverdage
+116|Weekender
+117|Wakeful
+118|Se, om din Mac holdes vågen, og skift med ét klik.
+119|Vågen
+120|Går i dvale normalt
+121|Indtil du slår det fra
+122|Klik for at holde vågen
+123|Forhindrer, at Mac'en går i dvale.
+124|Fra
+125|Hold din Mac vågen. Med ét klik.
+126|Timere, global tastaturgenvej og live nedtælling direkte på menulinjen.
+127|Dine AI-agenter bliver ved med at arbejde.
+128|Forbliver vågen, mens Claude Code, Codex eller Gemini arbejder, og lader derefter Mac'en hvile.
+129|Automatisk, når det gælder.
+130|Ekstern skærm, strøm, Wi-Fi, apps, videoopkald og tidsplaner.
+131|Widgets, Kontrolcenter og historik.
+132|Privat fra bunden: Alt bliver på din Mac.
+133|Hold min Mac vågen med ${applicationName}
+134|Start ${applicationName}
+135|Stop ${applicationName}
+136|Lad min Mac gå i dvale med ${applicationName}
+137|Wakeful bruger kun din lokalitet, så macOS tillader appen at læse navnet på dit Wi-Fi-netværk til Wi-Fi-udløsere. Din lokalitet gemmes eller deles aldrig.

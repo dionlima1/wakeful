@@ -64,7 +64,6 @@ final class StatusItemController: NSObject, NSMenuDelegate {
 
     func menuNeedsUpdate(_ menu: NSMenu) {
         menu.removeAllItems()
-        let isPro = ProStore.shared.isPro
 
         let header = NSMenuItem(title: session.statusDescription, action: nil, keyEquivalent: "")
         header.isEnabled = false
@@ -92,28 +91,25 @@ final class StatusItemController: NSObject, NSMenuDelegate {
         durations.addItem(item(String(localized: "Custom…"), #selector(startCustom)))
         menu.addItem(submenu(String(localized: "Keep Awake For"), durations))
 
-        menu.addItem(submenu(String(localized: "While AI Agent Runs"), agentsMenu(), pro: !isPro))
-        menu.addItem(submenu(String(localized: "While App Is Open"), appsMenu(), pro: !isPro))
+        menu.addItem(submenu(String(localized: "While AI Agent Runs"), agentsMenu()))
+        menu.addItem(submenu(String(localized: "While App Is Open"), appsMenu()))
 
         menu.addItem(.separator())
         let displayItem = item(String(localized: "Allow Display to Sleep"), #selector(toggleDisplaySleep))
         displayItem.state = Preferences.allowDisplaySleep ? .on : .off
         menu.addItem(displayItem)
 
-        let lidItem = item(String(localized: "Keep Awake with Lid Closed"), #selector(toggleLidClosed), pro: !isPro)
-        lidItem.state = isPro && Preferences.keepAwakeLidClosed ? .on : .off
+        let lidItem = item(String(localized: "Keep Awake with Lid Closed"), #selector(toggleLidClosed))
+        lidItem.state = Preferences.keepAwakeLidClosed ? .on : .off
         menu.addItem(lidItem)
 
-        let autoItem = item(String(localized: "Auto-Activate When AI Agents Run"), #selector(toggleAutoAgents), pro: !isPro)
-        autoItem.state = isPro && Preferences.autoAgentMode ? .on : .off
+        let autoItem = item(String(localized: "Auto-Activate When AI Agents Run"), #selector(toggleAutoAgents))
+        autoItem.state = Preferences.autoAgentMode ? .on : .off
         menu.addItem(autoItem)
 
-        menu.addItem(item(String(localized: "Automatic Triggers…"), #selector(showAutomation), pro: !isPro))
+        menu.addItem(item(String(localized: "Automatic Triggers…"), #selector(showAutomation)))
 
         menu.addItem(.separator())
-        if !isPro {
-            menu.addItem(item(String(localized: "Unlock Wakeful Pro…"), #selector(showPro)))
-        }
         menu.addItem(item(String(localized: "Settings…"), #selector(showSettings), key: ","))
         menu.addItem(item(String(localized: "Quit Wakeful"), #selector(quit), key: "q"))
     }
@@ -149,29 +145,17 @@ final class StatusItemController: NSObject, NSMenuDelegate {
         return sub
     }
 
-    private func item(_ title: String, _ action: Selector, key: String = "", represented: Any? = nil, pro: Bool = false) -> NSMenuItem {
+    private func item(_ title: String, _ action: Selector, key: String = "", represented: Any? = nil) -> NSMenuItem {
         let item = NSMenuItem(title: title, action: action, keyEquivalent: key)
         item.target = self
         item.representedObject = represented
-        if pro { markPro(item) }
         return item
     }
 
-    private func submenu(_ title: String, _ sub: NSMenu, pro: Bool = false) -> NSMenuItem {
+    private func submenu(_ title: String, _ sub: NSMenu) -> NSMenuItem {
         let item = NSMenuItem(title: title, action: nil, keyEquivalent: "")
-        if pro {
-            // Pro submenus open the upgrade screen instead of expanding.
-            item.action = #selector(showPro)
-            item.target = self
-            markPro(item)
-        } else {
-            item.submenu = sub
-        }
+        item.submenu = sub
         return item
-    }
-
-    private func markPro(_ item: NSMenuItem) {
-        item.image = NSImage(systemSymbolName: "lock.fill", accessibilityDescription: String(localized: "Requires Wakeful Pro"))
     }
 
     // MARK: - Actions
@@ -211,19 +195,14 @@ final class StatusItemController: NSObject, NSMenuDelegate {
 
     @objc private func toggleDisplaySleep() { Preferences.allowDisplaySleep.toggle() }
 
-    @objc private func toggleLidClosed() {
-        guard ProStore.shared.require() else { return }
-        Preferences.keepAwakeLidClosed.toggle()
-    }
+    @objc private func toggleLidClosed() { Preferences.keepAwakeLidClosed.toggle() }
 
     @objc private func toggleAutoAgents() {
-        guard ProStore.shared.require() else { return }
         Preferences.autoAgentMode.toggle()
         session.checkAutomation()
     }
 
-    @objc private func showAutomation() { openSettings?(ProStore.shared.isPro ? .automation : .pro) }
-    @objc private func showPro() { openSettings?(.pro) }
+    @objc private func showAutomation() { openSettings?(.automation) }
     @objc private func showSettings() { openSettings?(.general) }
     @objc private func quit() { NSApp.terminate(nil) }
 }

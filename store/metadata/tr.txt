@@ -2,7 +2,6 @@ name: Wakeful: Mac’i Uyanık Tut
 subtitle: Uyku önleme, zamanlayıcı ve YZ
 keywords: uyku,uyutma,uykusuzluk,ekran,ekran koruyucu,kapak,pil,zamanlayıcı,menü çubuğu,kafein,kodlama
 promo: Mac uyuklasa da yapay zekâ ajanlarınız ve uzun derlemeleriniz yarıda kalmaz, sonuna kadar çalışır. Tek tık, akıllı tetikleyiciler, abonelik yok.
-iap: YZ ajanları, tetikleyiciler, kapak, geçmiş
 ---
 Wakeful, Mac’inizi tam ihtiyaç duyduğunuzda uyanık tutar ve geri kalan zamanda uyumasına izin verir.
 
@@ -13,7 +12,7 @@ YAPAY ZEKÂ AJANLARI VE UZUN İŞLER İÇİN
 • Bir komut, betik veya uygulama bitene kadar uyanık tutar
 • Betikler, Raycast ve Alfred için komut satırı aracı ve URL şeması
 
-ÜCRETSİZ
+HER ŞEY DAHİL
 • Menü çubuğundan tek tıkla açma/kapama
 • 15 dakikadan 8 saate kadar zamanlayıcılar veya istediğiniz süre
 • Menü çubuğunda canlı geri sayım
@@ -22,13 +21,12 @@ YAPAY ZEKÂ AJANLARI VE UZUN İŞLER İÇİN
 • Pil koruması: pil gücünde veya belirli bir şarj seviyesinin altında durur
 • Kestirmeler eylemleri, masaüstü widget’ı ve Denetim Merkezi denetimi (macOS 26)
 • Oturum açıldığında başlar, oturum bitince bildirir
-
-WAKEFUL PRO (TEK SEFERLİK SATIN ALIM)
-• Yapay zekâ ajanı modu
 • Otomatik tetikleyiciler: harici ekran, güç adaptörü, Wi‑Fi ağı, uygulamalar, görüntülü aramalar ve zamanlamalar
 • Bir işlem veya uygulama çalışırken uyanık tutma
 • Prize takılıyken kapak kapalı çalışmaya devam etme
 • Mac’in ne kadar süre ve neden uyanık kaldığının geçmişi
+
+Tek satın alım. Abonelik yok. Ailenizle paylaşılır.
 
 GİZLİLİK ODAKLI
 Hesap yok, reklam yok, takip yok. Her şey Mac’inizde kalır.

@@ -2,7 +2,6 @@ name: Wakeful: Mac siempre despierto
 subtitle: Antirreposo, temporizador e IA
 keywords: reposo,dormir,insomnio,no dormir,pantalla,salvapantallas,tapa cerrada,batería,temporizador,cafeína
 promo: Tus agentes de IA y compilaciones largas terminan en lugar de pararse cuando el Mac se duerme. Un clic, activadores inteligentes, sin suscripción.
-iap: Agentes de IA, activadores, tapa e historial
 ---
 Wakeful mantiene tu Mac despierto justo cuando lo necesitas y deja que repose el resto del tiempo.
 
@@ -13,7 +12,7 @@ HECHO PARA AGENTES DE IA Y TAREAS LARGAS
 • Mantiene el Mac despierto hasta que termina un comando, un script o una app
 • Herramienta de terminal y esquema de URL para scripts, Raycast y Alfred
 
-GRATIS
+TODO INCLUIDO
 • Activa o desactiva con un clic desde la barra de menús
 • Temporizadores de 15 minutos a 8 horas, o cualquier duración personalizada
 • Cuenta atrás en directo en la barra de menús
@@ -22,13 +21,12 @@ GRATIS
 • Protección de batería: se detiene con batería o por debajo de un nivel de carga
 • Acciones de Atajos, widget de escritorio y control en el Centro de control (macOS 26)
 • Se abre al iniciar sesión y avisa cuando termina una sesión
-
-WAKEFUL PRO (COMPRA ÚNICA)
-• Modo agente de IA
 • Activadores automáticos: pantalla externa, adaptador de corriente, red Wi‑Fi, apps, videollamadas y horarios
 • Mantén despierto mientras se ejecuta un proceso o una app
 • Sigue trabajando con la tapa cerrada mientras está enchufado
 • Historial de cuánto tiempo, y por qué, estuvo despierto el Mac
+
+Una sola compra. Sin suscripción. Compartida con tu familia.
 
 PRIVADO POR DISEÑO
 Sin cuenta, sin anuncios, sin rastreo. Todo se queda en tu Mac.

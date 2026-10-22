@@ -34,9 +34,6 @@ final class AppDelegate: NSObject, NSApplicationDelegate, UNUserNotificationCent
             UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound]) { _, _ in }
         }
 
-        ProStore.shared.onProRequired = { [weak self] in self?.showSettings(tab: .pro) }
-        ProStore.shared.start()
-
         let controller = StatusItemController()
         controller.openSettings = { [weak self] tab in self?.showSettings(tab: tab) }
         URLCommand.openSettings = { [weak self] tab in self?.showSettings(tab: tab) }

@@ -20,143 +20,118 @@
 20|Aplikacija je u prednjem planu
 21|Odaberi aplikaciju…
 22|Dodaj okidač
-23|Otključaj
-24|Ovo je značajka Wakeful Pro
-25|Otključajte automatizaciju, prepoznavanje AI agenata, povijest i više jednokratnom kupnjom.
-26|Drži budnim na Wi‑Fi mreži
-27|Naziv mreže
-28|macOS zahtijeva pristup lokaciji za čitanje naziva Wi‑Fi mreže.
-29|Upotrijebi trenutačnu mrežu
-30|Odustani
-31|Dodaj
-32|Drži budnim prema rasporedu
-33|Od
-34|Do
-35|Obrisati cijelu povijest?
-36|Nedavne sesije
-37|Sati
-38|Vrijeme budnosti po danu u posljednjih 7 dana
-39|Danas
-40|Posljednjih 7 dana
-41|Sesije
-42|Dan
-43|Još nema zabilježenih sesija.
-44|Bilježi povijest na ovom Macu
-45|Obriši povijest…
-46|Povijest se pohranjuje samo na ovom Macu i nikamo se ne šalje.
-47|Obriši povijest
-48|Drži Mac budnim
-49|Sprječava prelazak Maca u pripravno stanje, po želji na određeni broj minuta.
-50|Minute
-51|Ostavite prazno za neograničeno držanje budnim.
-52|Dopusti Macu pripravno stanje
-53|Uključi/isključi držanje budnim
-54|Drži li se Mac budnim?
-55|Drži budnim
-56|App Store trenutačno nije dostupan.
-57|Način AI agenta
-58|Ostaje budan dok rade Claude Code, Codex, Gemini ili bilo koji agent koji dodate.
-59|Automatski okidači
-60|Vanjski zaslon, strujni adapter, Wi‑Fi, aplikacije, videopozivi i rasporedi.
-61|Procesi i aplikacije
-62|Ostaje budan dok se naredba, skripta ili aplikacija ne završi.
-63|Zatvoren poklopac
-64|Nastavite raditi sa zatvorenim poklopcem dok je Mac spojen na napajanje.
-65|Povijest
-66|Pogledajte koliko je dugo Mac bio budan i zašto.
-67|Wakeful Pro je otključan
-68|Wakeful Pro
-69|Hvala što podržavate neovisnog developera!
-70|Jedna kupnja. Bez pretplate. Dijeli se s obitelji.
-71|Vaša kupnja čeka odobrenje.
-72|Vrati kupnje
-73|Otključaj Pro
-74|Otključaj za %@
-75|Ručno
-76|Mjerač vremena
-77|Automatski
-78|Mjerač vremena je istekao. Mac ponovno može prijeći u pripravno stanje.
-79|%@ je završio. Mac ponovno može prijeći u pripravno stanje.
-80|%@ je zatvorena. Mac ponovno može prijeći u pripravno stanje.
-81|Svi AI agenti su završili. Mac ponovno može prijeći u pripravno stanje.
-82|Zaustavljeno jer Mac radi na bateriju.
-83|Zaustavljeno jer je baterija na %lld %%.
-84|AI agent radi (%@)
-85|Isključeno — Mac prelazi u pripravno stanje kao inače
-86|Budan neograničeno
-87|Budan još %@
-88|Budan dok radi %@
-89|Budan dok je %@ otvorena
-90|Automatski budan: %@
-91|Općenito
-92|Automatizacija
-93|Napajanje
-94|Pro
-95|Otvori pri prijavi
-96|Uključi pri pokretanju aplikacije Wakeful
-97|Lijevi klik na ikonu u traci izbornika
-98|Zadano trajanje
-99|Prečac za uključivanje/isključivanje
-100|Uključuje/isključuje držanje budnim
-101|Otvara izbornik
-102|Neograničeno
-103|Dopusti pripravno stanje zaslona (budnim drži samo sustav)
-104|Prikaži odbrojavanje u traci izbornika
-105|Obavijesti kad sesija završi
-106|Baterija
-107|Zaustavi kad Mac prijeđe na bateriju
-108|Zaustavi kad baterija padne na
-109|Nikad
-110|Drži budnim sa zatvorenim poklopcem
-111|macOS to dopušta samo dok je Mac spojen na napajanje. Na bateriji zatvaranje poklopca i dalje stavlja Mac u pripravno stanje.
-112|PRO
-113|Potreban je Wakeful Pro
-114|Isključi
-115|Drži budnim neograničeno
-116|Prilagođeno…
-117|Drži budnim
-118|Dok AI agent radi
-119|Dok je aplikacija otvorena
-120|Dopusti pripravno stanje zaslona
-121|Drži budnim sa zatvorenim poklopcem
-122|Automatski uključi uz AI agente
-123|Automatski okidači…
-124|Otključaj Wakeful Pro…
-125|Postavke…
-126|Zatvori Wakeful
-127|Nema aktivnih AI agenata
-128|Uredi popis agenata…
-129|Koliko dugo držati budnim?
-130|Unesite trajanje u minutama.
-131|Pokreni
-132|Spojen je vanjski zaslon
-133|Strujni adapter je spojen
-134|Spojeno na Wi‑Fi „%@”
-135|%@ je otvorena
-136|%@ je u prednjem planu
-137|Kamera ili mikrofon je u upotrebi
-138|%@, %@–%@
-139|Svaki dan
-140|Radni dani
-141|Vikendi
-142|Wakeful
-143|Pogledajte drži li se Mac budnim i promijenite jednim klikom.
-144|Budan
-145|Normalno pripravno stanje
-146|Dok ga ne isključite
-147|Kliknite za držanje budnim
-148|Sprječava prelazak Maca u pripravno stanje.
-149|Isključeno
-150|Držite Mac budnim. Jednim klikom.
-151|Mjerači vremena, globalni prečac i odbrojavanje uživo, izravno u traci izbornika.
-152|Vaši AI agenti nastavljaju raditi.
-153|Ostaje budan dok rade Claude Code, Codex ili Gemini, a zatim pušta Mac da se odmori.
-154|Automatski, kad je važno.
-155|Vanjski zaslon, napajanje, Wi‑Fi, aplikacije, videopozivi i rasporedi.
-156|Widgeti, Kontrolni centar i povijest.
-157|Privatnost od temelja: sve ostaje na vašem Macu.
-158|Drži moj Mac budnim pomoću aplikacije ${applicationName}
-159|Pokreni ${applicationName}
-160|Zaustavi ${applicationName}
-161|Dopusti mom Macu pripravno stanje pomoću aplikacije ${applicationName}
-162|Wakeful upotrebljava vašu lokaciju samo kako bi mu macOS dopustio čitanje naziva vaše Wi‑Fi mreže za Wi‑Fi okidače. Vaša lokacija nikada se ne pohranjuje niti dijeli.
+23|Drži budnim na Wi‑Fi mreži
+24|Naziv mreže
+25|macOS zahtijeva pristup lokaciji za čitanje naziva Wi‑Fi mreže.
+26|Upotrijebi trenutačnu mrežu
+27|Odustani
+28|Dodaj
+29|Drži budnim prema rasporedu
+30|Od
+31|Do
+32|Obrisati cijelu povijest?
+33|Nedavne sesije
+34|Sati
+35|Vrijeme budnosti po danu u posljednjih 7 dana
+36|Danas
+37|Posljednjih 7 dana
+38|Sesije
+39|Dan
+40|Još nema zabilježenih sesija.
+41|Bilježi povijest na ovom Macu
+42|Obriši povijest…
+43|Povijest se pohranjuje samo na ovom Macu i nikamo se ne šalje.
+44|Obriši povijest
+45|Drži Mac budnim
+46|Sprječava prelazak Maca u pripravno stanje, po želji na određeni broj minuta.
+47|Minute
+48|Ostavite prazno za neograničeno držanje budnim.
+49|Dopusti Macu pripravno stanje
+50|Uključi/isključi držanje budnim
+51|Drži li se Mac budnim?
+52|Drži budnim
+53|Povijest
+54|Ručno
+55|Mjerač vremena
+56|Automatski
+57|Mjerač vremena je istekao. Mac ponovno može prijeći u pripravno stanje.
+58|%@ je završio. Mac ponovno može prijeći u pripravno stanje.
+59|%@ je zatvorena. Mac ponovno može prijeći u pripravno stanje.
+60|Svi AI agenti su završili. Mac ponovno može prijeći u pripravno stanje.
+61|Zaustavljeno jer Mac radi na bateriju.
+62|Zaustavljeno jer je baterija na %lld %%.
+63|AI agent radi (%@)
+64|Isključeno — Mac prelazi u pripravno stanje kao inače
+65|Budan neograničeno
+66|Budan još %@
+67|Budan dok radi %@
+68|Budan dok je %@ otvorena
+69|Automatski budan: %@
+70|Općenito
+71|Automatizacija
+72|Napajanje
+73|Otvori pri prijavi
+74|Uključi pri pokretanju aplikacije Wakeful
+75|Lijevi klik na ikonu u traci izbornika
+76|Zadano trajanje
+77|Prečac za uključivanje/isključivanje
+78|Uključuje/isključuje držanje budnim
+79|Otvara izbornik
+80|Neograničeno
+81|Dopusti pripravno stanje zaslona (budnim drži samo sustav)
+82|Prikaži odbrojavanje u traci izbornika
+83|Obavijesti kad sesija završi
+84|Baterija
+85|Zaustavi kad Mac prijeđe na bateriju
+86|Zaustavi kad baterija padne na
+87|Nikad
+88|Drži budnim sa zatvorenim poklopcem
+89|macOS to dopušta samo dok je Mac spojen na napajanje. Na bateriji zatvaranje poklopca i dalje stavlja Mac u pripravno stanje.
+90|Isključi
+91|Drži budnim neograničeno
+92|Prilagođeno…
+93|Drži budnim
+94|Dok AI agent radi
+95|Dok je aplikacija otvorena
+96|Dopusti pripravno stanje zaslona
+97|Drži budnim sa zatvorenim poklopcem
+98|Automatski uključi uz AI agente
+99|Automatski okidači…
+100|Postavke…
+101|Zatvori Wakeful
+102|Nema aktivnih AI agenata
+103|Uredi popis agenata…
+104|Koliko dugo držati budnim?
+105|Unesite trajanje u minutama.
+106|Pokreni
+107|Spojen je vanjski zaslon
+108|Strujni adapter je spojen
+109|Spojeno na Wi‑Fi „%@”
+110|%@ je otvorena
+111|%@ je u prednjem planu
+112|Kamera ili mikrofon je u upotrebi
+113|%@, %@–%@
+114|Svaki dan
+115|Radni dani
+116|Vikendi
+117|Wakeful
+118|Pogledajte drži li se Mac budnim i promijenite jednim klikom.
+119|Budan
+120|Normalno pripravno stanje
+121|Dok ga ne isključite
+122|Kliknite za držanje budnim
+123|Sprječava prelazak Maca u pripravno stanje.
+124|Isključeno
+125|Držite Mac budnim. Jednim klikom.
+126|Mjerači vremena, globalni prečac i odbrojavanje uživo, izravno u traci izbornika.
+127|Vaši AI agenti nastavljaju raditi.
+128|Ostaje budan dok rade Claude Code, Codex ili Gemini, a zatim pušta Mac da se odmori.
+129|Automatski, kad je važno.
+130|Vanjski zaslon, napajanje, Wi‑Fi, aplikacije, videopozivi i rasporedi.
+131|Widgeti, Kontrolni centar i povijest.
+132|Privatnost od temelja: sve ostaje na vašem Macu.
+133|Drži moj Mac budnim pomoću aplikacije ${applicationName}
+134|Pokreni ${applicationName}
+135|Zaustavi ${applicationName}
+136|Dopusti mom Macu pripravno stanje pomoću aplikacije ${applicationName}
+137|Wakeful upotrebljava vašu lokaciju samo kako bi mu macOS dopustio čitanje naziva vaše Wi‑Fi mreže za Wi‑Fi okidače. Vaša lokacija nikada se ne pohranjuje niti dijeli.

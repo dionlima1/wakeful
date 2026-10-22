@@ -2,7 +2,6 @@ name: Wakeful: Mac wakker houden
 subtitle: Anti-sluimer, timer en AI
 keywords: sluimerstand,slaap,schermbeveiliging,beeldscherm,klep dicht,batterij,timer,menubalk,cafeïne,coderen
 promo: Je AI-agents en lange builds maken hun werk af in plaats van te stoppen als de Mac indut. Eén klik, slimme triggers, geen abonnement.
-iap: AI-agents, triggers, klep dicht, geschiedenis
 ---
 Wakeful houdt je Mac precies wakker wanneer je het nodig hebt, en laat hem de rest van de tijd sluimeren.
 
@@ -13,7 +12,7 @@ GEMAAKT VOOR AI-AGENTS EN LANGE TAKEN
 • Houdt de Mac wakker tot een opdracht, script of app klaar is
 • Opdrachtregeltool en URL-schema voor scripts, Raycast en Alfred
 
-GRATIS
+ALLES INBEGREPEN
 • Met één klik in- en uitschakelen vanuit de menubalk
 • Timers van 15 minuten tot 8 uur, of elke gewenste duur
 • Live aftelling in de menubalk
@@ -22,13 +21,12 @@ GRATIS
 • Batterijbescherming: stopt op de batterij of onder een bepaald niveau
 • Opdrachten-acties, bureaubladwidget en regelaar in het bedieningspaneel (macOS 26)
 • Opent bij inloggen en meldt wanneer een sessie eindigt
-
-WAKEFUL PRO (EENMALIGE AANKOOP)
-• AI-agentmodus
 • Automatische triggers: extern beeldscherm, lichtnetadapter, wifinetwerk, apps, videogesprekken en schema's
 • Houd wakker zolang een proces of app actief is
 • Blijf werken met de klep dicht zolang de Mac op netstroom werkt
 • Geschiedenis van hoelang, en waarom, je Mac wakker bleef
+
+Eén aankoop. Geen abonnement. Gedeeld met je gezin.
 
 PRIVÉ VANAF DE BASIS
 Geen account, geen advertenties, geen tracking. Alles blijft op je Mac.

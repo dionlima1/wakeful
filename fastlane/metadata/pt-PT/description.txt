@@ -7,7 +7,7 @@ FEITO PARA AGENTES DE IA E TAREFAS LONGAS
 • Mantém acordado até um comando, script ou app terminar
 • Comando de terminal e esquema de URL para scripts, Raycast e Alfred
 
-GRÁTIS
+TUDO INCLUÍDO
 • Ativa e desativa com um clique na barra de menus
 • Temporizadores de 15 minutos a 8 horas, ou qualquer duração personalizada
 • Contagem decrescente ao vivo na barra de menus
@@ -16,13 +16,12 @@ GRÁTIS
 • Proteção da bateria: para com bateria ou abaixo de um nível de carga
 • Ações na app Atalhos, widget e controlo na Central de controlo (macOS 26)
 • Abre ao iniciar sessão e avisa quando uma sessão termina
-
-WAKEFUL PRO (COMPRA ÚNICA)
-• Modo agente de IA
 • Acionadores automáticos: monitor externo, transformador, rede Wi‑Fi, apps, videochamadas e horários
 • Mantém acordado enquanto um processo ou app estiver em execução
 • Continue a trabalhar com a tampa fechada enquanto estiver ligado à corrente
 • Histórico de quanto tempo, e porquê, o Mac esteve acordado
+
+Uma compra. Sem subscrição. Partilhada com a sua família.
 
 PRIVADO POR NATUREZA
 Sem conta, sem anúncios, sem rastreio. Tudo fica no seu Mac.

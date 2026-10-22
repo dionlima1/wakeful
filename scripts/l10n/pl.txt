@@ -20,143 +20,118 @@
 20|Aplikacja jest na pierwszym planie
 21|Wybierz aplikację…
 22|Dodaj wyzwalacz
-23|Odblokuj
-24|To funkcja Wakeful Pro
-25|Odblokuj automatyzację, wykrywanie agentów AI, historię i więcej dzięki jednorazowemu zakupowi.
-26|Nie usypiaj w sieci Wi‑Fi
-27|Nazwa sieci
-28|macOS wymaga dostępu do lokalizacji, aby odczytać nazwę sieci Wi‑Fi.
-29|Użyj bieżącej sieci
-30|Anuluj
-31|Dodaj
-32|Nie usypiaj według harmonogramu
-33|Od
-34|Do
-35|Wymazać całą historię?
-36|Ostatnie sesje
-37|Godziny
-38|Czas czuwania dziennie w ciągu ostatnich 7 dni
-39|Dzisiaj
-40|Ostatnie 7 dni
-41|Sesje
-42|Dzień
-43|Nie zarejestrowano jeszcze żadnych sesji.
-44|Zapisuj historię na tym Macu
-45|Wymaż historię…
-46|Historia jest przechowywana tylko na tym Macu i nigdy nie jest nigdzie wysyłana.
-47|Wymaż historię
-48|Nie usypiaj Maca
-49|Zapobiega uśpieniu Maca, opcjonalnie przez określoną liczbę minut.
-50|Minuty
-51|Pozostaw puste, aby nie usypiać bezterminowo.
-52|Pozwól uśpić Maca
-53|Przełącz nieusypianie
-54|Czy Mac nie jest usypiany?
-55|Nie usypiaj
-56|App Store jest w tej chwili niedostępny.
-57|Tryb agenta AI
-58|Nie usypia, gdy pracuje Claude Code, Codex, Gemini lub dowolny dodany przez Ciebie agent.
-59|Automatyczne wyzwalacze
-60|Monitor zewnętrzny, zasilacz, Wi‑Fi, aplikacje, wideorozmowy i harmonogramy.
-61|Procesy i aplikacje
-62|Nie usypia do zakończenia polecenia, skryptu lub aplikacji.
-63|Zamknięta pokrywa
-64|Pracuj dalej z zamkniętą pokrywą, gdy Mac jest podłączony do zasilania.
-65|Historia
-66|Zobacz, jak długo Mac nie spał i dlaczego.
-67|Wakeful Pro jest odblokowany
-68|Wakeful Pro
-69|Dziękujemy za wspieranie niezależnego twórcy!
-70|Jeden zakup. Bez subskrypcji. Udostępniany rodzinie.
-71|Twój zakup czeka na zatwierdzenie.
-72|Odtwórz zakupy
-73|Odblokuj Pro
-74|Odblokuj za %@
-75|Ręcznie
-76|Minutnik
-77|Automatycznie
-78|Minutnik się zakończył. Mac może znów zostać uśpiony.
-79|%@ zakończył pracę. Mac może znów zostać uśpiony.
-80|Zakończono %@. Mac może znów zostać uśpiony.
-81|Wszyscy agenci AI zakończyli pracę. Mac może znów zostać uśpiony.
-82|Zatrzymano, ponieważ Mac działa na baterii.
-83|Zatrzymano, ponieważ poziom baterii wynosi %lld%%.
-84|Agent AI działa (%@)
-85|Wyłączone — Mac usypia się normalnie
-86|Bez usypiania bezterminowo
-87|Bez usypiania jeszcze przez %@
-88|Bez usypiania, dopóki działa %@
-89|Bez usypiania, dopóki %@ jest otwarta
-90|Automatycznie bez usypiania: %@
-91|Ogólne
-92|Automatyzacja
-93|Zasilanie
-94|Pro
-95|Otwieraj po zalogowaniu
-96|Włączaj przy uruchomieniu Wakeful
-97|Kliknięcie lewym przyciskiem ikony na pasku menu
-98|Domyślny czas
-99|Skrót do przełączania
-100|Przełącza nieusypianie
-101|Otwiera menu
-102|Bezterminowo
-103|Pozwól uśpić ekran (nie usypiaj tylko systemu)
-104|Pokazuj odliczanie na pasku menu
-105|Powiadamiaj o zakończeniu sesji
-106|Bateria
-107|Zatrzymaj, gdy Mac przejdzie na baterię
-108|Zatrzymaj, gdy bateria spadnie do
-109|Nigdy
-110|Nie usypiaj przy zamkniętej pokrywie
-111|macOS pozwala na to tylko wtedy, gdy Mac jest podłączony do zasilania. Na baterii zamknięcie pokrywy nadal usypia Maca.
-112|PRO
-113|Wymaga Wakeful Pro
-114|Wyłącz
-115|Nie usypiaj bezterminowo
-116|Własny…
-117|Nie usypiaj przez
-118|Gdy pracuje agent AI
-119|Gdy aplikacja jest otwarta
-120|Pozwól uśpić ekran
-121|Nie usypiaj przy zamkniętej pokrywie
-122|Włączaj automatycznie przy agentach AI
-123|Automatyczne wyzwalacze…
-124|Odblokuj Wakeful Pro…
-125|Ustawienia…
-126|Zakończ Wakeful
-127|Brak działających agentów AI
-128|Edytuj listę agentów…
-129|Jak długo nie usypiać?
-130|Wpisz czas w minutach.
-131|Rozpocznij
-132|Podłączony jest monitor zewnętrzny
-133|Zasilacz jest podłączony
-134|Połączono z Wi‑Fi „%@”
-135|%@ jest otwarta
-136|%@ jest na pierwszym planie
-137|Kamera lub mikrofon są w użyciu
-138|%@, %@–%@
-139|Codziennie
-140|Dni robocze
-141|Weekendy
-142|Wakeful
-143|Sprawdź, czy Mac nie jest usypiany, i przełączaj jednym kliknięciem.
-144|Nie śpi
-145|Usypia się normalnie
-146|Dopóki nie wyłączysz
-147|Kliknij, aby nie usypiać
-148|Zapobiega uśpieniu Maca.
-149|Wył.
-150|Nie pozwól Macowi zasnąć. Jednym kliknięciem.
-151|Minutniki, globalny skrót i odliczanie na żywo prosto na pasku menu.
-152|Twoi agenci AI pracują dalej.
-153|Nie usypia, gdy pracuje Claude Code, Codex lub Gemini, a potem pozwala Macowi odpocząć.
-154|Automatycznie, gdy to ważne.
-155|Monitor zewnętrzny, zasilanie, Wi‑Fi, aplikacje, wideorozmowy i harmonogramy.
-156|Widżety, centrum sterowania i historia.
-157|Prywatność w standardzie: wszystko zostaje na Twoim Macu.
-158|Nie usypiaj mojego Maca za pomocą ${applicationName}
-159|Uruchom ${applicationName}
-160|Zatrzymaj ${applicationName}
-161|Pozwól uśpić mojego Maca za pomocą ${applicationName}
-162|Wakeful używa Twojej lokalizacji tylko po to, aby macOS pozwolił odczytać nazwę sieci Wi‑Fi na potrzeby wyzwalaczy Wi‑Fi. Twoja lokalizacja nigdy nie jest przechowywana ani udostępniana.
+23|Nie usypiaj w sieci Wi‑Fi
+24|Nazwa sieci
+25|macOS wymaga dostępu do lokalizacji, aby odczytać nazwę sieci Wi‑Fi.
+26|Użyj bieżącej sieci
+27|Anuluj
+28|Dodaj
+29|Nie usypiaj według harmonogramu
+30|Od
+31|Do
+32|Wymazać całą historię?
+33|Ostatnie sesje
+34|Godziny
+35|Czas czuwania dziennie w ciągu ostatnich 7 dni
+36|Dzisiaj
+37|Ostatnie 7 dni
+38|Sesje
+39|Dzień
+40|Nie zarejestrowano jeszcze żadnych sesji.
+41|Zapisuj historię na tym Macu
+42|Wymaż historię…
+43|Historia jest przechowywana tylko na tym Macu i nigdy nie jest nigdzie wysyłana.
+44|Wymaż historię
+45|Nie usypiaj Maca
+46|Zapobiega uśpieniu Maca, opcjonalnie przez określoną liczbę minut.
+47|Minuty
+48|Pozostaw puste, aby nie usypiać bezterminowo.
+49|Pozwól uśpić Maca
+50|Przełącz nieusypianie
+51|Czy Mac nie jest usypiany?
+52|Nie usypiaj
+53|Historia
+54|Ręcznie
+55|Minutnik
+56|Automatycznie
+57|Minutnik się zakończył. Mac może znów zostać uśpiony.
+58|%@ zakończył pracę. Mac może znów zostać uśpiony.
+59|Zakończono %@. Mac może znów zostać uśpiony.
+60|Wszyscy agenci AI zakończyli pracę. Mac może znów zostać uśpiony.
+61|Zatrzymano, ponieważ Mac działa na baterii.
+62|Zatrzymano, ponieważ poziom baterii wynosi %lld%%.
+63|Agent AI działa (%@)
+64|Wyłączone — Mac usypia się normalnie
+65|Bez usypiania bezterminowo
+66|Bez usypiania jeszcze przez %@
+67|Bez usypiania, dopóki działa %@
+68|Bez usypiania, dopóki %@ jest otwarta
+69|Automatycznie bez usypiania: %@
+70|Ogólne
+71|Automatyzacja
+72|Zasilanie
+73|Otwieraj po zalogowaniu
+74|Włączaj przy uruchomieniu Wakeful
+75|Kliknięcie lewym przyciskiem ikony na pasku menu
+76|Domyślny czas
+77|Skrót do przełączania
+78|Przełącza nieusypianie
+79|Otwiera menu
+80|Bezterminowo
+81|Pozwól uśpić ekran (nie usypiaj tylko systemu)
+82|Pokazuj odliczanie na pasku menu
+83|Powiadamiaj o zakończeniu sesji
+84|Bateria
+85|Zatrzymaj, gdy Mac przejdzie na baterię
+86|Zatrzymaj, gdy bateria spadnie do
+87|Nigdy
+88|Nie usypiaj przy zamkniętej pokrywie
+89|macOS pozwala na to tylko wtedy, gdy Mac jest podłączony do zasilania. Na baterii zamknięcie pokrywy nadal usypia Maca.
+90|Wyłącz
+91|Nie usypiaj bezterminowo
+92|Własny…
+93|Nie usypiaj przez
+94|Gdy pracuje agent AI
+95|Gdy aplikacja jest otwarta
+96|Pozwól uśpić ekran
+97|Nie usypiaj przy zamkniętej pokrywie
+98|Włączaj automatycznie przy agentach AI
+99|Automatyczne wyzwalacze…
+100|Ustawienia…
+101|Zakończ Wakeful
+102|Brak działających agentów AI
+103|Edytuj listę agentów…
+104|Jak długo nie usypiać?
+105|Wpisz czas w minutach.
+106|Rozpocznij
+107|Podłączony jest monitor zewnętrzny
+108|Zasilacz jest podłączony
+109|Połączono z Wi‑Fi „%@”
+110|%@ jest otwarta
+111|%@ jest na pierwszym planie
+112|Kamera lub mikrofon są w użyciu
+113|%@, %@–%@
+114|Codziennie
+115|Dni robocze
+116|Weekendy
+117|Wakeful
+118|Sprawdź, czy Mac nie jest usypiany, i przełączaj jednym kliknięciem.
+119|Nie śpi
+120|Usypia się normalnie
+121|Dopóki nie wyłączysz
+122|Kliknij, aby nie usypiać
+123|Zapobiega uśpieniu Maca.
+124|Wył.
+125|Nie pozwól Macowi zasnąć. Jednym kliknięciem.
+126|Minutniki, globalny skrót i odliczanie na żywo prosto na pasku menu.
+127|Twoi agenci AI pracują dalej.
+128|Nie usypia, gdy pracuje Claude Code, Codex lub Gemini, a potem pozwala Macowi odpocząć.
+129|Automatycznie, gdy to ważne.
+130|Monitor zewnętrzny, zasilanie, Wi‑Fi, aplikacje, wideorozmowy i harmonogramy.
+131|Widżety, centrum sterowania i historia.
+132|Prywatność w standardzie: wszystko zostaje na Twoim Macu.
+133|Nie usypiaj mojego Maca za pomocą ${applicationName}
+134|Uruchom ${applicationName}
+135|Zatrzymaj ${applicationName}
+136|Pozwól uśpić mojego Maca za pomocą ${applicationName}
+137|Wakeful używa Twojej lokalizacji tylko po to, aby macOS pozwolił odczytać nazwę sieci Wi‑Fi na potrzeby wyzwalaczy Wi‑Fi. Twoja lokalizacja nigdy nie jest przechowywana ani udostępniana.

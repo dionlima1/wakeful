@@ -111,21 +111,6 @@
  },
  {
   "table": "Localizable",
-  "key": "Unlock",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "This is a Wakeful Pro feature",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Unlock automation, AI agent detection, history and more with a one-time purchase.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
   "key": "Keep awake on a Wi‑Fi network",
   "comment": ""
  },
@@ -276,97 +261,7 @@
  },
  {
   "table": "Localizable",
-  "key": "The App Store is not available right now.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "AI agent mode",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Stays awake while Claude Code, Codex, Gemini or any agent you add is working.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Automatic triggers",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "External display, power adapter, Wi‑Fi, apps, video calls and schedules.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Processes and apps",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Stay awake until a command, script or app finishes.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Lid closed",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Keep working with the lid closed while plugged in.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
   "key": "History",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "See how long your Mac stayed awake, and why.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Wakeful Pro is unlocked",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Wakeful Pro",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Thank you for supporting an independent developer!",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "One purchase. No subscription. Shared with your family.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Your purchase is waiting for approval.",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Restore Purchases",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Unlock Pro",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Unlock for %@",
   "comment": ""
  },
  {
@@ -466,11 +361,6 @@
  },
  {
   "table": "Localizable",
-  "key": "Pro",
-  "comment": ""
- },
- {
-  "table": "Localizable",
   "key": "Launch at login",
   "comment": ""
  },
@@ -556,16 +446,6 @@
  },
  {
   "table": "Localizable",
-  "key": "PRO",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Requires Wakeful Pro",
-  "comment": ""
- },
- {
-  "table": "Localizable",
   "key": "Turn Off",
   "comment": ""
  },
@@ -612,11 +492,6 @@
  {
   "table": "Localizable",
   "key": "Automatic Triggers…",
-  "comment": ""
- },
- {
-  "table": "Localizable",
-  "key": "Unlock Wakeful Pro…",
   "comment": ""
  },
  {

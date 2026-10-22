@@ -20,143 +20,118 @@
 20|L’app est au premier plan
 21|Choisir une app…
 22|Ajouter un déclencheur
-23|Déverrouiller
-24|Cette fonctionnalité fait partie de Wakeful Pro
-25|Déverrouillez l’automatisation, la détection des agents IA, l’historique et plus encore avec un achat unique.
-26|Garder éveillé sur un réseau Wi‑Fi
-27|Nom du réseau
-28|macOS exige l’accès à la localisation pour lire le nom du réseau Wi‑Fi.
-29|Utiliser le réseau actuel
-30|Annuler
-31|Ajouter
-32|Garder éveillé selon un horaire
-33|De
-34|À
-35|Effacer tout l’historique ?
-36|Sessions récentes
-37|Heures
-38|Temps d’éveil par jour sur les 7 derniers jours
-39|Aujourd’hui
-40|7 derniers jours
-41|Sessions
-42|Jour
-43|Aucune session enregistrée pour l’instant.
-44|Enregistrer l’historique sur ce Mac
-45|Effacer l’historique…
-46|L’historique reste uniquement sur ce Mac et n’est jamais envoyé nulle part.
-47|Effacer l’historique
-48|Garder le Mac éveillé
-49|Empêche le Mac de se mettre en veille, éventuellement pendant un nombre de minutes donné.
-50|Minutes
-51|Laissez vide pour garder éveillé indéfiniment.
-52|Laisser le Mac se mettre en veille
-53|Activer ou désactiver l’éveil
-54|Le Mac est-il maintenu éveillé ?
-55|Garder éveillé
-56|L’App Store n’est pas disponible pour le moment.
-57|Mode agent IA
-58|Reste éveillé pendant que Claude Code, Codex, Gemini ou tout agent que vous ajoutez travaille.
-59|Déclencheurs automatiques
-60|Écran externe, adaptateur secteur, Wi‑Fi, apps, visioconférences et horaires.
-61|Processus et apps
-62|Reste éveillé jusqu’à la fin d’une commande, d’un script ou d’une app.
-63|Écran rabattu
-64|Continuez à travailler écran rabattu tant que le Mac est branché.
-65|Historique
-66|Voyez combien de temps le Mac est resté éveillé, et pourquoi.
-67|Wakeful Pro est déverrouillé
-68|Wakeful Pro
-69|Merci de soutenir un développeur indépendant !
-70|Un seul achat. Sans abonnement. Partagé avec votre famille.
-71|Votre achat est en attente d’approbation.
-72|Restaurer les achats
-73|Déverrouiller Pro
-74|Déverrouiller pour %@
-75|Manuel
-76|Minuteur
-77|Automatique
-78|Le minuteur est terminé. Le Mac peut de nouveau se mettre en veille.
-79|%@ est terminé. Le Mac peut de nouveau se mettre en veille.
-80|%@ a été fermé. Le Mac peut de nouveau se mettre en veille.
-81|Tous les agents IA ont terminé. Le Mac peut de nouveau se mettre en veille.
-82|Arrêté car le Mac fonctionne sur batterie.
-83|Arrêté car la batterie est à %lld %%.
-84|Agent IA en cours d’exécution (%@)
-85|Désactivé — le Mac se met en veille normalement
-86|Éveillé indéfiniment
-87|Éveillé encore %@
-88|Éveillé pendant l’exécution de %@
-89|Éveillé tant que %@ est ouverte
-90|Éveillé automatiquement : %@
-91|Général
-92|Automatisation
-93|Énergie
-94|Pro
-95|Ouvrir à l’ouverture de session
-96|Activer au lancement de Wakeful
-97|Clic gauche sur l’icône de la barre des menus
-98|Durée par défaut
-99|Raccourci d’activation
-100|Active ou désactive l’éveil
-101|Ouvre le menu
-102|Indéfiniment
-103|Autoriser la veille de l’écran (garder seulement le système éveillé)
-104|Afficher le compte à rebours dans la barre des menus
-105|Avertir à la fin d’une session
-106|Batterie
-107|Arrêter lorsque le Mac passe sur batterie
-108|Arrêter lorsque la batterie descend à
-109|Jamais
-110|Garder éveillé écran rabattu
-111|macOS ne le permet que lorsque le Mac est branché sur secteur. Sur batterie, rabattre l’écran met toujours le Mac en veille.
-112|PRO
-113|Nécessite Wakeful Pro
-114|Désactiver
-115|Garder éveillé indéfiniment
-116|Personnalisé…
-117|Garder éveillé pendant
-118|Pendant qu’un agent IA travaille
-119|Tant qu’une app est ouverte
-120|Autoriser la veille de l’écran
-121|Garder éveillé écran rabattu
-122|Activer automatiquement avec les agents IA
-123|Déclencheurs automatiques…
-124|Déverrouiller Wakeful Pro…
-125|Réglages…
-126|Quitter Wakeful
-127|Aucun agent IA en cours d’exécution
-128|Modifier la liste des agents…
-129|Garder éveillé pendant combien de temps ?
-130|Saisissez une durée en minutes.
-131|Démarrer
-132|Un écran externe est connecté
-133|L’adaptateur secteur est branché
-134|Connecté au Wi‑Fi « %@ »
-135|%@ est ouverte
-136|%@ est au premier plan
-137|La caméra ou le micro est en cours d’utilisation
-138|%@, %@–%@
-139|Tous les jours
-140|En semaine
-141|Le week-end
-142|Wakeful
-143|Voyez si votre Mac est maintenu éveillé et basculez en un clic.
-144|Éveillé
-145|Veille normale
-146|Jusqu’à désactivation
-147|Cliquez pour garder éveillé
-148|Empêche le Mac de se mettre en veille.
-149|Désactivé
-150|Gardez votre Mac éveillé. En un clic.
-151|Minuteurs, raccourci global et compte à rebours en direct, dans la barre des menus.
-152|Vos agents IA continuent de travailler.
-153|Reste éveillé pendant que Claude Code, Codex ou Gemini travaillent, puis laisse le Mac se reposer.
-154|Automatique, quand ça compte.
-155|Écran externe, secteur, Wi‑Fi, apps, visioconférences et horaires.
-156|Widgets, Centre de contrôle et historique.
-157|Confidentiel par nature : tout reste sur votre Mac.
-158|Garder mon Mac éveillé avec ${applicationName}
-159|Démarrer ${applicationName}
-160|Arrêter ${applicationName}
-161|Laisser mon Mac se mettre en veille avec ${applicationName}
-162|Wakeful utilise votre position uniquement pour que macOS l’autorise à lire le nom de votre réseau Wi‑Fi pour les déclencheurs Wi‑Fi. Votre position n’est jamais stockée ni partagée.
+23|Garder éveillé sur un réseau Wi‑Fi
+24|Nom du réseau
+25|macOS exige l’accès à la localisation pour lire le nom du réseau Wi‑Fi.
+26|Utiliser le réseau actuel
+27|Annuler
+28|Ajouter
+29|Garder éveillé selon un horaire
+30|De
+31|À
+32|Effacer tout l’historique ?
+33|Sessions récentes
+34|Heures
+35|Temps d’éveil par jour sur les 7 derniers jours
+36|Aujourd’hui
+37|7 derniers jours
+38|Sessions
+39|Jour
+40|Aucune session enregistrée pour l’instant.
+41|Enregistrer l’historique sur ce Mac
+42|Effacer l’historique…
+43|L’historique reste uniquement sur ce Mac et n’est jamais envoyé nulle part.
+44|Effacer l’historique
+45|Garder le Mac éveillé
+46|Empêche le Mac de se mettre en veille, éventuellement pendant un nombre de minutes donné.
+47|Minutes
+48|Laissez vide pour garder éveillé indéfiniment.
+49|Laisser le Mac se mettre en veille
+50|Activer ou désactiver l’éveil
+51|Le Mac est-il maintenu éveillé ?
+52|Garder éveillé
+53|Historique
+54|Manuel
+55|Minuteur
+56|Automatique
+57|Le minuteur est terminé. Le Mac peut de nouveau se mettre en veille.
+58|%@ est terminé. Le Mac peut de nouveau se mettre en veille.
+59|%@ a été fermé. Le Mac peut de nouveau se mettre en veille.
+60|Tous les agents IA ont terminé. Le Mac peut de nouveau se mettre en veille.
+61|Arrêté car le Mac fonctionne sur batterie.
+62|Arrêté car la batterie est à %lld %%.
+63|Agent IA en cours d’exécution (%@)
+64|Désactivé — le Mac se met en veille normalement
+65|Éveillé indéfiniment
+66|Éveillé encore %@
+67|Éveillé pendant l’exécution de %@
+68|Éveillé tant que %@ est ouverte
+69|Éveillé automatiquement : %@
+70|Général
+71|Automatisation
+72|Énergie
+73|Ouvrir à l’ouverture de session
+74|Activer au lancement de Wakeful
+75|Clic gauche sur l’icône de la barre des menus
+76|Durée par défaut
+77|Raccourci d’activation
+78|Active ou désactive l’éveil
+79|Ouvre le menu
+80|Indéfiniment
+81|Autoriser la veille de l’écran (garder seulement le système éveillé)
+82|Afficher le compte à rebours dans la barre des menus
+83|Avertir à la fin d’une session
+84|Batterie
+85|Arrêter lorsque le Mac passe sur batterie
+86|Arrêter lorsque la batterie descend à
+87|Jamais
+88|Garder éveillé écran rabattu
+89|macOS ne le permet que lorsque le Mac est branché sur secteur. Sur batterie, rabattre l’écran met toujours le Mac en veille.
+90|Désactiver
+91|Garder éveillé indéfiniment
+92|Personnalisé…
+93|Garder éveillé pendant
+94|Pendant qu’un agent IA travaille
+95|Tant qu’une app est ouverte
+96|Autoriser la veille de l’écran
+97|Garder éveillé écran rabattu
+98|Activer automatiquement avec les agents IA
+99|Déclencheurs automatiques…
+100|Réglages…
+101|Quitter Wakeful
+102|Aucun agent IA en cours d’exécution
+103|Modifier la liste des agents…
+104|Garder éveillé pendant combien de temps ?
+105|Saisissez une durée en minutes.
+106|Démarrer
+107|Un écran externe est connecté
+108|L’adaptateur secteur est branché
+109|Connecté au Wi‑Fi « %@ »
+110|%@ est ouverte
+111|%@ est au premier plan
+112|La caméra ou le micro est en cours d’utilisation
+113|%@, %@–%@
+114|Tous les jours
+115|En semaine
+116|Le week-end
+117|Wakeful
+118|Voyez si votre Mac est maintenu éveillé et basculez en un clic.
+119|Éveillé
+120|Veille normale
+121|Jusqu’à désactivation
+122|Cliquez pour garder éveillé
+123|Empêche le Mac de se mettre en veille.
+124|Désactivé
+125|Gardez votre Mac éveillé. En un clic.
+126|Minuteurs, raccourci global et compte à rebours en direct, dans la barre des menus.
+127|Vos agents IA continuent de travailler.
+128|Reste éveillé pendant que Claude Code, Codex ou Gemini travaillent, puis laisse le Mac se reposer.
+129|Automatique, quand ça compte.
+130|Écran externe, secteur, Wi‑Fi, apps, visioconférences et horaires.
+131|Widgets, Centre de contrôle et historique.
+132|Confidentiel par nature : tout reste sur votre Mac.
+133|Garder mon Mac éveillé avec ${applicationName}
+134|Démarrer ${applicationName}
+135|Arrêter ${applicationName}
+136|Laisser mon Mac se mettre en veille avec ${applicationName}
+137|Wakeful utilise votre position uniquement pour que macOS l’autorise à lire le nom de votre réseau Wi‑Fi pour les déclencheurs Wi‑Fi. Votre position n’est jamais stockée ni partagée.

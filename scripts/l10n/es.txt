@@ -20,143 +20,118 @@
 20|La app está en primer plano
 21|Elegir app…
 22|Añadir activador
-23|Desbloquear
-24|Esta es una función de Wakeful Pro
-25|Desbloquea la automatización, la detección de agentes de IA, el historial y más con una compra única.
-26|Mantener despierto en una red Wi‑Fi
-27|Nombre de la red
-28|macOS requiere acceso a la ubicación para leer el nombre de la red Wi‑Fi.
-29|Usar la red actual
-30|Cancelar
-31|Añadir
-32|Mantener despierto según un horario
-33|Desde
-34|Hasta
-35|¿Borrar todo el historial?
-36|Sesiones recientes
-37|Horas
-38|Tiempo despierto por día en los últimos 7 días
-39|Hoy
-40|Últimos 7 días
-41|Sesiones
-42|Día
-43|Aún no hay sesiones registradas.
-44|Registrar el historial en este Mac
-45|Borrar historial…
-46|El historial se guarda solo en este Mac y nunca se envía a ningún sitio.
-47|Borrar historial
-48|Mantener el Mac despierto
-49|Evita que el Mac entre en reposo, opcionalmente durante unos minutos.
-50|Minutos
-51|Déjalo vacío para mantenerlo despierto indefinidamente.
-52|Dejar que el Mac entre en reposo
-53|Activar o desactivar mantener despierto
-54|¿Se mantiene el Mac despierto?
-55|Mantener despierto
-56|La App Store no está disponible en este momento.
-57|Modo agente de IA
-58|Permanece despierto mientras trabajan Claude Code, Codex, Gemini o cualquier agente que añadas.
-59|Activadores automáticos
-60|Pantalla externa, adaptador de corriente, Wi‑Fi, apps, videollamadas y horarios.
-61|Procesos y apps
-62|Permanece despierto hasta que termine un comando, script o app.
-63|Tapa cerrada
-64|Sigue trabajando con la tapa cerrada mientras está enchufado.
-65|Historial
-66|Consulta cuánto tiempo estuvo despierto el Mac y por qué.
-67|Wakeful Pro está desbloqueado
-68|Wakeful Pro
-69|¡Gracias por apoyar a un desarrollador independiente!
-70|Una sola compra. Sin suscripción. Compartida con tu familia.
-71|Tu compra está pendiente de aprobación.
-72|Restaurar compras
-73|Desbloquear Pro
-74|Desbloquear por %@
-75|Manual
-76|Temporizador
-77|Automático
-78|El temporizador ha terminado. El Mac puede volver a reposo.
-79|%@ ha terminado. El Mac puede volver a reposo.
-80|%@ se ha cerrado. El Mac puede volver a reposo.
-81|Todos los agentes de IA han terminado. El Mac puede volver a reposo.
-82|Detenido porque el Mac está usando la batería.
-83|Detenido porque la batería está al %lld %%.
-84|Agente de IA en ejecución (%@)
-85|Desactivado: el Mac entra en reposo con normalidad
-86|Despierto indefinidamente
-87|Despierto durante %@ más
-88|Despierto mientras %@ se ejecuta
-89|Despierto mientras %@ está abierta
-90|Despierto automáticamente: %@
-91|General
-92|Automatización
-93|Energía
-94|Pro
-95|Abrir al iniciar sesión
-96|Activar al abrir Wakeful
-97|Clic izquierdo en el icono de la barra de menús
-98|Duración por omisión
-99|Función rápida para alternar
-100|Activa o desactiva
-101|Abre el menú
-102|Indefinidamente
-103|Permitir el reposo de la pantalla (mantener solo el sistema despierto)
-104|Mostrar la cuenta atrás en la barra de menús
-105|Notificar cuando termine una sesión
-106|Batería
-107|Detener cuando el Mac pase a usar la batería
-108|Detener cuando la batería baje al
-109|Nunca
-110|Mantener despierto con la tapa cerrada
-111|macOS solo lo permite mientras el Mac está conectado a la corriente. Con batería, cerrar la tapa sigue poniéndolo en reposo.
-112|PRO
-113|Requiere Wakeful Pro
-114|Desactivar
-115|Mantener despierto indefinidamente
-116|Personalizado…
-117|Mantener despierto durante
-118|Mientras trabaja un agente de IA
-119|Mientras una app está abierta
-120|Permitir el reposo de la pantalla
-121|Mantener despierto con la tapa cerrada
-122|Activar automáticamente con agentes de IA
-123|Activadores automáticos…
-124|Desbloquear Wakeful Pro…
-125|Ajustes…
-126|Salir de Wakeful
-127|No hay agentes de IA en ejecución
-128|Editar la lista de agentes…
-129|¿Cuánto tiempo mantenerlo despierto?
-130|Introduce una duración en minutos.
-131|Iniciar
-132|Hay una pantalla externa conectada
-133|El adaptador de corriente está conectado
-134|Conectado a la red Wi‑Fi “%@”
-135|%@ está abierta
-136|%@ está en primer plano
-137|La cámara o el micrófono están en uso
-138|%@, %@–%@
-139|Todos los días
-140|Días laborables
-141|Fines de semana
-142|Wakeful
-143|Comprueba si el Mac se mantiene despierto y cámbialo con un clic.
-144|Despierto
-145|Reposo normal
-146|Hasta que lo desactives
-147|Haz clic para mantenerlo despierto
-148|Evita que el Mac entre en reposo.
-149|Desactivado
-150|Mantén tu Mac despierto. Con un clic.
-151|Temporizadores, una función rápida global y cuenta atrás en directo, en la barra de menús.
-152|Tus agentes de IA siguen trabajando.
-153|Permanece despierto mientras Claude Code, Codex o Gemini trabajan y luego deja que el Mac descanse.
-154|Automático, cuando importa.
-155|Pantalla externa, corriente, Wi‑Fi, apps, videollamadas y horarios.
-156|Widgets, Centro de control e historial.
-157|Privado por diseño: todo se queda en tu Mac.
-158|Mantén mi Mac despierto con ${applicationName}
-159|Iniciar ${applicationName}
-160|Detener ${applicationName}
-161|Deja que mi Mac entre en reposo con ${applicationName}
-162|Wakeful usa tu ubicación solo para que macOS le permita leer el nombre de tu red Wi‑Fi en los activadores de Wi‑Fi. Tu ubicación nunca se guarda ni se comparte.
+23|Mantener despierto en una red Wi‑Fi
+24|Nombre de la red
+25|macOS requiere acceso a la ubicación para leer el nombre de la red Wi‑Fi.
+26|Usar la red actual
+27|Cancelar
+28|Añadir
+29|Mantener despierto según un horario
+30|Desde
+31|Hasta
+32|¿Borrar todo el historial?
+33|Sesiones recientes
+34|Horas
+35|Tiempo despierto por día en los últimos 7 días
+36|Hoy
+37|Últimos 7 días
+38|Sesiones
+39|Día
+40|Aún no hay sesiones registradas.
+41|Registrar el historial en este Mac
+42|Borrar historial…
+43|El historial se guarda solo en este Mac y nunca se envía a ningún sitio.
+44|Borrar historial
+45|Mantener el Mac despierto
+46|Evita que el Mac entre en reposo, opcionalmente durante unos minutos.
+47|Minutos
+48|Déjalo vacío para mantenerlo despierto indefinidamente.
+49|Dejar que el Mac entre en reposo
+50|Activar o desactivar mantener despierto
+51|¿Se mantiene el Mac despierto?
+52|Mantener despierto
+53|Historial
+54|Manual
+55|Temporizador
+56|Automático
+57|El temporizador ha terminado. El Mac puede volver a reposo.
+58|%@ ha terminado. El Mac puede volver a reposo.
+59|%@ se ha cerrado. El Mac puede volver a reposo.
+60|Todos los agentes de IA han terminado. El Mac puede volver a reposo.
+61|Detenido porque el Mac está usando la batería.
+62|Detenido porque la batería está al %lld %%.
+63|Agente de IA en ejecución (%@)
+64|Desactivado: el Mac entra en reposo con normalidad
+65|Despierto indefinidamente
+66|Despierto durante %@ más
+67|Despierto mientras %@ se ejecuta
+68|Despierto mientras %@ está abierta
+69|Despierto automáticamente: %@
+70|General
+71|Automatización
+72|Energía
+73|Abrir al iniciar sesión
+74|Activar al abrir Wakeful
+75|Clic izquierdo en el icono de la barra de menús
+76|Duración por omisión
+77|Función rápida para alternar
+78|Activa o desactiva
+79|Abre el menú
+80|Indefinidamente
+81|Permitir el reposo de la pantalla (mantener solo el sistema despierto)
+82|Mostrar la cuenta atrás en la barra de menús
+83|Notificar cuando termine una sesión
+84|Batería
+85|Detener cuando el Mac pase a usar la batería
+86|Detener cuando la batería baje al
+87|Nunca
+88|Mantener despierto con la tapa cerrada
+89|macOS solo lo permite mientras el Mac está conectado a la corriente. Con batería, cerrar la tapa sigue poniéndolo en reposo.
+90|Desactivar
+91|Mantener despierto indefinidamente
+92|Personalizado…
+93|Mantener despierto durante
+94|Mientras trabaja un agente de IA
+95|Mientras una app está abierta
+96|Permitir el reposo de la pantalla
+97|Mantener despierto con la tapa cerrada
+98|Activar automáticamente con agentes de IA
+99|Activadores automáticos…
+100|Ajustes…
+101|Salir de Wakeful
+102|No hay agentes de IA en ejecución
+103|Editar la lista de agentes…
+104|¿Cuánto tiempo mantenerlo despierto?
+105|Introduce una duración en minutos.
+106|Iniciar
+107|Hay una pantalla externa conectada
+108|El adaptador de corriente está conectado
+109|Conectado a la red Wi‑Fi “%@”
+110|%@ está abierta
+111|%@ está en primer plano
+112|La cámara o el micrófono están en uso
+113|%@, %@–%@
+114|Todos los días
+115|Días laborables
+116|Fines de semana
+117|Wakeful
+118|Comprueba si el Mac se mantiene despierto y cámbialo con un clic.
+119|Despierto
+120|Reposo normal
+121|Hasta que lo desactives
+122|Haz clic para mantenerlo despierto
+123|Evita que el Mac entre en reposo.
+124|Desactivado
+125|Mantén tu Mac despierto. Con un clic.
+126|Temporizadores, una función rápida global y cuenta atrás en directo, en la barra de menús.
+127|Tus agentes de IA siguen trabajando.
+128|Permanece despierto mientras Claude Code, Codex o Gemini trabajan y luego deja que el Mac descanse.
+129|Automático, cuando importa.
+130|Pantalla externa, corriente, Wi‑Fi, apps, videollamadas y horarios.
+131|Widgets, Centro de control e historial.
+132|Privado por diseño: todo se queda en tu Mac.
+133|Mantén mi Mac despierto con ${applicationName}
+134|Iniciar ${applicationName}
+135|Detener ${applicationName}
+136|Deja que mi Mac entre en reposo con ${applicationName}
+137|Wakeful usa tu ubicación solo para que macOS le permita leer el nombre de tu red Wi‑Fi en los activadores de Wi‑Fi. Tu ubicación nunca se guarda ni se comparte.

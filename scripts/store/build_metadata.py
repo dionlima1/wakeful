@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """Builds fastlane `deliver` metadata for every App Store Connect locale from store/metadata/<lang>.txt.
 
-Each source file has `key: value` header lines (name, subtitle, keywords, promo, iap), a `---` line,
+Each source file has `key: value` header lines (name, subtitle, keywords, promo), a `---` line,
 and then the full description. App Store limits are enforced before anything is written.
 
     python3 scripts/store/build_metadata.py            # all locales, fails on any problem
     python3 scripts/store/build_metadata.py --partial  # skip languages without a source file
 """
-import json
 import pathlib
 import sys
 
@@ -29,8 +28,8 @@ STORE_LOCALES = {
     "ro": "ro", "ru": "ru", "sk": "sk", "sv": "sv", "th": "th", "tr": "tr", "uk": "uk",
     "vi": "vi", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant",
 }
-LIMITS = {"name": 30, "subtitle": 30, "keywords": 100, "promo": 170, "iap": 45, "description": 4000}
-REQUIRED = ["name", "subtitle", "keywords", "promo", "iap"]
+LIMITS = {"name": 30, "subtitle": 30, "keywords": 100, "promo": 170, "description": 4000}
+REQUIRED = ["name", "subtitle", "keywords", "promo"]
 
 
 def parse(path):
@@ -82,7 +81,7 @@ def main():
         print("\n".join(problems), file=sys.stderr)
         sys.exit(1)
 
-    iap = {}
+    written = 0
     for locale, lang in STORE_LOCALES.items():
         if lang not in sources:
             continue
@@ -96,7 +95,7 @@ def main():
         write(folder / "support_url.txt", f"{SITE}/")
         write(folder / "marketing_url.txt", f"{SITE}/")
         write(folder / "privacy_url.txt", f"{SITE}/privacy.html")
-        iap[locale] = {"name": "Wakeful Pro", "description": fields["iap"]}
+        written += 1
 
     write(OUTPUT / "copyright.txt", COPYRIGHT)
     write(OUTPUT / "primary_category.txt", "UTILITIES")
@@ -110,8 +109,7 @@ def main():
     write(review / "demo_required.txt", "false")
     write(review / "notes.txt", (ROOT / "store" / "review-notes.txt").read_text(encoding="utf-8"))
 
-    write(ROOT / "store" / "iap-pro.json", json.dumps(iap, ensure_ascii=False, indent=2))
-    print(f"fastlane/metadata: {len(iap)} locales from {len(sources)} languages")
+    print(f"fastlane/metadata: {written} locales from {len(sources)} languages")
 
 
 if __name__ == "__main__":

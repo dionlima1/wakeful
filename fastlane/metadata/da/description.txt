@@ -7,7 +7,7 @@ BYGGET TIL AI-AGENTER OG LANGE OPGAVER
 • Holder Mac'en vågen, indtil en kommando, et script eller en app er færdig
 • Kommandolinjeværktøj og URL-skema til scripts, Raycast og Alfred
 
-GRATIS
+ALT ER INKLUDERET
 • Slå til og fra med ét klik på menulinjen
 • Timere fra 15 minutter til 8 timer eller en vilkårlig varighed
 • Live nedtælling på menulinjen
@@ -16,13 +16,12 @@ GRATIS
 • Batteribeskyttelse: stopper på batteri eller under et bestemt niveau
 • Genvejshandlinger, skrivebordswidget og betjeningsmulighed i Kontrolcenter (macOS 26)
 • Åbner ved log ind og giver besked, når en session slutter
-
-WAKEFUL PRO (ENGANGSKØB)
-• AI-agenttilstand
 • Automatiske udløsere: ekstern skærm, strømforsyning, Wi-Fi-netværk, apps, videoopkald og tidsplaner
 • Hold vågen, mens en proces eller app kører
 • Bliv ved med at arbejde med lukket låg, mens Mac'en er tilsluttet strøm
 • Historik over, hvor længe og hvorfor Mac'en var vågen
+
+Ét køb. Intet abonnement. Deles med familien.
 
 PRIVAT FRA BUNDEN
 Ingen konto, ingen reklamer, ingen sporing. Alt bliver på din Mac.

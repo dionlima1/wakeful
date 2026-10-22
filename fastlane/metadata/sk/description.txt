@@ -7,7 +7,7 @@ VYTVORENÉ PRE AI AGENTOV A DLHÉ ÚLOHY
 • Nenechá Mac zaspať, kým neskončí príkaz, skript alebo aplikácia
 • Nástroj príkazového riadka a URL schéma pre skripty, Raycast a Alfred
 
-ZADARMO
+VŠETKO V CENE
 • Zapnutie jedným kliknutím na lište
 • Časovače od 15 minút do 8 hodín alebo ľubovoľný čas
 • Živé odpočítavanie na lište
@@ -16,13 +16,12 @@ ZADARMO
 • Ochrana batérie: zastaví sa na batérii alebo pod určitou úrovňou nabitia
 • Akcie Skratiek, widget na plochu a ovládací prvok v Ovládacom centre (macOS 26)
 • Spustenie pri prihlásení a upozornenie na koniec relácie
-
-WAKEFUL PRO (JEDNORAZOVÝ NÁKUP)
-• Režim AI agenta
 • Automatické spúšťače: externý monitor, napájací adaptér, sieť Wi‑Fi, aplikácie, videohovory a plány
 • Nenechať zaspať, kým beží proces alebo aplikácia
 • Práca so zatvoreným vekom, keď je Mac pripojený k napájaniu
 • História toho, ako dlho a prečo bol Mac hore
+
+Jeden nákup. Žiadne predplatné. Zdieľané s rodinou.
 
 SÚKROMIE V ZÁKLADE
 Žiadny účet, žiadne reklamy, žiadne sledovanie. Všetko zostáva na vašom Macu.

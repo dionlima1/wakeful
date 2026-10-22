@@ -6,7 +6,6 @@ import UniformTypeIdentifiers
 struct AutomationSettings: View {
     @AppStorage(PrefKey.autoAgentMode) private var autoAgentMode = false
     @AppStorage(PrefKey.agentNames) private var agentNames = Preferences.defaultAgentNames
-    @State private var store = ProStore.shared
     @State private var triggers = TriggerStore.shared
     @State private var editor: TriggerEditor?
     @State private var pickingApp: AppTriggerKind?
@@ -23,61 +22,56 @@ struct AutomationSettings: View {
 
     var body: some View {
         Form {
-            if !store.isPro { UnlockBanner() }
-
-            Group {
-                Section {
-                    Toggle("Keep the Mac awake automatically while an AI agent runs", isOn: $autoAgentMode)
-                    TextField("Agent process names", text: $agentNames, prompt: Text(verbatim: Preferences.defaultAgentNames))
-                    HStack {
-                        Spacer()
-                        Button("Restore Defaults") { agentNames = Preferences.defaultAgentNames }
-                    }
-                } header: {
-                    Text("AI Agents")
-                } footer: {
-                    Text("Comma-separated process names. Wakeful checks every few seconds and lets the Mac sleep again once they all finish.")
+            Section {
+                Toggle("Keep the Mac awake automatically while an AI agent runs", isOn: $autoAgentMode)
+                TextField("Agent process names", text: $agentNames, prompt: Text(verbatim: Preferences.defaultAgentNames))
+                HStack {
+                    Spacer()
+                    Button("Restore Defaults") { agentNames = Preferences.defaultAgentNames }
                 }
-
-                Section {
-                    if triggers.triggers.isEmpty {
-                        Text("No triggers yet. Add one to keep the Mac awake automatically in certain situations.")
-                            .foregroundStyle(.secondary)
-                    }
-                    ForEach($triggers.triggers) { $trigger in
-                        HStack {
-                            Image(systemName: trigger.condition.symbol)
-                                .frame(width: 20)
-                                .foregroundStyle(.tint)
-                            Toggle(trigger.condition.title, isOn: $trigger.isEnabled)
-                            Button(role: .destructive) {
-                                triggers.triggers.removeAll { $0.id == trigger.id }
-                            } label: {
-                                Image(systemName: "minus.circle.fill")
-                            }
-                            .buttonStyle(.borderless)
-                            .accessibilityLabel("Remove trigger")
-                        }
-                    }
-                    addMenu
-                } header: {
-                    Text("Triggers")
-                } footer: {
-                    Text("While any enabled trigger is active, your Mac stays awake. A session you start by hand always takes precedence.")
-                }
-
-                Section("Terminal") {
-                    Text("Keep awake until a command finishes:")
-                    Text(verbatim: "open -g \"wakeful://watch?pid=$$\" && your-command")
-                        .font(.system(.callout, design: .monospaced))
-                        .textSelection(.enabled)
-                    Text("Or control Wakeful from scripts, Raycast or Alfred:")
-                    Text(verbatim: "wakeful://start?minutes=45 · wakeful://stop · wakeful://toggle")
-                        .font(.system(.callout, design: .monospaced))
-                        .textSelection(.enabled)
-                }
+            } header: {
+                Text("AI Agents")
+            } footer: {
+                Text("Comma-separated process names. Wakeful checks every few seconds and lets the Mac sleep again once they all finish.")
             }
-            .disabled(!store.isPro)
+
+            Section {
+                if triggers.triggers.isEmpty {
+                    Text("No triggers yet. Add one to keep the Mac awake automatically in certain situations.")
+                        .foregroundStyle(.secondary)
+                }
+                ForEach($triggers.triggers) { $trigger in
+                    HStack {
+                        Image(systemName: trigger.condition.symbol)
+                            .frame(width: 20)
+                            .foregroundStyle(.tint)
+                        Toggle(trigger.condition.title, isOn: $trigger.isEnabled)
+                        Button(role: .destructive) {
+                            triggers.triggers.removeAll { $0.id == trigger.id }
+                        } label: {
+                            Image(systemName: "minus.circle.fill")
+                        }
+                        .buttonStyle(.borderless)
+                        .accessibilityLabel("Remove trigger")
+                    }
+                }
+                addMenu
+            } header: {
+                Text("Triggers")
+            } footer: {
+                Text("While any enabled trigger is active, your Mac stays awake. A session you start by hand always takes precedence.")
+            }
+
+            Section("Terminal") {
+                Text("Keep awake until a command finishes:")
+                Text(verbatim: "open -g \"wakeful://watch?pid=$$\" && your-command")
+                    .font(.system(.callout, design: .monospaced))
+                    .textSelection(.enabled)
+                Text("Or control Wakeful from scripts, Raycast or Alfred:")
+                Text(verbatim: "wakeful://start?minutes=45 · wakeful://stop · wakeful://toggle")
+                    .font(.system(.callout, design: .monospaced))
+                    .textSelection(.enabled)
+            }
         }
         .formStyle(.grouped)
         .sheet(item: $editor) { editor in
@@ -130,26 +124,6 @@ struct AutomationSettings: View {
         guard !triggers.triggers.contains(where: { $0.condition == condition }) else { return }
         triggers.triggers.append(Trigger(condition: condition))
         SessionController.shared.checkAutomation()
-    }
-}
-
-struct UnlockBanner: View {
-    var body: some View {
-        Section {
-            HStack(spacing: 12) {
-                Image(systemName: "star.circle.fill")
-                    .font(.title)
-                    .foregroundStyle(.tint)
-                VStack(alignment: .leading) {
-                    Text("This is a Wakeful Pro feature").font(.headline)
-                    Text("Unlock automation, AI agent detection, history and more with a one-time purchase.")
-                        .foregroundStyle(.secondary)
-                }
-                Spacer()
-                Button("Unlock") { SettingsNavigation.shared.tab = .pro }
-                    .buttonStyle(.borderedProminent)
-            }
-        }
     }
 }
 

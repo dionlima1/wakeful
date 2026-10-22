@@ -2,7 +2,6 @@ name: Wakeful: Keep Mac Awake
 subtitle: Anti-Sleep Timer & AI Agents
 keywords: prevent sleep,insomnia,no sleep,screensaver,display,lid closed,battery,timer,menubar,ai agent,coding
 promo: Your AI agents and long builds finish instead of stalling when the Mac dozes off. One click, smart triggers, no subscription.
-iap: AI agents, triggers, lid closed and history
 ---
 Wakeful keeps your Mac awake exactly when you need it, and lets it sleep the rest of the time.
 
@@ -13,7 +12,7 @@ BUILT FOR AI AGENTS AND LONG TASKS
 • Keep awake until a command, script or app finishes
 • Command-line helper and URL scheme for scripts, Raycast and Alfred
 
-FREE
+EVERYTHING INCLUDED
 • One-click toggle from the menu bar
 • Timers from 15 minutes to 8 hours, or any custom duration
 • Live countdown in the menu bar
@@ -22,13 +21,12 @@ FREE
 • Battery protection: stop on battery or below a charge level
 • Shortcuts actions, a desktop widget and a Control Center control (macOS 26)
 • Launch at login and a notification when a session ends
-
-WAKEFUL PRO (ONE-TIME PURCHASE)
-• AI agent mode
 • Automatic triggers: external display, power adapter, Wi‑Fi network, apps, video calls and schedules
 • Keep awake while a process or app is running
 • Keep working with the lid closed while plugged in
 • History of how long, and why, your Mac stayed awake
+
+One purchase. No subscription. Shared with your family.
 
 PRIVATE BY DESIGN
 No account, no ads, no tracking. Everything stays on your Mac.

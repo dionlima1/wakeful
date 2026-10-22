@@ -7,7 +7,7 @@ STWORZONY DLA AGENTÓW AI I DŁUGICH ZADAŃ
 • Nie usypia do zakończenia polecenia, skryptu lub aplikacji
 • Narzędzie wiersza poleceń i schemat URL dla skryptów, Raycasta i Alfreda
 
-ZA DARMO
+WSZYSTKO W CENIE
 • Włączanie jednym kliknięciem na pasku menu
 • Minutniki od 15 minut do 8 godzin lub dowolny własny czas
 • Odliczanie na żywo na pasku menu
@@ -16,13 +16,12 @@ ZA DARMO
 • Ochrona baterii: zatrzymanie na baterii lub poniżej ustalonego poziomu
 • Czynności w Skrótach, widżet i element centrum sterowania (macOS 26)
 • Otwieranie po zalogowaniu i powiadomienie o końcu sesji
-
-WAKEFUL PRO (JEDNORAZOWY ZAKUP)
-• Tryb agenta AI
 • Automatyczne wyzwalacze: monitor zewnętrzny, zasilacz, sieć Wi‑Fi, aplikacje, wideorozmowy i harmonogramy
 • Nie usypiaj, dopóki działa proces lub aplikacja
 • Praca z zamkniętą pokrywą, gdy Mac jest podłączony do zasilania
 • Historia: jak długo i dlaczego Mac nie spał
+
+Jeden zakup. Bez subskrypcji. Udostępniany rodzinie.
 
 PRYWATNOŚĆ W STANDARDZIE
 Bez konta, reklam i śledzenia. Wszystko zostaje na Twoim Macu.

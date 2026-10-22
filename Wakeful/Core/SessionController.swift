@@ -12,13 +12,6 @@ enum SessionKind: Equatable {
     /// Started by triggers or by AI agent detection; ends when none of the reasons hold anymore.
     case automatic(reasons: [String])
 
-    var requiresPro: Bool {
-        switch self {
-        case .indefinite, .timed: false
-        case .process, .app, .automatic: true
-        }
-    }
-
     var historyLabel: String {
         switch self {
         case .indefinite: String(localized: "Manual")
@@ -96,7 +89,6 @@ final class SessionController {
 
     func start(_ newKind: SessionKind) {
         if case .timed(let until) = newKind, until <= .now { return }
-        if newKind.requiresPro, !ProStore.shared.require() { return }
         guard acquireAssertion() else { return }
 
         closeHistoryEntry()
@@ -152,7 +144,7 @@ final class SessionController {
     private func acquireAssertion() -> Bool {
         assertion.acquire(
             preventDisplaySleep: !Preferences.allowDisplaySleep,
-            preventLidSleep: Preferences.keepAwakeLidClosed && ProStore.shared.isPro,
+            preventLidSleep: Preferences.keepAwakeLidClosed,
             reason: "Wakeful keep-awake session"
         )
     }
@@ -190,17 +182,15 @@ final class SessionController {
     func checkAutomation() {
         var reasons: [String] = []
         var agentReason: String?
-        if ProStore.shared.isPro {
-            if Preferences.autoAgentMode {
-                let agents = ProcessList.agents(matching: Preferences.agentNames)
-                if !agents.isEmpty {
-                    let names = Set(agents.map(\.name)).sorted().formatted(.list(type: .and))
-                    agentReason = String(localized: "AI agent running (\(names))")
-                    reasons.append(agentReason!)
-                }
+        if Preferences.autoAgentMode {
+            let agents = ProcessList.agents(matching: Preferences.agentNames)
+            if !agents.isEmpty {
+                let names = Set(agents.map(\.name)).sorted().formatted(.list(type: .and))
+                agentReason = String(localized: "AI agent running (\(names))")
+                reasons.append(agentReason!)
             }
-            reasons += TriggerStore.shared.activeReasons()
         }
+        reasons += TriggerStore.shared.activeReasons()
 
         if reasons.isEmpty {
             automationSuppressed = false

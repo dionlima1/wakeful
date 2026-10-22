@@ -17,20 +17,18 @@ Build local assinado com o certificado Apple Development (sem perfil de provisio
 scripts/build-dev.sh
 ```
 
-Para testar a compra do Pro, rode pelo Xcode: o esquema já usa `StoreKit/Wakeful.storekit`.
-No Debug, `-debugUnlockPro YES` nos argumentos de lançamento libera o Pro sem comprar.
+Para compilar e abrir a versão de teste: `scripts/run-dev.sh`.
 
 ## Recursos
 
-**Grátis**
+App pago, compra única, sem compras dentro do app: tudo vem incluído.
+
 - Clique esquerdo liga/desliga, clique direito abre o menu (invertível)
 - Durações de 15 min a 8 h, personalizada, contagem regressiva na barra
 - Atalho global, abrir no login, notificação ao terminar, deixar só a tela apagar
 - Proteção de bateria (para na bateria ou abaixo de X%)
 - Atalhos (App Intents com frases em 34 idiomas), widget de mesa, controle na Central de Controle (macOS 26)
 - URL `wakeful://start?minutes=45`, `stop`, `toggle`, `settings?tab=automation`
-
-**Pro (compra única `com.dionlima.wakeful.pro`)**
 - Modo agente de IA: liga sozinho enquanto `claude`, `codex`, `gemini`, `aider`… rodam
 - Gatilhos: monitor externo, carregador, Wi‑Fi, app aberto, app em primeiro plano, câmera/microfone, agenda
 - Manter acordado enquanto um processo/app roda (`bin/wakeful run <comando>` ou `wakeful://watch?pid=`)
@@ -64,14 +62,12 @@ swift scripts/make-icon.swift Wakeful/Assets.xcassets/AppIcon.appiconset
 ```
 
 Fontes dos textos da loja: `store/metadata/<idioma>.txt`. Notas para o revisor da Apple: `store/review-notes.txt`.
-Nomes e descrições da compra Pro por local: `store/iap-pro.json`. Site e política de privacidade: `docs/` (GitHub Pages).
+Site e política de privacidade: `docs/`, publicados em https://dionlima1.github.io/wakeful/.
 
 ### Falta fazer (precisa da sua conta)
 - [ ] Criar o app no App Store Connect (bundle `com.dionlima.wakeful`, nome "Wakeful: Keep Mac Awake")
-- [ ] Criar a compra não consumível `com.dionlima.wakeful.pro`, com Compartilhamento Familiar
-- [ ] Definir o preço do app (grátis) e do Pro; disponibilidade em todos os países
+- [ ] Definir o preço (sugestão: US$ 2,99 / R$ 14,90), ativar Compartilhamento Familiar e disponibilizar em todos os países
 - [ ] Preencher telefone e e-mail em `fastlane/metadata/review_information/` e `SUPPORT_EMAIL` em `scripts/store/build_metadata.py`
-- [ ] Publicar o repositório no GitHub e ativar o Pages na pasta `docs/`
 - [ ] Responder o questionário de privacidade do App Store Connect: "Dados não coletados"
 - [ ] Archive no Xcode, enviar o build e rodar `fastlane deliver` com uma chave da API do App Store Connect
 - [ ] Testar fisicamente: tampa fechada na tomada, gatilho de câmera/microfone numa chamada, widget e controle da Central de Controle

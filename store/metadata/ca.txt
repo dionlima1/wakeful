@@ -2,7 +2,6 @@ name: Wakeful: Mac sempre despert
 subtitle: Antirepòs, temporitzador i IA
 keywords: repòs,dormir,insomni,pantalla,protector de pantalla,tapa tancada,bateria,temporitzador,cafeïna
 promo: Els teus agents d’IA i compilacions llargues acaben la feina en lloc d’aturar-se quan el Mac s’adorm. Un clic, activadors intel·ligents, sense subscripció.
-iap: Agents d’IA, activadors, tapa i historial
 ---
 El Wakeful manté el Mac despert just quan ho necessites i el deixa en repòs la resta del temps.
 
@@ -13,7 +12,7 @@ FET PER A AGENTS D’IA I TASQUES LLARGUES
 • Manté el Mac despert fins que acaba una ordre, un script o una app
 • Eina de línia d’ordres i esquema d’URL per a scripts, Raycast i Alfred
 
-GRATUÏT
+TOT INCLÒS
 • Activació amb un clic des de la barra de menús
 • Temporitzadors de 15 minuts a 8 hores, o qualsevol durada
 • Compte enrere en directe a la barra de menús
@@ -22,13 +21,12 @@ GRATUÏT
 • Protecció de la bateria: s’atura amb bateria o per sota d’un nivell de càrrega
 • Accions de Dreceres, giny d’escriptori i control al centre de control (macOS 26)
 • S’obre en iniciar la sessió i avisa quan acaba una sessió
-
-WAKEFUL PRO (COMPRA ÚNICA)
-• Mode d’agent d’IA
 • Activadors automàtics: pantalla externa, adaptador de corrent, xarxa Wi‑Fi, apps, videotrucades i horaris
 • Mantén despert mentre s’executa un procés o una app
 • Continua treballant amb la tapa tancada mentre estigui endollat
 • Historial de quant de temps, i per què, el Mac ha estat despert
+
+Una sola compra. Sense subscripció. Compartida amb la família.
 
 PRIVAT PER DISSENY
 Sense compte, sense anuncis, sense seguiment. Tot es queda al teu Mac.

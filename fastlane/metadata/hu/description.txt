@@ -7,7 +7,7 @@ MI-ÜGYNÖKÖKHÖZ ÉS HOSSZÚ FELADATOKHOZ
 • Ébren tartja a Macet, amíg egy parancs, szkript vagy app be nem fejeződik
 • Parancssori eszköz és URL-séma szkriptekhez, a Raycasthez és az Alfredhez
 
-INGYENES
+MINDEN BENNE VAN
 • Be- és kikapcsolás egy kattintással a menüsorból
 • Időzítők 15 perctől 8 óráig, vagy bármilyen időtartam
 • Élő visszaszámlálás a menüsorban
@@ -16,13 +16,12 @@ INGYENES
 • Akkumulátorvédelem: akkumulátoron vagy adott töltöttség alatt leáll
 • Parancsok-műveletek, asztali widget és vezérlő a Vezérlőközpontban (macOS 26)
 • Bejelentkezéskor megnyílik, és értesít a munkamenet végén
-
-WAKEFUL PRO (EGYSZERI VÁSÁRLÁS)
-• MI-ügynök mód
 • Automatikus eseményindítók: külső kijelző, hálózati adapter, Wi‑Fi-hálózat, appok, videohívások és ütemezések
 • Ébren tartás, amíg egy folyamat vagy app fut
 • Munka lecsukott fedéllel, amíg a Mac áramra van kötve
 • Előzmények arról, mennyi ideig és miért volt ébren a Mac
+
+Egyszeri vásárlás. Nincs előfizetés. Megosztható a családdal.
 
 ADATVÉDELEM ALAPBÓL
 Nincs fiók, nincs reklám, nincs követés. Minden a Macen marad.

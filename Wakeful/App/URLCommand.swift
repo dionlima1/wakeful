@@ -31,7 +31,7 @@ enum URLCommand {
             session.start(.process(pid: pid, name: name))
         case "settings":
             let tabs: [String: SettingsTab] = [
-                "general": .general, "automation": .automation, "power": .power, "history": .history, "pro": .pro,
+                "general": .general, "automation": .automation, "power": .power, "history": .history,
             ]
             openSettings?(value("tab").flatMap { tabs[$0] } ?? .general)
         default:

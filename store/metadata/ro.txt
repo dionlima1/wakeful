@@ -2,7 +2,6 @@ name: Wakeful: Mac mereu treaz
 subtitle: Anti-repaus, temporizator, AI
 keywords: repaus,somn,insomnie,ecran,screensaver,capac închis,baterie,temporizator,bara de meniu,cofeină,cod
 promo: Agenții AI și compilările lungi ajung la final în loc să se oprească atunci când Mac‑ul ațipește. Un clic, declanșatori inteligenți, fără abonament.
-iap: Agenți AI, declanșatori, capac, istoric
 ---
 Wakeful menține Mac‑ul treaz exact când aveți nevoie și îl lasă în repaus în restul timpului.
 
@@ -13,7 +12,7 @@ CREAT PENTRU AGENȚI AI ȘI SARCINI LUNGI
 • Menține Mac‑ul treaz până se termină o comandă, un script sau o aplicație
 • Instrument de linie de comandă și schemă URL pentru scripturi, Raycast și Alfred
 
-GRATUIT
+TOTUL INCLUS
 • Activare cu un clic din bara de meniu
 • Temporizatoare de la 15 minute la 8 ore sau orice durată
 • Numărătoare inversă live în bara de meniu
@@ -22,13 +21,12 @@ GRATUIT
 • Protecția bateriei: se oprește pe baterie sau sub un anumit nivel de încărcare
 • Acțiuni pentru Scurtături, widget de birou și control în Centrul de control (macOS 26)
 • Se deschide la autentificare și anunță când se termină o sesiune
-
-WAKEFUL PRO (ACHIZIȚIE UNICĂ)
-• Mod agent AI
 • Declanșatori automați: monitor extern, adaptor de alimentare, rețea Wi‑Fi, aplicații, apeluri video și programe
 • Mențineți treaz cât timp rulează un proces sau o aplicație
 • Continuați să lucrați cu capacul închis cât timp Mac‑ul este la priză
 • Istoric cu cât timp și de ce a stat Mac‑ul treaz
+
+O singură achiziție. Fără abonament. Partajată cu familia.
 
 CONFIDENȚIAL PRIN CONCEPȚIE
 Fără cont, fără reclame, fără urmărire. Totul rămâne pe Mac‑ul dvs.

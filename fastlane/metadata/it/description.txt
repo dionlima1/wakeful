@@ -7,7 +7,7 @@ PENSATO PER AGENTI IA E LAVORI LUNGHI
 • Mantiene sveglio il Mac finché un comando, uno script o un’app non termina
 • Strumento da riga di comando e schema URL per script, Raycast e Alfred
 
-GRATIS
+TUTTO INCLUSO
 • Attivazione con un clic dalla barra dei menu
 • Timer da 15 minuti a 8 ore, o qualsiasi durata personalizzata
 • Conto alla rovescia in tempo reale nella barra dei menu
@@ -16,13 +16,12 @@ GRATIS
 • Protezione della batteria: si ferma a batteria o sotto un livello di carica
 • Azioni di Comandi Rapidi, widget e controllo nel Centro di Controllo (macOS 26)
 • Si apre al login e avvisa al termine di una sessione
-
-WAKEFUL PRO (ACQUISTO UNICO)
-• Modalità agente IA
 • Attivatori automatici: monitor esterno, alimentatore, rete Wi‑Fi, app, videochiamate e orari
 • Mantieni sveglio mentre è in esecuzione un processo o un’app
 • Continua a lavorare con il coperchio chiuso mentre è collegato alla corrente
 • Cronologia di quanto, e perché, il Mac è rimasto sveglio
+
+Un solo acquisto. Nessun abbonamento. Condiviso con la tua famiglia.
 
 PRIVATO PER NATURA
 Nessun account, nessuna pubblicità, nessun tracciamento. Tutto resta sul tuo Mac.

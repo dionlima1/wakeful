@@ -20,143 +20,118 @@
 20|App berada di depan
 21|Pilih App…
 22|Tambahkan Pemicu
-23|Buka Kunci
-24|Ini adalah fitur Wakeful Pro
-25|Buka otomatisasi, deteksi agen AI, riwayat, dan lainnya dengan satu kali pembelian.
-26|Jaga tetap terjaga di jaringan Wi‑Fi
-27|Nama jaringan
-28|macOS memerlukan akses Lokasi untuk membaca nama Wi‑Fi.
-29|Gunakan Jaringan Saat Ini
-30|Batalkan
-31|Tambahkan
-32|Jaga tetap terjaga sesuai jadwal
-33|Dari
-34|Sampai
-35|Hapus semua riwayat?
-36|Sesi Terbaru
-37|Jam
-38|Waktu terjaga per hari selama 7 hari terakhir
-39|Hari Ini
-40|7 hari terakhir
-41|Sesi
-42|Hari
-43|Belum ada sesi yang tercatat.
-44|Catat riwayat di Mac ini
-45|Hapus Riwayat…
-46|Riwayat hanya disimpan di Mac ini dan tidak pernah dikirim ke mana pun.
-47|Hapus Riwayat
-48|Jaga Mac Tetap Terjaga
-49|Mencegah Mac tidur, secara opsional selama beberapa menit.
-50|Menit
-51|Kosongkan untuk menjaga tetap terjaga tanpa batas waktu.
-52|Biarkan Mac Tidur
-53|Nyalakan/Matikan Jaga Terjaga
-54|Apakah Mac Dijaga Tetap Terjaga?
-55|Jaga Terjaga
-56|App Store sedang tidak tersedia.
-57|Mode agen AI
-58|Tetap terjaga saat Claude Code, Codex, Gemini, atau agen apa pun yang Anda tambahkan sedang bekerja.
-59|Pemicu otomatis
-60|Layar eksternal, adaptor daya, Wi‑Fi, app, panggilan video, dan jadwal.
-61|Proses dan app
-62|Tetap terjaga sampai perintah, skrip, atau app selesai.
-63|Penutup tertutup
-64|Terus bekerja dengan penutup tertutup selama tersambung ke listrik.
-65|Riwayat
-66|Lihat berapa lama Mac Anda terjaga, dan alasannya.
-67|Wakeful Pro sudah terbuka
-68|Wakeful Pro
-69|Terima kasih telah mendukung pengembang independen!
-70|Satu kali beli. Tanpa langganan. Dibagikan dengan keluarga Anda.
-71|Pembelian Anda menunggu persetujuan.
-72|Pulihkan Pembelian
-73|Buka Pro
-74|Buka seharga %@
-75|Manual
-76|Timer
-77|Otomatis
-78|Timer selesai. Mac Anda boleh tidur lagi.
-79|%@ selesai. Mac Anda boleh tidur lagi.
-80|%@ ditutup. Mac Anda boleh tidur lagi.
-81|Semua agen AI selesai. Mac Anda boleh tidur lagi.
-82|Dihentikan karena Mac menggunakan baterai.
-83|Dihentikan karena baterai berada di %lld%%.
-84|Agen AI berjalan (%@)
-85|Mati — Mac Anda tidur seperti biasa
-86|Terjaga tanpa batas waktu
-87|Terjaga selama %@ lagi
-88|Terjaga selama %@ berjalan
-89|Terjaga selama %@ terbuka
-90|Terjaga otomatis: %@
-91|Umum
-92|Otomatisasi
-93|Daya
-94|Pro
-95|Buka saat login
-96|Aktifkan saat Wakeful dibuka
-97|Klik kiri pada ikon bar menu
-98|Durasi default
-99|Pintasan untuk menyalakan/mematikan
-100|Menyalakan/mematikan jaga terjaga
-101|Membuka menu
-102|Tanpa batas waktu
-103|Izinkan layar tidur (hanya jaga sistem tetap terjaga)
-104|Tampilkan hitung mundur di bar menu
-105|Beri tahu saat sesi berakhir
-106|Baterai
-107|Hentikan saat Mac beralih ke baterai
-108|Hentikan saat baterai turun ke
-109|Tidak Pernah
-110|Jaga tetap terjaga dengan penutup tertutup
-111|macOS hanya mengizinkan ini saat Mac tersambung ke daya. Saat menggunakan baterai, menutup penutup tetap membuat Mac tidur.
-112|PRO
-113|Memerlukan Wakeful Pro
-114|Matikan
-115|Jaga Terjaga Tanpa Batas Waktu
-116|Khusus…
-117|Jaga Terjaga Selama
-118|Saat Agen AI Berjalan
-119|Saat App Terbuka
-120|Izinkan Layar Tidur
-121|Jaga Terjaga dengan Penutup Tertutup
-122|Aktifkan Otomatis Saat Agen AI Berjalan
-123|Pemicu Otomatis…
-124|Buka Wakeful Pro…
-125|Pengaturan…
-126|Keluar dari Wakeful
-127|Tidak ada agen AI yang berjalan
-128|Edit Daftar Agen…
-129|Berapa lama tetap terjaga?
-130|Masukkan durasi dalam menit.
-131|Mulai
-132|Layar eksternal tersambung
-133|Adaptor daya tersambung
-134|Tersambung ke Wi‑Fi “%@”
-135|%@ terbuka
-136|%@ berada di depan
-137|Kamera atau mikrofon sedang digunakan
-138|%@, %@–%@
-139|Setiap hari
-140|Hari kerja
-141|Akhir pekan
-142|Wakeful
-143|Lihat apakah Mac Anda dijaga tetap terjaga dan ubah dengan satu klik.
-144|Terjaga
-145|Tidur seperti biasa
-146|Sampai Anda mematikannya
-147|Klik untuk menjaga tetap terjaga
-148|Mencegah Mac tidur.
-149|Mati
-150|Jaga Mac Anda tetap terjaga. Dengan satu klik.
-151|Timer, pintasan global, dan hitung mundur langsung, tepat di bar menu.
-152|Agen AI Anda terus bekerja.
-153|Tetap terjaga saat Claude Code, Codex, atau Gemini berjalan, lalu membiarkan Mac Anda tidur.
-154|Otomatis, saat dibutuhkan.
-155|Layar eksternal, daya, Wi‑Fi, app, panggilan video, dan jadwal.
-156|Widget, Pusat Kontrol, dan riwayat.
-157|Privat sejak awal: semuanya tetap di Mac Anda.
-158|Jaga Mac saya tetap terjaga dengan ${applicationName}
-159|Mulai ${applicationName}
-160|Hentikan ${applicationName}
-161|Biarkan Mac saya tidur dengan ${applicationName}
-162|Wakeful menggunakan lokasi Anda hanya agar macOS mengizinkannya membaca nama jaringan Wi‑Fi Anda untuk pemicu Wi‑Fi. Lokasi Anda tidak pernah disimpan atau dibagikan.
+23|Jaga tetap terjaga di jaringan Wi‑Fi
+24|Nama jaringan
+25|macOS memerlukan akses Lokasi untuk membaca nama Wi‑Fi.
+26|Gunakan Jaringan Saat Ini
+27|Batalkan
+28|Tambahkan
+29|Jaga tetap terjaga sesuai jadwal
+30|Dari
+31|Sampai
+32|Hapus semua riwayat?
+33|Sesi Terbaru
+34|Jam
+35|Waktu terjaga per hari selama 7 hari terakhir
+36|Hari Ini
+37|7 hari terakhir
+38|Sesi
+39|Hari
+40|Belum ada sesi yang tercatat.
+41|Catat riwayat di Mac ini
+42|Hapus Riwayat…
+43|Riwayat hanya disimpan di Mac ini dan tidak pernah dikirim ke mana pun.
+44|Hapus Riwayat
+45|Jaga Mac Tetap Terjaga
+46|Mencegah Mac tidur, secara opsional selama beberapa menit.
+47|Menit
+48|Kosongkan untuk menjaga tetap terjaga tanpa batas waktu.
+49|Biarkan Mac Tidur
+50|Nyalakan/Matikan Jaga Terjaga
+51|Apakah Mac Dijaga Tetap Terjaga?
+52|Jaga Terjaga
+53|Riwayat
+54|Manual
+55|Timer
+56|Otomatis
+57|Timer selesai. Mac Anda boleh tidur lagi.
+58|%@ selesai. Mac Anda boleh tidur lagi.
+59|%@ ditutup. Mac Anda boleh tidur lagi.
+60|Semua agen AI selesai. Mac Anda boleh tidur lagi.
+61|Dihentikan karena Mac menggunakan baterai.
+62|Dihentikan karena baterai berada di %lld%%.
+63|Agen AI berjalan (%@)
+64|Mati — Mac Anda tidur seperti biasa
+65|Terjaga tanpa batas waktu
+66|Terjaga selama %@ lagi
+67|Terjaga selama %@ berjalan
+68|Terjaga selama %@ terbuka
+69|Terjaga otomatis: %@
+70|Umum
+71|Otomatisasi
+72|Daya
+73|Buka saat login
+74|Aktifkan saat Wakeful dibuka
+75|Klik kiri pada ikon bar menu
+76|Durasi default
+77|Pintasan untuk menyalakan/mematikan
+78|Menyalakan/mematikan jaga terjaga
+79|Membuka menu
+80|Tanpa batas waktu
+81|Izinkan layar tidur (hanya jaga sistem tetap terjaga)
+82|Tampilkan hitung mundur di bar menu
+83|Beri tahu saat sesi berakhir
+84|Baterai
+85|Hentikan saat Mac beralih ke baterai
+86|Hentikan saat baterai turun ke
+87|Tidak Pernah
+88|Jaga tetap terjaga dengan penutup tertutup
+89|macOS hanya mengizinkan ini saat Mac tersambung ke daya. Saat menggunakan baterai, menutup penutup tetap membuat Mac tidur.
+90|Matikan
+91|Jaga Terjaga Tanpa Batas Waktu
+92|Khusus…
+93|Jaga Terjaga Selama
+94|Saat Agen AI Berjalan
+95|Saat App Terbuka
+96|Izinkan Layar Tidur
+97|Jaga Terjaga dengan Penutup Tertutup
+98|Aktifkan Otomatis Saat Agen AI Berjalan
+99|Pemicu Otomatis…
+100|Pengaturan…
+101|Keluar dari Wakeful
+102|Tidak ada agen AI yang berjalan
+103|Edit Daftar Agen…
+104|Berapa lama tetap terjaga?
+105|Masukkan durasi dalam menit.
+106|Mulai
+107|Layar eksternal tersambung
+108|Adaptor daya tersambung
+109|Tersambung ke Wi‑Fi “%@”
+110|%@ terbuka
+111|%@ berada di depan
+112|Kamera atau mikrofon sedang digunakan
+113|%@, %@–%@
+114|Setiap hari
+115|Hari kerja
+116|Akhir pekan
+117|Wakeful
+118|Lihat apakah Mac Anda dijaga tetap terjaga dan ubah dengan satu klik.
+119|Terjaga
+120|Tidur seperti biasa
+121|Sampai Anda mematikannya
+122|Klik untuk menjaga tetap terjaga
+123|Mencegah Mac tidur.
+124|Mati
+125|Jaga Mac Anda tetap terjaga. Dengan satu klik.
+126|Timer, pintasan global, dan hitung mundur langsung, tepat di bar menu.
+127|Agen AI Anda terus bekerja.
+128|Tetap terjaga saat Claude Code, Codex, atau Gemini berjalan, lalu membiarkan Mac Anda tidur.
+129|Otomatis, saat dibutuhkan.
+130|Layar eksternal, daya, Wi‑Fi, app, panggilan video, dan jadwal.
+131|Widget, Pusat Kontrol, dan riwayat.
+132|Privat sejak awal: semuanya tetap di Mac Anda.
+133|Jaga Mac saya tetap terjaga dengan ${applicationName}
+134|Mulai ${applicationName}
+135|Hentikan ${applicationName}
+136|Biarkan Mac saya tidur dengan ${applicationName}
+137|Wakeful menggunakan lokasi Anda hanya agar macOS mengizinkannya membaca nama jaringan Wi‑Fi Anda untuk pemicu Wi‑Fi. Lokasi Anda tidak pernah disimpan atau dibagikan.

@@ -20,143 +20,118 @@
 20|L’app è in primo piano
 21|Scegli app…
 22|Aggiungi attivatore
-23|Sblocca
-24|Questa è una funzionalità di Wakeful Pro
-25|Sblocca automazione, rilevamento degli agenti IA, cronologia e altro con un unico acquisto.
-26|Mantieni sveglio su una rete Wi‑Fi
-27|Nome della rete
-28|macOS richiede l’accesso alla posizione per leggere il nome della rete Wi‑Fi.
-29|Usa la rete attuale
-30|Annulla
-31|Aggiungi
-32|Mantieni sveglio secondo un orario
-33|Dalle
-34|Alle
-35|Cancellare tutta la cronologia?
-36|Sessioni recenti
-37|Ore
-38|Tempo da sveglio al giorno negli ultimi 7 giorni
-39|Oggi
-40|Ultimi 7 giorni
-41|Sessioni
-42|Giorno
-43|Ancora nessuna sessione registrata.
-44|Registra la cronologia su questo Mac
-45|Cancella cronologia…
-46|La cronologia resta solo su questo Mac e non viene mai inviata altrove.
-47|Cancella cronologia
-48|Mantieni il Mac sveglio
-49|Impedisce lo stop del Mac, facoltativamente per un certo numero di minuti.
-50|Minuti
-51|Lascia vuoto per mantenerlo sveglio a tempo indeterminato.
-52|Lascia andare il Mac in stop
-53|Attiva o disattiva Mantieni sveglio
-54|Il Mac viene mantenuto sveglio?
-55|Mantieni sveglio
-56|L’App Store non è disponibile in questo momento.
-57|Modalità agente IA
-58|Resta sveglio mentre lavorano Claude Code, Codex, Gemini o qualsiasi agente aggiunto da te.
-59|Attivatori automatici
-60|Monitor esterno, alimentatore, Wi‑Fi, app, videochiamate e orari.
-61|Processi e app
-62|Resta sveglio finché un comando, uno script o un’app non termina.
-63|Coperchio chiuso
-64|Continua a lavorare con il coperchio chiuso mentre è collegato alla corrente.
-65|Cronologia
-66|Scopri per quanto tempo il Mac è rimasto sveglio e perché.
-67|Wakeful Pro è sbloccato
-68|Wakeful Pro
-69|Grazie per sostenere uno sviluppatore indipendente!
-70|Un solo acquisto. Nessun abbonamento. Condiviso con la tua famiglia.
-71|Il tuo acquisto è in attesa di approvazione.
-72|Ripristina acquisti
-73|Sblocca Pro
-74|Sblocca a %@
-75|Manuale
-76|Timer
-77|Automatico
-78|Il timer è terminato. Il Mac può tornare in stop.
-79|%@ ha terminato. Il Mac può tornare in stop.
-80|%@ è stata chiusa. Il Mac può tornare in stop.
-81|Tutti gli agenti IA hanno terminato. Il Mac può tornare in stop.
-82|Interrotto perché il Mac è alimentato a batteria.
-83|Interrotto perché la batteria è al %lld%%.
-84|Agente IA in esecuzione (%@)
-85|Disattivato: il Mac va in stop normalmente
-86|Sveglio a tempo indeterminato
-87|Sveglio per altri %@
-88|Sveglio mentre %@ è in esecuzione
-89|Sveglio finché %@ è aperta
-90|Sveglio automaticamente: %@
-91|Generali
-92|Automazione
-93|Alimentazione
-94|Pro
-95|Apri al login
-96|Attiva all’avvio di Wakeful
-97|Clic sinistro sull’icona nella barra dei menu
-98|Durata predefinita
-99|Abbreviazione per attivare/disattivare
-100|Attiva o disattiva
-101|Apre il menu
-102|A tempo indeterminato
-103|Consenti lo stop dello schermo (mantieni sveglio solo il sistema)
-104|Mostra il conto alla rovescia nella barra dei menu
-105|Avvisa al termine di una sessione
-106|Batteria
-107|Interrompi quando il Mac passa alla batteria
-108|Interrompi quando la batteria scende al
-109|Mai
-110|Mantieni sveglio con il coperchio chiuso
-111|macOS lo consente solo mentre il Mac è collegato alla corrente. A batteria, chiudendo il coperchio il Mac va comunque in stop.
-112|PRO
-113|Richiede Wakeful Pro
-114|Disattiva
-115|Mantieni sveglio a tempo indeterminato
-116|Personalizzato…
-117|Mantieni sveglio per
-118|Mentre lavora un agente IA
-119|Finché un’app è aperta
-120|Consenti lo stop dello schermo
-121|Mantieni sveglio con il coperchio chiuso
-122|Attiva automaticamente con gli agenti IA
-123|Attivatori automatici…
-124|Sblocca Wakeful Pro…
-125|Impostazioni…
-126|Esci da Wakeful
-127|Nessun agente IA in esecuzione
-128|Modifica elenco agenti…
-129|Per quanto tempo mantenerlo sveglio?
-130|Inserisci una durata in minuti.
-131|Avvia
-132|È collegato un monitor esterno
-133|L’alimentatore è collegato
-134|Connesso alla rete Wi‑Fi “%@”
-135|%@ è aperta
-136|%@ è in primo piano
-137|La videocamera o il microfono sono in uso
-138|%@, %@–%@
-139|Ogni giorno
-140|Giorni feriali
-141|Fine settimana
-142|Wakeful
-143|Scopri se il Mac viene mantenuto sveglio e cambialo con un clic.
-144|Sveglio
-145|Stop normale
-146|Finché non lo disattivi
-147|Fai clic per mantenerlo sveglio
-148|Impedisce lo stop del Mac.
-149|Disattivato
-150|Mantieni sveglio il tuo Mac. Con un clic.
-151|Timer, abbreviazione globale e conto alla rovescia in tempo reale, nella barra dei menu.
-152|I tuoi agenti IA continuano a lavorare.
-153|Resta sveglio mentre lavorano Claude Code, Codex o Gemini, poi lascia riposare il Mac.
-154|Automatico, quando serve.
-155|Monitor esterno, alimentazione, Wi‑Fi, app, videochiamate e orari.
-156|Widget, Centro di Controllo e cronologia.
-157|Privato per natura: tutto resta sul tuo Mac.
-158|Mantieni sveglio il mio Mac con ${applicationName}
-159|Avvia ${applicationName}
-160|Ferma ${applicationName}
-161|Lascia andare in stop il mio Mac con ${applicationName}
-162|Wakeful usa la tua posizione solo perché macOS gli consenta di leggere il nome della rete Wi‑Fi per gli attivatori Wi‑Fi. La tua posizione non viene mai salvata né condivisa.
+23|Mantieni sveglio su una rete Wi‑Fi
+24|Nome della rete
+25|macOS richiede l’accesso alla posizione per leggere il nome della rete Wi‑Fi.
+26|Usa la rete attuale
+27|Annulla
+28|Aggiungi
+29|Mantieni sveglio secondo un orario
+30|Dalle
+31|Alle
+32|Cancellare tutta la cronologia?
+33|Sessioni recenti
+34|Ore
+35|Tempo da sveglio al giorno negli ultimi 7 giorni
+36|Oggi
+37|Ultimi 7 giorni
+38|Sessioni
+39|Giorno
+40|Ancora nessuna sessione registrata.
+41|Registra la cronologia su questo Mac
+42|Cancella cronologia…
+43|La cronologia resta solo su questo Mac e non viene mai inviata altrove.
+44|Cancella cronologia
+45|Mantieni il Mac sveglio
+46|Impedisce lo stop del Mac, facoltativamente per un certo numero di minuti.
+47|Minuti
+48|Lascia vuoto per mantenerlo sveglio a tempo indeterminato.
+49|Lascia andare il Mac in stop
+50|Attiva o disattiva Mantieni sveglio
+51|Il Mac viene mantenuto sveglio?
+52|Mantieni sveglio
+53|Cronologia
+54|Manuale
+55|Timer
+56|Automatico
+57|Il timer è terminato. Il Mac può tornare in stop.
+58|%@ ha terminato. Il Mac può tornare in stop.
+59|%@ è stata chiusa. Il Mac può tornare in stop.
+60|Tutti gli agenti IA hanno terminato. Il Mac può tornare in stop.
+61|Interrotto perché il Mac è alimentato a batteria.
+62|Interrotto perché la batteria è al %lld%%.
+63|Agente IA in esecuzione (%@)
+64|Disattivato: il Mac va in stop normalmente
+65|Sveglio a tempo indeterminato
+66|Sveglio per altri %@
+67|Sveglio mentre %@ è in esecuzione
+68|Sveglio finché %@ è aperta
+69|Sveglio automaticamente: %@
+70|Generali
+71|Automazione
+72|Alimentazione
+73|Apri al login
+74|Attiva all’avvio di Wakeful
+75|Clic sinistro sull’icona nella barra dei menu
+76|Durata predefinita
+77|Abbreviazione per attivare/disattivare
+78|Attiva o disattiva
+79|Apre il menu
+80|A tempo indeterminato
+81|Consenti lo stop dello schermo (mantieni sveglio solo il sistema)
+82|Mostra il conto alla rovescia nella barra dei menu
+83|Avvisa al termine di una sessione
+84|Batteria
+85|Interrompi quando il Mac passa alla batteria
+86|Interrompi quando la batteria scende al
+87|Mai
+88|Mantieni sveglio con il coperchio chiuso
+89|macOS lo consente solo mentre il Mac è collegato alla corrente. A batteria, chiudendo il coperchio il Mac va comunque in stop.
+90|Disattiva
+91|Mantieni sveglio a tempo indeterminato
+92|Personalizzato…
+93|Mantieni sveglio per
+94|Mentre lavora un agente IA
+95|Finché un’app è aperta
+96|Consenti lo stop dello schermo
+97|Mantieni sveglio con il coperchio chiuso
+98|Attiva automaticamente con gli agenti IA
+99|Attivatori automatici…
+100|Impostazioni…
+101|Esci da Wakeful
+102|Nessun agente IA in esecuzione
+103|Modifica elenco agenti…
+104|Per quanto tempo mantenerlo sveglio?
+105|Inserisci una durata in minuti.
+106|Avvia
+107|È collegato un monitor esterno
+108|L’alimentatore è collegato
+109|Connesso alla rete Wi‑Fi “%@”
+110|%@ è aperta
+111|%@ è in primo piano
+112|La videocamera o il microfono sono in uso
+113|%@, %@–%@
+114|Ogni giorno
+115|Giorni feriali
+116|Fine settimana
+117|Wakeful
+118|Scopri se il Mac viene mantenuto sveglio e cambialo con un clic.
+119|Sveglio
+120|Stop normale
+121|Finché non lo disattivi
+122|Fai clic per mantenerlo sveglio
+123|Impedisce lo stop del Mac.
+124|Disattivato
+125|Mantieni sveglio il tuo Mac. Con un clic.
+126|Timer, abbreviazione globale e conto alla rovescia in tempo reale, nella barra dei menu.
+127|I tuoi agenti IA continuano a lavorare.
+128|Resta sveglio mentre lavorano Claude Code, Codex o Gemini, poi lascia riposare il Mac.
+129|Automatico, quando serve.
+130|Monitor esterno, alimentazione, Wi‑Fi, app, videochiamate e orari.
+131|Widget, Centro di Controllo e cronologia.
+132|Privato per natura: tutto resta sul tuo Mac.
+133|Mantieni sveglio il mio Mac con ${applicationName}
+134|Avvia ${applicationName}
+135|Ferma ${applicationName}
+136|Lascia andare in stop il mio Mac con ${applicationName}
+137|Wakeful usa la tua posizione solo perché macOS gli consenta di leggere il nome della rete Wi‑Fi per gli attivatori Wi‑Fi. La tua posizione non viene mai salvata né condivisa.

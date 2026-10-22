@@ -7,7 +7,7 @@ FET PER A AGENTS D’IA I TASQUES LLARGUES
 • Manté el Mac despert fins que acaba una ordre, un script o una app
 • Eina de línia d’ordres i esquema d’URL per a scripts, Raycast i Alfred
 
-GRATUÏT
+TOT INCLÒS
 • Activació amb un clic des de la barra de menús
 • Temporitzadors de 15 minuts a 8 hores, o qualsevol durada
 • Compte enrere en directe a la barra de menús
@@ -16,13 +16,12 @@ GRATUÏT
 • Protecció de la bateria: s’atura amb bateria o per sota d’un nivell de càrrega
 • Accions de Dreceres, giny d’escriptori i control al centre de control (macOS 26)
 • S’obre en iniciar la sessió i avisa quan acaba una sessió
-
-WAKEFUL PRO (COMPRA ÚNICA)
-• Mode d’agent d’IA
 • Activadors automàtics: pantalla externa, adaptador de corrent, xarxa Wi‑Fi, apps, videotrucades i horaris
 • Mantén despert mentre s’executa un procés o una app
 • Continua treballant amb la tapa tancada mentre estigui endollat
 • Historial de quant de temps, i per què, el Mac ha estat despert
+
+Una sola compra. Sense subscripció. Compartida amb la família.
 
 PRIVAT PER DISSENY
 Sense compte, sense anuncis, sense seguiment. Tot es queda al teu Mac.

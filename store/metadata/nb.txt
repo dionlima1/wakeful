@@ -2,7 +2,6 @@ name: Wakeful: Hold Macen våken
 subtitle: Anti-dvale, tidtaker og KI
 keywords: dvale,søvn,skjermsparer,skjerm,lukket lokk,batteri,tidtaker,menylinje,koffein,koding,søvnløs
 promo: KI-agentene og de lange byggene dine blir ferdige i stedet for å stoppe når Macen sovner. Ett klikk, smarte utløsere, ingen abonnement.
-iap: KI-agenter, utløsere, lukket lokk, logg
 ---
 Wakeful holder Macen våken akkurat når du trenger det, og lar den gå i dvale resten av tiden.
 
@@ -13,7 +12,7 @@ LAGET FOR KI-AGENTER OG LANGE OPPGAVER
 • Holder Macen våken til en kommando, et skript eller en app er ferdig
 • Kommandolinjeverktøy og URL-skjema for skript, Raycast og Alfred
 
-GRATIS
+ALT ER INKLUDERT
 • Slå av og på med ett klikk i menylinjen
 • Tidtakere fra 15 minutter til 8 timer, eller valgfri varighet
 • Direkte nedtelling i menylinjen
@@ -22,13 +21,12 @@ GRATIS
 • Batteribeskyttelse: stopper på batteri eller under et bestemt nivå
 • Snarveier-handlinger, skrivebordswidget og kontroll i Kontrollsenter (macOS 26)
 • Åpnes ved pålogging og varsler når en økt slutter
-
-WAKEFUL PRO (ENGANGSKJØP)
-• KI-agentmodus
 • Automatiske utløsere: ekstern skjerm, strømadapter, Wi-Fi-nettverk, apper, videosamtaler og tidsplaner
 • Hold våken mens en prosess eller app kjører
 • Fortsett å jobbe med lukket lokk mens Macen er koblet til strøm
 • Logg over hvor lenge, og hvorfor, Macen var våken
+
+Ett kjøp. Ingen abonnement. Delt med familien.
 
 PRIVAT FRA GRUNNEN AV
 Ingen konto, ingen reklame, ingen sporing. Alt blir værende på Macen.
